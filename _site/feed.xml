@@ -3,18 +3,18 @@
   <channel>
     <title>Kamila reads</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 20 Jul 2018 22:43:03 +0100</pubDate>
-    <lastBuildDate>Fri, 20 Jul 2018 22:43:03 +0100</lastBuildDate>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 20 Jul 2018 22:51:49 +0100</pubDate>
+    <lastBuildDate>Fri, 20 Jul 2018 22:51:49 +0100</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
     
       <item>
         <title>Gemina by Amie Kaufman and Jay Kristoff</title>
         <description>&lt;p&gt;Gemina, the second book in Illuminae Files trilogy, was just WOW. I literary couldn’t put it down! This time action moves from fleeing fleet to jump station Heimdall, where our main characters are Hanna Donnelly and Niklas Malikov.&lt;/p&gt; &lt;p&gt;At the beginning the book starts a little bit slow. We learn about the everyday life in the space station at the edge of the galaxy. We get to now Hanna, the daughter of the station commander with her rich girl problems and love life. We meet Niklas, her drug dealer, and small time criminal who fell in love with her completely...</description>
         <pubDate>Fri, 20 Jul 2018 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/gemina/</link>
-        <guid isPermaLink="true">http://localhost:4000/gemina/</guid>
+        <link>/gemina/</link>
+        <guid isPermaLink="true">/gemina/</guid>
         
         <category>sci-fi</category>
         
@@ -33,8 +33,8 @@
         <title>Children of Blood and Bone by Tomi Adeyemi</title>
         <description>&lt;p&gt;Children of Blood and Bone is a debut novel by Tomy Adeyemi. And what a great debut it is!&lt;/p&gt; &lt;p&gt;The book takes us to the fantasy realm of Orïsha where all magic was eradicated eleven years ago and all who wielded it were slaughter. Their children live now as the lowest social beings, humiliated and despised. The protagonist Zélie is one of the repressed, she still remembers magic but have no hope of ever retrieving it. But everything change when the princess with a good heart decides it’s time to stop the tyranny of her father. Two young girls, unlikely...</description>
         <pubDate>Fri, 13 Jul 2018 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/cobab/</link>
-        <guid isPermaLink="true">http://localhost:4000/cobab/</guid>
+        <link>/cobab/</link>
+        <guid isPermaLink="true">/cobab/</guid>
         
         <category>fantasy</category>
         
@@ -53,8 +53,8 @@
         <title>Nevernight</title>
         <description>&lt;p&gt;Nevernight written by Jay Kristoff is a book about young girl Mia, who lost her family very early due to unsuccesful revolution. Her father was hanged as a traitor, her mother and baby brother imprisoned and Mia herself bearly escaped her own death sentence. She sweared to avenge her family and make the opressors pay. To make sure she will succeed she wants to join the most deadly assassins guild in the world.&lt;/p&gt; &lt;p&gt;The story takes place in a fantastic world where the three suns shine bright and almost never set. It’s full of mythical creatures, deadly magic and hateful...</description>
         <pubDate>Wed, 11 Jul 2018 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/nevernight/</link>
-        <guid isPermaLink="true">http://localhost:4000/nevernight/</guid>
+        <link>/nevernight/</link>
+        <guid isPermaLink="true">/nevernight/</guid>
         
         <category>fantasy</category>
         
