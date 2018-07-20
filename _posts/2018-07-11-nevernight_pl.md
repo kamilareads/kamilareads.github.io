@@ -3,7 +3,13 @@ layout: post
 lang: pl
 title: Nibynoc
 permalink: /nevernight/
-quote: Nigdy się nie wzdrygaj. Nigdy się nie lękaj. I nigdy, przenigdy nie zapomnij!
+introduction: Nigdy się nie wzdrygaj. Nigdy się nie lękaj. I nigdy, przenigdy nie zapomnij!
+image: /assets/img/posty/never.jpg
+category: 'recenzja'
+tags:
+ - fantastyka
+ - recenzja książki
+ - Jay Kristoff
 ---
 Nibynoc Jay'a Kristoffa to książka o losach młodej dziewczyny Mii, która straciła rodzinę wskutek nieudanej rewolucji. Jej ojca powieszono jako zdrajcę, matkę i małego braciszka wtrącono do więzienia a ona sama cudem uniknęła śmierci. Poprzysięgła więc zemstę swoim oprawcom. Aby zrealizować swój cel zamierza dołączyć do najbardziej śmiercionośnej gildii zabójców na świecie.
 

@@ -3,7 +3,14 @@ layout: post
 lang: en
 title: Nevernight
 permalink: /nevernight/
-quote: Never flinch. Never fear. Never, ever forget!
+image: /assets/img/posty/never.jpg
+introduction: Never flinch. Never fear. Never, ever forget!
+category: 'review'
+tags:
+ - fantasy
+ - book review
+ - book recommendation
+ - Jay Kristoff
 ---
 Nevernight written by Jay Kristoff is a book about young girl Mia, who lost her family very early due to unsuccesful revolution. Her father was hanged as a traitor, her mother and baby brother imprisoned and Mia herself bearly escaped her own death sentence. She sweared to avenge her family and make the opressors pay. To make sure she will succeed she wants to join the most deadly assassins guild in the world.
 

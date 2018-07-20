@@ -23,6 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 google_analytics: UA-122220444-1
+user_description: To jest moje description.
 
 instagram_username: kamilareads
 
@@ -33,9 +34,14 @@ parallel_localization: false
 
 # Build settings
 markdown: kramdown
-theme: minima
+highlighter: rouge
+permalink: /:title/
 plugins:
-  - jekyll-feed
+  - jemoji
+
+author_trans:
+  en: Author
+  pl: Autor
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -56,3 +62,4 @@ plugins:
 #git commit -m "`date`"
 #git push origin site
 #git subtree push --prefix  _site/ origin gh-pages
+exclude: ['package.json', 'src', 'node_modules']

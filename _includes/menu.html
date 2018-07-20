@@ -1,0 +1,20 @@
+<aside id="sidebar">
+    <nav id="navigation">
+      <h2>Menu</h2>
+      <ul>
+        {%- assign pages_paths = site.pages | map: "path" -%}
+
+        {%- if pages_paths -%}
+               {%- for path in pages_paths -%}
+                 {%- assign my_page = site.pages | where: "path", path | first -%}
+                 {%- if my_page.title -%}
+                 <li>
+                    <a href="{{my_page.url | relative_url}}">{{ my_page.title | escape }}</a>
+                 </li>
+                 {%- endif -%}
+               {%- endfor -%}
+         {%- endif -%}
+        <li><a class="feed" href="{{ site.url }}{{site.baseurl}}/feed.xml" title="Atom/RSS feed">Feed</a></li>
+      </ul>
+    </nav>
+</aside>
