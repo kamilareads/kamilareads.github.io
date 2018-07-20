@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    
+        <url>
+            <loc>/404.html</loc>
+        </url>
+    
+        <url>
+            <loc>/about/</loc>
+        </url>
+    
+        <url>
+            <loc>/category/blog/</loc>
+        </url>
+    
+        <url>
+            <loc>/contact/</loc>
+        </url>
+    
+        <url>
+            <loc>/category/css/</loc>
+        </url>
+    
+        <url>
+            <loc>/category/django/</loc>
+        </url>
+    
+        <url>
+            <loc>/feed.xml</loc>
+        </url>
+    
+        <url>
+            <loc>/</loc>
+        </url>
+    
+        <url>
+            <loc>/category/life/</loc>
+        </url>
+    
+        <url>
+            <loc>/assets/main.css</loc>
+        </url>
+    
+        <url>
+            <loc>/category/mobile/</loc>
+        </url>
+    
+        <url>
+            <loc>/contact/message-sent/</loc>
+        </url>
+    
+        <url>
+            <loc>/search.json</loc>
+        </url>
+    
+        <url>
+            <loc>/sitemap.xml</loc>
+        </url>
+    
+        <url>
+            <loc>/tags/index.html</loc>
+        </url>
+    
+        <url>
+            <loc>/category/tutorial/</loc>
+        </url>
+    
+        <url>
+            <loc>/category/webdev/</loc>
+        </url>
+    
+    
+        <url>
+            <loc>/gemina/</loc>
+        </url>
+  
+        <url>
+            <loc>/cobab/</loc>
+        </url>
+  
+        <url>
+            <loc>/nevernight/</loc>
+        </url>
+  
+</urlset>

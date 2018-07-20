@@ -1,0 +1,27 @@
+[
+  
+    {
+      "title"    : "Gemina - Amie Kaufman i Jay Kristoff",
+      "tags"     : "sci-fi, recenzja książki, Jay Kristoff, and Amie Kaufman",
+      "categories" : "recenzja",
+      "url"      : "/gemina/",
+      "date"     : "07/20/2018"
+    } ,
+  
+    {
+      "title"    : "Children of Blood and Bone - Tomi Adeyemi",
+      "tags"     : "fantastyka, book review, book recommendation, and Jay Kristoff",
+      "categories" : "recenzja",
+      "url"      : "/cobab/",
+      "date"     : "07/13/2018"
+    } ,
+  
+    {
+      "title"    : "Nibynoc",
+      "tags"     : "fantastyka, recenzja książki, and Jay Kristoff",
+      "categories" : "recenzja",
+      "url"      : "/nevernight/",
+      "date"     : "07/11/2018"
+    } 
+  
+]
