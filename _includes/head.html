@@ -4,13 +4,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <title>{% if page.title %}{{ page.title }} | {{ site.username }}{% else %}{{ site.title }}{% endif %}</title>
-    <meta name="description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+    <meta name="description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description[site.active_lang] }}{% endif %}">
 
     <!-- Social: Twitter -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@{{site.twitter_username}}">
     <meta name="twitter:title" content="{% if page.title %}{{ page.title }} | {{ site.username }}{% else %}{{ site.title }}{% endif %}">
-    <meta name="twitter:description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+    <meta name="twitter:description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description[site.active_lang] }}{% endif %}">
     {% if page.image %}
     <meta property="twitter:image:src" content="{{ page.image }}">
     {% else %}
@@ -25,12 +25,12 @@
     {% else %}
     <meta property="og:image" content="{{ "/assets/img/blog-image.png" | prepend: site.baseurl | prepend: site.url }}">
     {% endif %}
-    <meta property="og:description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+    <meta property="og:description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description[site.active_lang] }}{% endif %}">
     <meta property="og:site_name" content="{{ site.title }}">
 
     <!-- Social: Google+ / Schema.org  -->
     <meta itemprop="name" content="{% if page.title %}{{ page.title }} | {{ site.username }}{% else %}{{ site.title }}{% endif %}"/>
-    <meta itemprop="description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+    <meta itemprop="description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description[site.active_lang] }}{% endif %}">
     <meta itemprop="image" content="{{ "/assets/img/blog-image.png" | prepend: site.baseurl | prepend: site.url }}"/>
 
     <!-- Favicon -->
