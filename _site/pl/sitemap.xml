@@ -71,6 +71,10 @@
     
     
         <url>
+            <loc>/memory/</loc>
+        </url>
+  
+        <url>
             <loc>/morethenagame/</loc>
         </url>
   
