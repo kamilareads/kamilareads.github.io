@@ -71,6 +71,10 @@
     
     
         <url>
+            <loc>/acofas/</loc>
+        </url>
+  
+        <url>
             <loc>/memory/</loc>
         </url>
   
