@@ -24,4 +24,4 @@ Druga rzecz, to czasami czytelnik zostawiony jest w kompletnej niewiedzy. Pod ko
 
 Niemniej, była to bardzo przyjemna lektura. Spędziłam z książką weekend i byłam na tyle zaintrygowana, że przeczytałam ją w jakieś dwa dni. Jeśli szukacie czegoś lekkiego ze szczyptą magii, to możecie wybrać Caraval.
 
-4 gwiazdki /5
+ \*\*\*\*

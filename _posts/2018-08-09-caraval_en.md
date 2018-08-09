@@ -28,4 +28,4 @@ The other thing is that the reader is sometimes left in complete darkness. Somew
 
 But it was a very pleasant and interesting read. I've spend a weekend with this book and was intrigued enough to read it quite quickly. I'm curious what the author will show us in the next book, Legend. If you want to read something light and quick with a sprinkle of magic, you can pick this one for sure!
 
- 4 stars /5
+ \*\*\*\*
