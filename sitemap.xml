@@ -71,6 +71,10 @@
     
     
         <url>
+            <loc>/obsidio/</loc>
+        </url>
+  
+        <url>
             <loc>/caraval/</loc>
         </url>
   
