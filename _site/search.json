@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "The Renegades by Marissa Meyer",
+      "tags"     : "superheroes, book review, book recommendation, and the Renegades",
+      "categories" : "review",
+      "url"      : "/renegades/",
+      "date"     : "08/28/2018"
+    } ,
+  
+    {
       "title"    : "Łzy Mai by Martyna Raduchowska",
       "tags"     : "cyberpunk, book review, book recommendation, and Łzy Mai",
       "categories" : "review",
