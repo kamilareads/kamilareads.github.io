@@ -3,18 +3,36 @@
   <channel>
     <title>Kamila reads</title>
     <description>Mam na imię Kamila i kocham książki. Jeśli nie wiesz co czytać zapraszam na bloga! Na pewno znajdziesz tu coś dla siebie!</description>
-    <link>/</link>
-    <atom:link href="/pl/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 28 Sep 2018 23:30:59 +0100</pubDate>
-    <lastBuildDate>Fri, 28 Sep 2018 23:30:59 +0100</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/pl/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 07 Oct 2018 16:48:53 +0100</pubDate>
+    <lastBuildDate>Sun, 07 Oct 2018 16:48:53 +0100</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Jinxed - Amy McCulloch</title>
+        <description>&lt;p&gt;Jinxed autorstwa Amy McCulloch to lekka historia pełna humoru i robotycznych zwierzaków. Lacey Chu jest nastolatką, która marzy o tym, by zostać kreatorem inteligentnych, zwierząt robotów (baku), które zastąpiły również tradycyjne smartphony. Pierwszym krokiem do spełnienia tego snu jest dostanie się do prestiżowej akademii Profectus. Wygląda na to, że Lacey zrobiła wszystko co w jej mocy, by swój cel zrealizować - pracowała nadzwyczaj ciężko a poza tym jest niezwykle uzdolniona w mechanicznym majsterkowaniu. Ale czy to dość, biorąc pod uwagę, że jej główny szkolny rywal, który jest synem jednego z najpotężniejszych pracowników Monca Corp, naprawdę jej nie lubi? Wszystko jednak...</description>
+        <pubDate>Sun, 07 Oct 2018 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/jinxed/</link>
+        <guid isPermaLink="true">http://localhost:4000/jinxed/</guid>
+        
+        <category>Amy McCulloch</category>
+        
+        <category>recenzja książki</category>
+        
+        <category>Jinxed</category>
+        
+        
+        <category>recenzja</category>
+        
+      </item>
     
       <item>
         <title>Szklany Tron - Sarah J Maas</title>
         <description>&lt;p&gt;Szklany Tron to pierwsza książka z serii o Celaenie Sardonthein. Po roku spędzonym jako niewolnica w kopalniach soli zabójczyni dostaje propozycję nie do odrzucenia: walczyć w turnieju aby wygrać tytuł królewskiego zabójcy, a po czterech latach służby, wolność.&lt;/p&gt; &lt;p&gt;Książka jest lekka i praktycznie czyta się sama. Ale znów mamy dumną, pewną siebie Celaenę, która nawet po roku życia w niewolnictwie wciąż uważa siebie za ósmy cud świata i oczekuje, że wszyscy będą jej trwożnie padać do stóp. Najgorszą mękę sprawia jej to, że musi używać fałszywego imienia i nie może wygrywać każdego, najprostszego testu. Czasami było to bardzo irytujące, ale...</description>
         <pubDate>Fri, 28 Sep 2018 00:00:00 +0100</pubDate>
-        <link>/throneofglass/</link>
-        <guid isPermaLink="true">/throneofglass/</guid>
+        <link>http://localhost:4000/throneofglass/</link>
+        <guid isPermaLink="true">http://localhost:4000/throneofglass/</guid>
         
         <category>Sarah J Maas</category>
         
@@ -31,8 +49,8 @@
         <title>Okrutny Książę - Holly Black</title>
         <description>&lt;p&gt;Okrutny Książę autorstwa Holly Black to opowieść o młodej dziewczynie, która została zmuszona do życia wśród pięknych i okrutnych elfów w ich magicznym świecie Elysium. Brzmi znajomo? Owszem, ja też byłam sceptyczna i nie byłam pewna, czy chcę tę książkę przeczytać. Myślałam, że to kolejna wersja Dworów, a tytuł sugerował, że główny wątek to romans. Ale nie mogłam się bardziej mylić! Cieszę się, że zdecydowałam się jednak dać tej książce szansę, bo to zupełnie inna opowieść!&lt;/p&gt; &lt;p&gt;Główną bohaterką jest Jude, której rodzice zostali zamordowani, gdy była małą dziewczynką, a ona wraz z siostrami została zabrana przez elfowego generała by żyć...</description>
         <pubDate>Tue, 18 Sep 2018 00:00:00 +0100</pubDate>
-        <link>/cruelprince/</link>
-        <guid isPermaLink="true">/cruelprince/</guid>
+        <link>http://localhost:4000/cruelprince/</link>
+        <guid isPermaLink="true">http://localhost:4000/cruelprince/</guid>
         
         <category>Holly Black</category>
         
@@ -49,8 +67,8 @@
         <title>Metro 2034 - Dmitry Glukhovsky</title>
         <description>&lt;p&gt;Metro 2034 napisana przez Dmitra Glukhovsky to post-apokaliptyczna opowieść o ludziach, którzy przeżyli wojnę atomową i obecnie żyją zamknięci w moskiewskim metrze. Nie mogą wyjść na powierzchnie, gdyż jest ona zanieczyszczona odpadami radioaktywnymi i teraz rządzą tam zmutowane potwory prosto z najgorszych koszmarów. To kolejna część bardzo popularnego Metra 2033. Pierwszą książkę pokochałam z tym oryginalnym i ciekawym światem i z drżącym sercem towarzyszyłam Artemowi w jego przygodach. Niestety druga część mnie nie zachwyciła.&lt;/p&gt; &lt;p&gt;Sama historia jest znacznie mniej interesująca. Niespodziewanie wszelki kontakt urywa się z sąsiadującą stacją Sewastopolskiej (jedynym połączeniem z resztą metra). Karawana która miała wrócić kilka dni...</description>
         <pubDate>Fri, 14 Sep 2018 00:00:00 +0100</pubDate>
-        <link>/metro2034/</link>
-        <guid isPermaLink="true">/metro2034/</guid>
+        <link>http://localhost:4000/metro2034/</link>
+        <guid isPermaLink="true">http://localhost:4000/metro2034/</guid>
         
         <category>powieść post-apokaliptyczna</category>
         
@@ -67,8 +85,8 @@
         <title>The Lost Witch - Melvin Burgess</title>
         <description>&lt;p&gt;The Lost Witch autorstwa Melvina Burgess’a to książka o wiedźmach osadzona w realiach dnia dzisiejszego. Byłam bardzo podekscytowana tą książką, bo zawsze fascynowały mnie opowieści o czarownicach i byłam ciekawa jaką historią uraczy nas autor. Muszę powiedzieć, że ta książka jest naprawdę dziwaczna.&lt;/p&gt; &lt;p&gt;Po pierwsze okładka, która jest bardzo ładna, jest strasznie myląca. Mamy tu młodą kobietę, podczas gdy bohaterka, Bea, ma na początku książki trzynaście lat (ale to akurat wina wydawcy, autor wspominał, że również niespecjalnie podoba mu się okładka). Bardzo ciężko było mi przebić się przez pierwszą scenę, gdyż akcja była tak dziwaczna, że co chwilę musiałam czytać...</description>
         <pubDate>Thu, 06 Sep 2018 00:00:00 +0100</pubDate>
-        <link>/thelostwitch/</link>
-        <guid isPermaLink="true">/thelostwitch/</guid>
+        <link>http://localhost:4000/thelostwitch/</link>
+        <guid isPermaLink="true">http://localhost:4000/thelostwitch/</guid>
         
         <category>fantasy</category>
         
@@ -85,8 +103,8 @@
         <title>Zabójczyni - Sarah J. Maas</title>
         <description>&lt;p&gt;Zabójczyni autorstwa Sarah J. Maas to zbiór pięciu opowiadań, których akcja dzieje się przed wydarzeniami ze Szklanego Tronu. Właśnie od tej książki postanowiłam zacząć swoją przygodę z tą serią, bo lubię czytać opowieści chronologicznie.&lt;/p&gt; &lt;p&gt;Muszę przyznać, że to naprawdę dobra książka. To, że składa się z osobnych opowiadań, wcale nie przeszkadza w odbiorze całej historii, łączą się one w spójną opowieść. Wszystkie były pełne akcji i na tyle ciekawe, że ciężko było książkę odłożyć. Chętnie przeczytałabym ją jednym ciągiem.&lt;/p&gt; &lt;p&gt;Główną postacią jest Celaena Sardothein, najskuteczniejsza zabójczyni w królestwie Adarlan i protegowana samego Arobynna Hamela, głowy Gildii Zabójców. A gdy ją...</description>
         <pubDate>Tue, 04 Sep 2018 00:00:00 +0100</pubDate>
-        <link>/assassinsblade/</link>
-        <guid isPermaLink="true">/assassinsblade/</guid>
+        <link>http://localhost:4000/assassinsblade/</link>
+        <guid isPermaLink="true">http://localhost:4000/assassinsblade/</guid>
         
         <category>fantasy</category>
         
@@ -103,8 +121,8 @@
         <title>The Renegades - Marissa Meyer</title>
         <description>&lt;p&gt;The Renegades autorstwa Marissy Meyer to książka o superbohaterach i złoczyńcach, ludziach obdarzonych niezwykłymi umiejętnościami i mocami. To brzmiało dokładnie jak książka dla mnie. Uwielbiam komiksy i filmy zarówno DC i Marvela, więc wszystko co zawiera w sobie super moce od razu jest na moim radarze.&lt;/p&gt; &lt;p&gt;A potem okazało się, że jednak nie jest to super książka. Zacznijmy od tego, że jest naprawdę duża, liczy sobie około 550 stron. Nie mam nic przeciwko dużym książkom, ale pod warunkiem, że historia jest ciekawa i wciągająca.&lt;/p&gt; &lt;p&gt;Jednym z głównych bohaterów jest Nova, której rodzinę zamordowano, gdy była dzieckiem i od tej pory...</description>
         <pubDate>Tue, 28 Aug 2018 00:00:00 +0100</pubDate>
-        <link>/renegades/</link>
-        <guid isPermaLink="true">/renegades/</guid>
+        <link>http://localhost:4000/renegades/</link>
+        <guid isPermaLink="true">http://localhost:4000/renegades/</guid>
         
         <category>superbohater</category>
         
@@ -121,8 +139,8 @@
         <title>Łzy Mai - Martyna Raduchowska</title>
         <description>&lt;p&gt;Łzy Mai Martyny Raduchowskiej to książka w klimacie cyberpunkowym. Akcja dzieje się w mieście New Horizon, które tętni życiem i zaawansowaną technologią. Spotkamy tu maszyny, które przejęły większość prostych, manualnych prac wykonywanych przez ludzi. Ponadto mamy tu również androidy, maszyny do złudzenia przypominające ludzi, którzy z kolei również w pełni korzystają z dobrodziejstw technologii poprzez wszczepy domózgowe, cybernetyczne kończyny czy inne skomplikowane augmentacje. Brzmi świetnie? Owszem, jednak szybko okazuje się, że to wcale nie jest taka sielanka, jak mogłoby się wydawać.&lt;/p&gt; &lt;p&gt;Już na początku książki trafiamy w sam środek akcji. Porucznik Jared Quinn znalazł się w samym środku zamachu na...</description>
         <pubDate>Fri, 17 Aug 2018 00:00:00 +0100</pubDate>
-        <link>/lzymai/</link>
-        <guid isPermaLink="true">/lzymai/</guid>
+        <link>http://localhost:4000/lzymai/</link>
+        <guid isPermaLink="true">http://localhost:4000/lzymai/</guid>
         
         <category>cyberpunk</category>
         
@@ -139,8 +157,8 @@
         <title>Obsidio - Amie Kaufman - Jay Kristoff</title>
         <description>&lt;p&gt;Obsidio autorstwa Amie Kaufman i Jay’a Kristoffa to ostatnia część trylogii Illuminae. Po pierwszych dwóch książkach byłam zachwycona i nie mogłam się doczekać zakończenia tej epickiej opowieści. Poprzeczka więc została podniesiona bardzo wysoko. Czy Obsidio jest satysfakcjonującym zakończeniem serii?&lt;/p&gt; &lt;p&gt;Ta część cyklu jest nieco inna. Ponownie zostaje nam przedstawiona dwójka nowych, głównych bohaterów (i wiele więcej istotnych postaci pobocznych), podczas gdy historia zbliża się do nieuchronnego końca. Z tego powodu Asha i Rhys to najmniej lubiani przeze mnie protagoniści, nie dlatego, że nie są dobrze wykreowani, ale ponieważ ich historia nie miała dość czasu by rozwinąć się tak jak w...</description>
         <pubDate>Mon, 13 Aug 2018 00:00:00 +0100</pubDate>
-        <link>/obsidio/</link>
-        <guid isPermaLink="true">/obsidio/</guid>
+        <link>http://localhost:4000/obsidio/</link>
+        <guid isPermaLink="true">http://localhost:4000/obsidio/</guid>
         
         <category>sci-fi</category>
         
@@ -157,8 +175,8 @@
         <title>Caraval - Stephanie Garber</title>
         <description>&lt;p&gt;Caraval autorstwa Stephanie Garber to książka o dwóch siostrach, które ponad wszystko pragną uciec od swego okrutnego ojca i w tym celu rzucają się w wir niebezpiecznej gry jaką jest Caraval. Słyszały o niej opowieści i legendy w dzieciństwie, więc marzyły o tym, by zobaczyć go na własne oczy. Do tego nagrodą dla tegorocznego zwycięzcy będzie spełnienie jednego życzenia. Co może pójść nie tak?&lt;/p&gt; &lt;p&gt;Słyszałam dużo sprzecznych opinii na temat tej książki, więc oczywiście postanowiłam sama się przekonać o czym mowa! Muszę przyznać, że książka przypomina mi nieco przygody Alicji w Krainie Czarów. Kiedy nasze bohaterki przybywają do Caravalu wszystko...</description>
         <pubDate>Thu, 09 Aug 2018 00:00:00 +0100</pubDate>
-        <link>/caraval/</link>
-        <guid isPermaLink="true">/caraval/</guid>
+        <link>http://localhost:4000/caraval/</link>
+        <guid isPermaLink="true">http://localhost:4000/caraval/</guid>
         
         <category>fantastyka</category>
         
@@ -175,8 +193,8 @@
         <title>A Court of Frost and Starlight - S. J. Maas</title>
         <description>&lt;p&gt;A Court of Frost and Starlight to krótka opowieść mająca miejsce po zakończeniu Dworu Skrzydeł i Zguby. Książka ta wzbudziła mnóstwo mieszanych uczuć wśród czytelników. Oddani fani S. J. Maas bezdyskusyjne ją pokochali, natomiast wielu czytelników poczuło się rozczarowanych. Więc pozwólcie mi, że sprecyzuję: to nie jest pełnoprawna część serii, tak jak poprzednia książka. To bardziej dodatkowe kilkanaście rozdziałów z bohaterami, swego rodzaju prezent dla fanów, żeby nie tęsknili zbytnio za nimi podczas oczekiwania na kolejną książkę. Z takim też nastawieniem ja zabrałam się do czytania.&lt;/p&gt; &lt;p&gt;Spotykamy ponownie naszych ulubionych bohaterów na kilka dni przed Zimowym Przesileniem, gdzie stawiają czoło...</description>
         <pubDate>Mon, 06 Aug 2018 00:00:00 +0100</pubDate>
-        <link>/acofas/</link>
-        <guid isPermaLink="true">/acofas/</guid>
+        <link>http://localhost:4000/acofas/</link>
+        <guid isPermaLink="true">http://localhost:4000/acofas/</guid>
         
         <category>fantastyka</category>
         
@@ -193,8 +211,8 @@
         <title>Pamięć Ziemi - Orson Scott Card</title>
         <description>&lt;p&gt;Pamięć Ziemi autorstwa Orsona Scott Carda to historia osadzona miliony lat w przyszłości na odległej planecie Harmonia. Naddusza, super komputer, został zaprogramowany aby czuwać nad planetą i jej mieszkańcami oraz chronić ich - szczególnie przed nimi samymi. Ale po 40 milionach lat jego systemy przestają działać i zaczyna tracić kontrolę, pozwalając ludziom na odkrycia, które mogą ponownie doprowadzić do ich zagłady.&lt;/p&gt; &lt;p&gt;Spotykamy tu mieszkańców Bazyliki, społeczeństwo pełne sprzeczności. Posiadają oni wiele zaawansowanych technologii, takich jak lewitery, pozwalające niepełnosprawnym poruszać się samodzielnie, pola magnetyczne, ogromne bazy danych i tym podobne. A jednocześnie wciąż są bardzo prymitywni. Nie znają nawet wozów z...</description>
         <pubDate>Fri, 03 Aug 2018 00:00:00 +0100</pubDate>
-        <link>/memory/</link>
-        <guid isPermaLink="true">/memory/</guid>
+        <link>http://localhost:4000/memory/</link>
+        <guid isPermaLink="true">http://localhost:4000/memory/</guid>
         
         <category>sci-fi</category>
         
@@ -211,8 +229,8 @@
         <title>More Then a Game - Andrey Vasilyev</title>
         <description>&lt;p&gt;More Then a Game jest książką autorstwa Andrey Vasilyeva i pierwszym tomem serii Fayroll. Należy ona do gatunku LitRPG, który jest kombinacją gier online oraz fantastyki/sci-fi. Była to moja pierwsza książka tego rodzaju (nie licząc Player One) i bardzo przyjemnie mi się ją czytało.&lt;/p&gt; &lt;p&gt;Głównym bohaterem jest Harriton Nikiforov, dziennikarz, który dostaje zadanie napisania artykułu na temat zaskakująco popularnej gry Fayroll. I nie jest to zwyczajna gra. Protagonista dostaje zaawansowany technicznie sprzęt, który pozwala mu na całkowite przeniesienie się w wirtualny świat gry. Jak można się spodziewać, to co było tylko pracą do wykonania szybko zmienia się pasjonującą przygodę.&lt;/p&gt; &lt;p&gt;Towarzyszymy...</description>
         <pubDate>Thu, 26 Jul 2018 00:00:00 +0100</pubDate>
-        <link>/morethenagame/</link>
-        <guid isPermaLink="true">/morethenagame/</guid>
+        <link>http://localhost:4000/morethenagame/</link>
+        <guid isPermaLink="true">http://localhost:4000/morethenagame/</guid>
         
         <category>LitRPG</category>
         
@@ -229,8 +247,8 @@
         <title>Długa Wojna - Sir T. Pratchett, S. Baxter</title>
         <description>&lt;p&gt;Długa Wojna to druga część cyklu autorstwa sir Terrego Pratchetta i Stephena Baxtera. Akcja książki rozgrywa się kilkanaście lat po wydarzeniach pierwszej części. Joshua jest teraz mężczyzną w średnim wieku, ma rodzinę i osiedlił się w jednej z dalekich kolonii. Odwiedzanie nieskończonych światów stało się codziennością a ludzie zajęci są kolonizowaniem coraz to odleglejszych miejsc.&lt;/p&gt; &lt;p&gt;Książka zaczyna się bardzo dosadną sceną, gdzie widzimy okrucieństwo ludzi eksperymentujących na bezbronnych trollach. Zarówno po tym początku jak i po tytule oczekiwałam jakichś poważnych konfliktów i zapierającej dech akcji, jednak, niestety, ponownie zostałam rozczarowana.&lt;/p&gt; &lt;p&gt;Po pierwszych wydarzeniach ponownie wracamy do żółwiego tempa akcji, mnóstwa...</description>
         <pubDate>Mon, 23 Jul 2018 00:00:00 +0100</pubDate>
-        <link>/thelongwar/</link>
-        <guid isPermaLink="true">/thelongwar/</guid>
+        <link>http://localhost:4000/thelongwar/</link>
+        <guid isPermaLink="true">http://localhost:4000/thelongwar/</guid>
         
         <category>sci-fi</category>
         
@@ -247,8 +265,8 @@
         <title>Gemina - Amie Kaufman i Jay Kristoff</title>
         <description>&lt;p&gt;Gemina, czyli druga część trylogii Illuminae jest po prostu - WOW! Dosłownie nie mogłam się od niej oderwać! Tym razem akcja przenosi się z uciekającej floty na międzygalaktyczną stację kosmiczną Heimdall a głównymi bohaterami są Hanna Donnelly i Niklas Malikov.&lt;/p&gt; &lt;p&gt;Pocztąkowo książka zaczyna się powoli. Śledzimy realia życia na stacji kosmicznej na obrzeżach galaktyki. Poznajemy Hannę, córkę dowódcy stacji, typową bogatą i uprzywilejowaną dziewczynę z kwitnącym życiem uczuciowym oraz Niklasa, jej dealera i drobnego kryminalistę, który jest w niej kompletnie i beznadziejnie zakochany. Wszyscy na stacji są podekscytowani nadchodzącym świętem (Terra Day) i nie mogę się doczekać przepustki, by wrócić...</description>
         <pubDate>Fri, 20 Jul 2018 00:00:00 +0100</pubDate>
-        <link>/gemina/</link>
-        <guid isPermaLink="true">/gemina/</guid>
+        <link>http://localhost:4000/gemina/</link>
+        <guid isPermaLink="true">http://localhost:4000/gemina/</guid>
         
         <category>sci-fi</category>
         
@@ -267,8 +285,8 @@
         <title>Children of Blood and Bone - Tomi Adeyemi</title>
         <description>&lt;p&gt;Children of Blood and Bone to debiutancka powieść autorki Tomi Adeyemi i cóż to za wspaniały debiut!&lt;/p&gt; &lt;p&gt;Książka zabiera nas do fantastycznej krainy zwanej Orïsha, gdzie cała magia została wykorzeniona przed jedenastu laty a wszyscy jej użytkownicy brutalnie wymordowani. Ich dzieci żyją teraz jako wyrzutki w społeczeństwie, w którym są pogardzani i upokarzani na każdym kroku. Główna bohaterka Zélie wciąż pamięta czym jest magia, lecz nie dane jej będzie nigdy ponownie jej użyć ani zobaczyć. Jednak wszystko zmienia się, gdy księżniczka o dobrym sercu postanawia zakończyć tyranię swego ojca. Dwójka młodych kobiet, różnych jak noc i dzień, łączy swoje siły...</description>
         <pubDate>Fri, 13 Jul 2018 00:00:00 +0100</pubDate>
-        <link>/cobab/</link>
-        <guid isPermaLink="true">/cobab/</guid>
+        <link>http://localhost:4000/cobab/</link>
+        <guid isPermaLink="true">http://localhost:4000/cobab/</guid>
         
         <category>fantastyka</category>
         
@@ -287,8 +305,8 @@
         <title>Nibynoc</title>
         <description>&lt;p&gt;Nibynoc Jay’a Kristoffa to książka o losach młodej dziewczyny Mii, która straciła rodzinę wskutek nieudanej rewolucji. Jej ojca powieszono jako zdrajcę, matkę i małego braciszka wtrącono do więzienia a ona sama cudem uniknęła śmierci. Poprzysięgła więc zemstę swoim oprawcom. Aby zrealizować swój cel zamierza dołączyć do najbardziej śmiercionośnej gildii zabójców na świecie.&lt;/p&gt; &lt;p&gt;Opowieść ma miejsce w świecie, gdzie na niebie świecą trzy słońca, które prawie nigdy nie zachodzą. Jest on pełen mitycznych bestii, śmiercionośnej magii i nienawistnych bogów. Niezmiernie podobało mi się odkrywanie tego świata, natomiast nie do końca podeszła mi forma jaką autor wybrał. Większość informacji na temat uniwersum...</description>
         <pubDate>Wed, 11 Jul 2018 00:00:00 +0100</pubDate>
-        <link>/nevernight/</link>
-        <guid isPermaLink="true">/nevernight/</guid>
+        <link>http://localhost:4000/nevernight/</link>
+        <guid isPermaLink="true">http://localhost:4000/nevernight/</guid>
         
         <category>fantastyka</category>
         
