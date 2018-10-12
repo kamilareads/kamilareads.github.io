@@ -6,7 +6,6 @@
         {% include svg-icons.html %}
         {% include header.html %}
         <section class="post">
-
             <article role="article" id="post" class="post-content" itemprop="articleBody">
                 <p itemprop="post-info" class="post-info">
                     {% if page.date %}
@@ -24,6 +23,34 @@
                 {% if page.image %}
                     <p><img src="{{ page.image }}" class="post-cover"></p>
                 {% endif %}
+
+                <dl class="book-info">
+                  {% if page.title %}
+                    <dt>{{ site.title_trans[site.active_lang] }}</dt>
+                    <dd>{{ page.title}}</dd>
+                  {% endif %}
+
+                  {% if page.author %}
+                    <dt>{{site.author_trans[site.active_lang] }}</dt>
+                    <dd>{{ page.author}}</dd>
+                  {% endif %}
+
+                  {% if page.releaseDate %}
+                    <dt>{{site.releaseDate_trans[site.active_lang]}}</dt>
+                    <dd>{{ page.releaseDate}}</dd>
+                  {% endif %}
+
+                  {% if page.pages %}
+                    <dt>{{site.pages_trans[site.active_lang]}}</dt>
+                    <dd>{{ page.pages}}</dd>
+                  {% endif %}
+
+                  {% if page.publisher %}
+                    <dt>{{site.publisher_trans[site.active_lang]}}</dt>
+                    <dd>{{ page.publisher}}</dd>
+                  {% endif %}
+                </dl>
+
 
                 {{ content }}
             </article>

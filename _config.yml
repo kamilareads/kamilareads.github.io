@@ -48,6 +48,18 @@ plugins:
 author_trans:
   en: Author
   pl: Autor
+title_trans:
+  en: Title
+  pl: Tytuł
+releaseDate_trans:
+  pl: Data premiery
+  en: Published date
+pages_trans:
+  pl: Liczba stron
+  en: Pages
+publisher_trans:
+  pl: Wydawnictwo
+  en: Publisher
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

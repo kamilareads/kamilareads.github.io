@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Stormdancer",
+      "tags"     : "stormdancer, book review, book recommendation, and Jay Kristoff",
+      "categories" : "review",
+      "url"      : "/stormdancer/",
+      "date"     : "10/12/2018"
+    } ,
+  
+    {
       "title"    : "Jinxed by Amy McCulloch",
       "tags"     : "jinxed, book review, book recommendation, and Amy McCulloch",
       "categories" : "review",

@@ -1,3 +1,6 @@
+.post-content p {
+  text-align: justify; }
+
 /**
  * Reset some basic elements
  */
@@ -503,3 +506,6 @@ table {
 .quote {
   background-color: lightgrey;
   text-align: center; }
+
+.post-content p {
+  text-align: justify; }

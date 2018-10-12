@@ -43,6 +43,12 @@ $on-laptop:        800px !default;
   font-size: $base-font-size * $ratio;
 }
 
+.post-content {
+  p {
+   text-align: justify;
+ }
+}
+
 // Import partials.
 @import
   "minima/base",

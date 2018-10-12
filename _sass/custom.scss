@@ -6,3 +6,9 @@ $quote-color: lightgrey;
   background-color: $quote-color;
   text-align: center;
 }
+
+.post-content {
+  p {
+   text-align: justify;
+ }
+}
