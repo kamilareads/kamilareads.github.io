@@ -3,8 +3,8 @@ layout: post
 lang: en
 title: Stormdancer
 author: Jay Kristoff
-releaseDate: 30/08/2018
-pages: 500
+releaseDate: 05/06/2013
+pages: 480
 publisher: Uroboros
 permalink: /stormdancer/
 image: /assets/img/posty/stormdancer.jpg
