@@ -71,6 +71,10 @@
     
     
         <url>
+            <loc>/spektrum/</loc>
+        </url>
+  
+        <url>
             <loc>/stormdancer/</loc>
         </url>
   
