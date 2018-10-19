@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Spektrum",
+      "tags"     : "Martyna Raduchowska, recenzja książki, and Spektrum",
+      "categories" : "recenzja",
+      "url"      : "/spektrum/",
+      "date"     : "10/18/2018"
+    } ,
+  
+    {
       "title"    : "Tancerze Burzy",
       "tags"     : "Jay Kristoff, recenzja książki, and Tancerze Burzy",
       "categories" : "recenzja",

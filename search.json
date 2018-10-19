@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Spektrum",
+      "tags"     : "spektrum, book review, book recommendation, and Martyna Raduchowska",
+      "categories" : "review",
+      "url"      : "/spektrum/",
+      "date"     : "10/18/2018"
+    } ,
+  
+    {
       "title"    : "Stormdancer",
       "tags"     : "stormdancer, book review, book recommendation, and Jay Kristoff",
       "categories" : "review",
