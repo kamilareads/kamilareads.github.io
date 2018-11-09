@@ -5,9 +5,29 @@
     <description>I'm Kamila and I love books! If you looking for book recommendations you can check out my blog and see what I'm reading!</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 07 Nov 2018 00:10:40 +0000</pubDate>
-    <lastBuildDate>Wed, 07 Nov 2018 00:10:40 +0000</lastBuildDate>
+    <pubDate>Fri, 09 Nov 2018 09:26:22 +0000</pubDate>
+    <lastBuildDate>Fri, 09 Nov 2018 09:26:22 +0000</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Ana</title>
+        <description>&lt;p&gt;Ana by Roberto Santiago is part contemporary and part crime story. Ana Tramel is a very talented lawyer, but many years ago she promised herself that she won’t go back to the court. Everything changes when unexpectedly she gets a call from her brother who, after years of silence, tells her that he is a main suspect in a murder case. It won’t be an easy case, because the victim is a manager of the casino, where Alejandro played poker and owes hundred thousands of euros. Ana sues the biggest gambling company in the country without any real assets or...</description>
+        <pubDate>Thu, 08 Nov 2018 00:00:00 +0000</pubDate>
+        <link>/ana/</link>
+        <guid isPermaLink="true">/ana/</guid>
+        
+        <category>ana</category>
+        
+        <category>book review</category>
+        
+        <category>book recommendation</category>
+        
+        <category>Roberto Santiago</category>
+        
+        
+        <category>review</category>
+        
+      </item>
     
       <item>
         <title>Shadow and Bone</title>
