@@ -25,5 +25,6 @@ tags:
 
   Zakochałam się w tej opowieści i w tym jak umiejętnie autor nam ją opowiada. Jest pełna akcji, uczuć i dramatów. Było wiele momentów, gdzie rozwój wypadków mnie zszokował. Bohaterowie są tak wykreowani, że łatwo się do nich przywiązać, i odczuwać wraz z nimi trudy życia w Shimie. Jay Kristoff powoli staje się dla mnie jednym z tych autorów, których książki mogę kupować w ciemno. Wszystkie, które do tej pory czytałam bardzo mi się podobały. Jeśli lubicie epicką fantastykę czeka Was nie lada gratka. Już nie mogę się doczekać aż poznam zakończenie tej historii!
 
-
+  Dziękuje wydawnictwu Uroboros za egzemplarz książki!
+  
  \*\*\*\*
