@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Heir to the Empire",
+      "tags"     : "Heir to the Empire, book review, Star Wars, and Timothy Zahn",
+      "categories" : "review",
+      "url"      : "/heirtotheempire/",
+      "date"     : "01/05/2019"
+    } ,
+  
+    {
       "title"    : "Skyward",
       "tags"     : "Skyward, book review, book recommendation, and Brandon Sanderson",
       "categories" : "review",
