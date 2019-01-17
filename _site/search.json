@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Pierwsze Słowo",
+      "tags"     : "Pierwsze Słowo, book review, anthology, and Marta Kisiel",
+      "categories" : "review",
+      "url"      : "/pierwszeslowo/",
+      "date"     : "01/16/2019"
+    } ,
+  
+    {
       "title"    : "First Year",
       "tags"     : "First Year, book review, The Black Mage, and Rachel E. Carter",
       "categories" : "review",
