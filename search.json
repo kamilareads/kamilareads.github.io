@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Legion",
+      "tags"     : "Brandon Sanderson, book review, Legion, and thriller",
+      "categories" : "review",
+      "url"      : "/legion/",
+      "date"     : "01/29/2019"
+    } ,
+  
+    {
       "title"    : "It Ends with Us",
       "tags"     : "Colleen Hoover, book review, It Ends with Us, and contemporary",
       "categories" : "review",

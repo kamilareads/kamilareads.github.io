@@ -5,9 +5,29 @@
     <description>I'm Kamila and I love books! If you looking for book recommendations you can check out my blog and see what I'm reading!</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 21 Jan 2019 21:24:25 +0000</pubDate>
-    <lastBuildDate>Mon, 21 Jan 2019 21:24:25 +0000</lastBuildDate>
+    <pubDate>Tue, 29 Jan 2019 23:20:44 +0000</pubDate>
+    <lastBuildDate>Tue, 29 Jan 2019 23:20:44 +0000</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Legion</title>
+        <description>&lt;p&gt;Legion: The Many Lives of Stephen Leeds by Brandon Sanderson is an anthology of three short novellas about a genius Stephen Leeds. To deal with his extraordinary mind he is creating a hallucinations, aspects as he calls them, of the experts in differences fields who help him deal with all kind of situations. He works as a detective and only takes the cases that interests him, which also are not ordinary.&lt;/p&gt; &lt;p&gt;I really enjoyed this book, although it won’t be my favourite from this author. I do prefer the complex stories full of details and many different story threads. But...</description>
+        <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+        <link>/legion/</link>
+        <guid isPermaLink="true">/legion/</guid>
+        
+        <category>Brandon Sanderson</category>
+        
+        <category>book review</category>
+        
+        <category>Legion</category>
+        
+        <category>thriller</category>
+        
+        
+        <category>review</category>
+        
+      </item>
     
       <item>
         <title>It Ends with Us</title>
@@ -583,26 +603,6 @@
         <category>book recommendation</category>
         
         <category>Orson Scott Card</category>
-        
-        
-        <category>review</category>
-        
-      </item>
-    
-      <item>
-        <title>More Then a Game by Andrey Vasilyev</title>
-        <description>&lt;p&gt;More Then a Game by Andrey Vasilyev is the first book in Fayroll series. It’s the literary genre called LitRPG short for Literary Role Playing Game which is basically combination of online gaming and fantasy/sci-fi fiction. It was my first opportunity to discover this genre (not counting Ready Player One) and a very pleasant one.&lt;/p&gt; &lt;p&gt;The main character Harriton Nikiforov is a journalist who has got a story to write about new, amazingly popular Virtual Gaming World of Fayroll. And it’s not just a normal computer game. He’d got some high tech equipment which enables him to immerse completely to...</description>
-        <pubDate>Thu, 26 Jul 2018 00:00:00 +0100</pubDate>
-        <link>/morethenagame/</link>
-        <guid isPermaLink="true">/morethenagame/</guid>
-        
-        <category>LitRPG</category>
-        
-        <category>book review</category>
-        
-        <category>book recommendation</category>
-        
-        <category>Fayroll</category>
         
         
         <category>review</category>
