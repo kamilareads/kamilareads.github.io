@@ -32,4 +32,4 @@ tags:
 
   Dziękuję Wydawnictwu Uroboros za egzemplarz do recenzji.
 
-    \*\*\*
+  \*\*\*
