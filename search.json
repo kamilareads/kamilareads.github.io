@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Pet Sematary",
+      "tags"     : "Stephen King, book review, Pet Sematary, and horror",
+      "categories" : "review",
+      "url"      : "/petsematary/",
+      "date"     : "02/06/2019"
+    } ,
+  
+    {
       "title"    : "Apprentice",
       "tags"     : "Rachel E. Carter, book review, Apprentice, and The Black Mage",
       "categories" : "review",
