@@ -5,9 +5,29 @@
     <description>I'm Kamila and I love books! If you looking for book recommendations you can check out my blog and see what I'm reading!</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 08 Feb 2019 00:05:30 +0000</pubDate>
-    <lastBuildDate>Fri, 08 Feb 2019 00:05:30 +0000</lastBuildDate>
+    <pubDate>Fri, 15 Feb 2019 00:27:37 +0000</pubDate>
+    <lastBuildDate>Fri, 15 Feb 2019 00:27:37 +0000</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>The Gutter Prayer</title>
+        <description>&lt;p&gt;The Gutter Prayer is a debut novel by Gareth Ryder-Hanrahan. It is a dark fantasy story based in a city of Guerdon. In the world torn apart by Godswar, where gods and their chosen saints are destructing and killing all on their way, Guerdon is a neutral, peaceful oasis. But not get deceived that it is safe. It’s full of strange creatures lurking in the dark, as well as monsters walking on the streets as bodyguards. And if you’re not careful and you break the law you may as well be turned to one of them.&lt;/p&gt; &lt;p&gt;The story begins with...</description>
+        <pubDate>Thu, 14 Feb 2019 00:00:00 +0000</pubDate>
+        <link>/thegutterprayer/</link>
+        <guid isPermaLink="true">/thegutterprayer/</guid>
+        
+        <category>The Gutter Prayer</category>
+        
+        <category>book review</category>
+        
+        <category>Gareth Ryder-Hanrahan</category>
+        
+        <category>dark fantasy</category>
+        
+        
+        <category>review</category>
+        
+      </item>
     
       <item>
         <title>Pet Sematary</title>
@@ -583,26 +603,6 @@
         <category>book recommendation</category>
         
         <category>Łzy Mai</category>
-        
-        
-        <category>review</category>
-        
-      </item>
-    
-      <item>
-        <title>Obsidio by Amie Kaufman and Jay Kristoff</title>
-        <description>&lt;p&gt;Obsidio by Amie Kaufman and Jeff Kristoff is the final book of the Illuminae Files trilogy. After first two books I was completely swept away and couldn’t believe how good they were. So the bar was set very high for it to deliver an equal satisfying ending to this epic space journey. Has it succeeded?&lt;/p&gt; &lt;p&gt;This part of the story is slightly different. We are again introduced with two more main characters (and lots of secondary ones) while the story is coming to an inevitable end. Because of that I feel like Asha and Rhys are my least favourite characters,...</description>
-        <pubDate>Mon, 13 Aug 2018 00:00:00 +0100</pubDate>
-        <link>/obsidio/</link>
-        <guid isPermaLink="true">/obsidio/</guid>
-        
-        <category>sci-fi</category>
-        
-        <category>book review</category>
-        
-        <category>book recommendation</category>
-        
-        <category>Obsidio</category>
         
         
         <category>review</category>
