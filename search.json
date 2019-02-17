@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Star Wars Last Shot",
+      "tags"     : "Star Wars Last Shot, book review, Daniel José Older, and Star Wars",
+      "categories" : "review",
+      "url"      : "/lastshot/",
+      "date"     : "02/16/2019"
+    } ,
+  
+    {
       "title"    : "The Gutter Prayer",
       "tags"     : "The Gutter Prayer, book review, Gareth Ryder-Hanrahan, and dark fantasy",
       "categories" : "review",
