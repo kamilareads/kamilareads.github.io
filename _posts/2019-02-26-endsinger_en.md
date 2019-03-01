@@ -2,7 +2,7 @@
 layout: post
 lang: en
 title: Endsinger
-author: jay Kristoff
+author: Jay Kristoff
 releaseDate: 06/06/2018
 pages: 683
 publisher: Uroboros

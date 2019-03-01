@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Oczy Uroczne",
+      "tags"     : "Oczy Uroczne, book review, Marta Kisiel, and Dożywocie",
+      "categories" : "review",
+      "url"      : "/oczyuroczne/",
+      "date"     : "02/28/2019"
+    } ,
+  
+    {
       "title"    : "Endsinger",
       "tags"     : "Endsinger, book review, Jay Kristoff, and the Lotus Wars",
       "categories" : "review",
