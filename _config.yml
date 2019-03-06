@@ -61,6 +61,43 @@ publisher_trans:
   pl: Wydawnictwo
   en: Publisher
 
+january_trans:
+  en: January
+  pl: stycznia
+february_trans:
+  en: February
+  pl: lutego
+march_trans:
+  en: March
+  pl: marca
+april_trans:
+  en: April
+  pl: kwietnia
+may_trans:
+  en: May
+  pl: maja
+june_trans:
+  en: June
+  pl: czerwca
+july_trans:
+  en: July
+  pl: lipca
+august_trans:
+  en: August
+  pl: sierpnia
+september_trans:
+  en: September
+  pl: września
+october_trans:
+  en: October
+  pl: października
+november_trans:
+  en: November
+  pl: listopada
+december_trans:
+  en: December
+  pl: grudnia
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

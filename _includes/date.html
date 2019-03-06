@@ -1,4 +1,7 @@
-{% assign months = "January,February,Mark,April,May,June,July,August,September,October,November,December" | split: "," %}
+
+
+{% capture months_str %}{{site.january_trans[site.active_lang]}},{{site.february_trans[site.active_lang]}},{{site.march_trans[site.active_lang]}},{{site.april_trans[site.active_lang]}},{{site.may_trans[site.active_lang]}},{{site.june_trans[site.active_lang]}},{{site.july_trans[site.active_lang]}},{{site.august_trans[site.active_lang]}},{{site.september_trans[site.active_lang]}},{{site.october_trans[site.active_lang]}},{{site.november_trans[site.active_lang]}},{{site.december_trans[site.active_lang]}}{% endcapture %}
+{% assign months = (months_str | split: ",") %}
 {% assign month_number = include.date | date: "%-m" | minus: 1 %}
 
-{{ months[month_number] }} {{ include.date | date: "%-d" }}, {{ include.date | date: "%Y" }}
+{{ include.date | date: "%-d" }} {{ months[month_number] }} {{ include.date | date: "%Y" }}
