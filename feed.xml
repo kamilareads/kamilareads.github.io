@@ -5,9 +5,29 @@
     <description>I'm Kamila and I love books! If you looking for book recommendations you can check out my blog and see what I'm reading!</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 06 Mar 2019 22:58:47 +0000</pubDate>
-    <lastBuildDate>Wed, 06 Mar 2019 22:58:47 +0000</lastBuildDate>
+    <pubDate>Mon, 11 Mar 2019 00:16:09 +0000</pubDate>
+    <lastBuildDate>Mon, 11 Mar 2019 00:16:09 +0000</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Nomen Omen</title>
+        <description>&lt;p&gt;Nomen Omen is another novel written by Polish author Marta Kisiel. The story is based in a city of Wrocław where our main character, Salomea, has runaway to from her crazy, controlling family. Unfortunately she doesn’t have much luck there either. She rents a room in a house with such bad reputation, that even taxi drivers don’t go anywhere near it. Her host is a very weird old lady, no radio is working in this place and on the phone you can here strange voices. To make things even worse, her younger brother is kicked out from his dormitory and...</description>
+        <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+        <link>/nomenomen/</link>
+        <guid isPermaLink="true">/nomenomen/</guid>
+        
+        <category>Nomen Omen</category>
+        
+        <category>book review</category>
+        
+        <category>Marta Kisiel</category>
+        
+        <category>Polish Fantasy</category>
+        
+        
+        <category>review</category>
+        
+      </item>
     
       <item>
         <title>Crown of Midnight</title>
@@ -583,26 +603,6 @@
         <category>book recommendation</category>
         
         <category>Sarah J Maas</category>
-        
-        
-        <category>review</category>
-        
-      </item>
-    
-      <item>
-        <title>The Cruel Prince by Holly Black</title>
-        <description>&lt;p&gt;The Cruel Prince by Holly Black is a story about a girl who is forced to live among faeries in their magical kingdom. Sounds a bit familiar? Yes, I was sceptical and I wasn’t sure if I want to read it. I thought it was another version of ACOTAR and title indicating a romance theme. I couldn’t have been more wrong! I’m so glad I decided to read this book, because it is so much more!&lt;/p&gt; &lt;p&gt;Our main character is Jude, whose parents were murdered when she was a kid and she and her sisters are taken in by Fae...</description>
-        <pubDate>Tue, 18 Sep 2018 00:00:00 +0100</pubDate>
-        <link>/cruelprince/</link>
-        <guid isPermaLink="true">/cruelprince/</guid>
-        
-        <category>the Cruel Prince</category>
-        
-        <category>book review</category>
-        
-        <category>book recommendation</category>
-        
-        <category>Holly Black</category>
         
         
         <category>review</category>
