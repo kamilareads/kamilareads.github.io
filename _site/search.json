@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Nomen Omen",
+      "tags"     : "Nomen Omen, book review, Marta Kisiel, and Polish Fantasy",
+      "categories" : "review",
+      "url"      : "/nomenomen/",
+      "date"     : "03/10/2019"
+    } ,
+  
+    {
       "title"    : "Crown of Midnight",
       "tags"     : "Crown of Midnight, book review, Sarah J. Maas, and Throne of Glass",
       "categories" : "review",
