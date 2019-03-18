@@ -3,18 +3,38 @@
   <channel>
     <title>Kamila reads</title>
     <description>I'm Kamila and I love books! If you looking for book recommendations you can check out my blog and see what I'm reading!</description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 11 Mar 2019 00:16:09 +0000</pubDate>
-    <lastBuildDate>Mon, 11 Mar 2019 00:16:09 +0000</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 18 Mar 2019 23:15:43 +0000</pubDate>
+    <lastBuildDate>Mon, 18 Mar 2019 23:15:43 +0000</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Leviathan Wakes</title>
+        <description>&lt;p&gt;Leviathan Wakes is sci-fi space opera written by James S. A. Corey. It is actually a pen name for two authors, Daniel Abraham and Ty Franck. There is also a TV series based on the book called the Expanse.&lt;/p&gt; &lt;p&gt;We are in the future where humanity has already colonized most of the solar system - Mars, the Moon, the Asteroids Belt and beyond. But they still haven’t reached for the stars yet. But it’s becoming clear, that solar system is not enough for humans. Jim Holden is XO on the ice hauler ship flying between rings of Saturn and Belt’s...</description>
+        <pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/leviathanwakes/</link>
+        <guid isPermaLink="true">http://localhost:4000/leviathanwakes/</guid>
+        
+        <category>Leviathan Wakes</category>
+        
+        <category>book review</category>
+        
+        <category>James S. A. Corey</category>
+        
+        <category>The Expanse</category>
+        
+        
+        <category>review</category>
+        
+      </item>
     
       <item>
         <title>Nomen Omen</title>
         <description>&lt;p&gt;Nomen Omen is another novel written by Polish author Marta Kisiel. The story is based in a city of Wrocław where our main character, Salomea, has runaway to from her crazy, controlling family. Unfortunately she doesn’t have much luck there either. She rents a room in a house with such bad reputation, that even taxi drivers don’t go anywhere near it. Her host is a very weird old lady, no radio is working in this place and on the phone you can here strange voices. To make things even worse, her younger brother is kicked out from his dormitory and...</description>
         <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-        <link>/nomenomen/</link>
-        <guid isPermaLink="true">/nomenomen/</guid>
+        <link>http://localhost:4000/nomenomen/</link>
+        <guid isPermaLink="true">http://localhost:4000/nomenomen/</guid>
         
         <category>Nomen Omen</category>
         
@@ -33,8 +53,8 @@
         <title>Crown of Midnight</title>
         <description>&lt;p&gt;Crown of Midnight is the second book in Throne of Glass series. As it turns out, the first book was merely a prelude to what’s happening in this one. I didn’t know what to expect from this book. All my friends were telling me it is so much better then first one, which for me was ok. So I finally decided to get back to this series to see where it will take me. And I have to agree it is so much more.&lt;/p&gt; &lt;p&gt;The first book was pretty simple plotwise. There were competition held and it was obvious that...</description>
         <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
-        <link>/crownofmidnight/</link>
-        <guid isPermaLink="true">/crownofmidnight/</guid>
+        <link>http://localhost:4000/crownofmidnight/</link>
+        <guid isPermaLink="true">http://localhost:4000/crownofmidnight/</guid>
         
         <category>Crown of Midnight</category>
         
@@ -53,8 +73,8 @@
         <title>Oczy Uroczne</title>
         <description>&lt;p&gt;Oczy Uroczne is a sequel to Szaławiła novella awarded with Janusz A. Zajdel award. If you haven’t read this short story yet do it, because there are major spoilers in this book and in my review.&lt;/p&gt; &lt;p&gt;I was very happy when I’ve heard that Marta Kisiel wrote a sequel to Szaławiła novella, as it was one of my favourite tales from her anthology Pierwsze Słowo. I was glad that I’ll learn more about Oda Kręciszewska and her human and nonhuman companions. And I was not disappointed.&lt;/p&gt; &lt;p&gt;The story begins in a Christmas time, with winter solstice that causes all nonhumans...</description>
         <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-        <link>/oczyuroczne/</link>
-        <guid isPermaLink="true">/oczyuroczne/</guid>
+        <link>http://localhost:4000/oczyuroczne/</link>
+        <guid isPermaLink="true">http://localhost:4000/oczyuroczne/</guid>
         
         <category>Oczy Uroczne</category>
         
@@ -73,8 +93,8 @@
         <title>Endsinger</title>
         <description>&lt;p&gt;Endsinger by Jay Kristoff is the last book in The Lotus Wars series. The Shima Imperium is torn by civil war. After a failed attempt of prolonging the Kazumitsu dynasty Lotus Guild is determined to use their one last asset, the terrible machine called the Earthcrusher to bend other clans to their will and get rid of rebellion once and for all. In the meantime Yukiko and Buruu have to work very hard to keep Kage united to face the upcoming Guild attack. But soon another player will join the conflict, one no one have foreseen.&lt;/p&gt; &lt;p&gt;This book was just...</description>
         <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
-        <link>/endsinger/</link>
-        <guid isPermaLink="true">/endsinger/</guid>
+        <link>http://localhost:4000/endsinger/</link>
+        <guid isPermaLink="true">http://localhost:4000/endsinger/</guid>
         
         <category>Endsinger</category>
         
@@ -93,8 +113,8 @@
         <title>The Wicked King</title>
         <description>&lt;p&gt;The Wicked King by Holy Black is the second book from The Folk of the Air series. If you haven’t read The Cruel Prince yet and want to avoid spoilers, please don’t read this review, because I can’t write about the sequel without spoiling the ending of the first book. So yes, you’ve been warned.&lt;/p&gt; &lt;p&gt;After the Cruel Prince the author has left us in awe with the book finale. I was very excited to read the sequel, because I was really curious how Jude will handle Cardan in his new role as High King of Faerie. I think I...</description>
         <pubDate>Tue, 19 Feb 2019 00:00:00 +0000</pubDate>
-        <link>/thewickedking/</link>
-        <guid isPermaLink="true">/thewickedking/</guid>
+        <link>http://localhost:4000/thewickedking/</link>
+        <guid isPermaLink="true">http://localhost:4000/thewickedking/</guid>
         
         <category>The Wicked King</category>
         
@@ -113,8 +133,8 @@
         <title>Star Wars Last Shot</title>
         <description>&lt;p&gt;Star Wars: the Last Shot is a story about Han Solo and Lando Calrissian’s adventures. The action takes place partly before events from Han Solo the movie and partly after. People often says that Star Wars book without a Jedi Knights is not a good book, but I don’t agree with them. I personally always loved Han Solo and even though I haven’t seen the movie yet, I was very excited to read this book.&lt;/p&gt; &lt;p&gt;The story is really fast paced and very easy to read. When you start reading it feels like meeting with old friends. It’s a few...</description>
         <pubDate>Sat, 16 Feb 2019 00:00:00 +0000</pubDate>
-        <link>/lastshot/</link>
-        <guid isPermaLink="true">/lastshot/</guid>
+        <link>http://localhost:4000/lastshot/</link>
+        <guid isPermaLink="true">http://localhost:4000/lastshot/</guid>
         
         <category>Star Wars Last Shot</category>
         
@@ -133,8 +153,8 @@
         <title>The Gutter Prayer</title>
         <description>&lt;p&gt;The Gutter Prayer is a debut novel by Gareth Ryder-Hanrahan. It is a dark fantasy story based in a city of Guerdon. In the world torn apart by Godswar, where gods and their chosen saints are destructing and killing all on their way, Guerdon is a neutral, peaceful oasis. But not get deceived that it is safe. It’s full of strange creatures lurking in the dark, as well as monsters walking on the streets as bodyguards. And if you’re not careful and you break the law you may as well be turned to one of them.&lt;/p&gt; &lt;p&gt;The story begins with...</description>
         <pubDate>Thu, 14 Feb 2019 00:00:00 +0000</pubDate>
-        <link>/thegutterprayer/</link>
-        <guid isPermaLink="true">/thegutterprayer/</guid>
+        <link>http://localhost:4000/thegutterprayer/</link>
+        <guid isPermaLink="true">http://localhost:4000/thegutterprayer/</guid>
         
         <category>The Gutter Prayer</category>
         
@@ -153,8 +173,8 @@
         <title>Pet Sematary</title>
         <description>&lt;p&gt;Creeds moves to rural Maine into they dreamed house. The neighbourhood is lovely, locals are kind and Louis has a good job at a university. The only little flaw is an intercity route where all the big trucks are driving far too fast. Very dangerous for little animals. But that just mean that they need to keep an eye on Church, they family cat. Even they daughter likes her new school. When their neighbour Jud Crandall shows them the nearby ‘pet sematary’, where the local kids burry their poor little friends who died on the road, Louise thinks it’s a...</description>
         <pubDate>Wed, 06 Feb 2019 00:00:00 +0000</pubDate>
-        <link>/petsematary/</link>
-        <guid isPermaLink="true">/petsematary/</guid>
+        <link>http://localhost:4000/petsematary/</link>
+        <guid isPermaLink="true">http://localhost:4000/petsematary/</guid>
         
         <category>Stephen King</category>
         
@@ -173,8 +193,8 @@
         <title>Apprentice</title>
         <description>&lt;p&gt;Apprentice is the second book in The Black Mage series by Rachel E. Carter. I was very curious about this book and how the story of Ryiah and her friends will unfold. As I expected we get to see more of Jerar, events keep moving from one place to another so we can learn more about this magical world. There is also more action, our heroes have to face not only pretend dangers of lessons and exercises, but also some actual battles where they stand hand in hand with regular army. We also have more romance in this book as...</description>
         <pubDate>Mon, 04 Feb 2019 00:00:00 +0000</pubDate>
-        <link>/apprentice/</link>
-        <guid isPermaLink="true">/apprentice/</guid>
+        <link>http://localhost:4000/apprentice/</link>
+        <guid isPermaLink="true">http://localhost:4000/apprentice/</guid>
         
         <category>Rachel E. Carter</category>
         
@@ -193,8 +213,8 @@
         <title>Gdzie śpiewają diabły</title>
         <description>&lt;p&gt;Welcome to Azyl. It seems as world have forgotten about this little town. Phones are not working here, not to mention the Internet. There’s a lot of big, empty houses and their numbers are against any logic or order. But the names of the streets are really poetic. There is also a lake here, the town’s folk calls it Devil’s Lake, although you won’t find it on any map. Its surface is jet black and its coast very treacherous, so don’t let its beauty deceive you. Sometimes you can hear the Devil singing here. Local people can tell you the...</description>
         <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
-        <link>/gdziespiewajadiably/</link>
-        <guid isPermaLink="true">/gdziespiewajadiably/</guid>
+        <link>http://localhost:4000/gdziespiewajadiably/</link>
+        <guid isPermaLink="true">http://localhost:4000/gdziespiewajadiably/</guid>
         
         <category>Magdalena Kubasiewicz</category>
         
@@ -213,8 +233,8 @@
         <title>Legion</title>
         <description>&lt;p&gt;Legion: The Many Lives of Stephen Leeds by Brandon Sanderson is an anthology of three short novellas about a genius Stephen Leeds. To deal with his extraordinary mind he is creating a hallucinations, aspects as he calls them, of the experts in differences fields who help him deal with all kind of situations. He works as a detective and only takes the cases that interests him, which also are not ordinary.&lt;/p&gt; &lt;p&gt;I really enjoyed this book, although it won’t be my favourite from this author. I do prefer the complex stories full of details and many different story threads. But...</description>
         <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
-        <link>/legion/</link>
-        <guid isPermaLink="true">/legion/</guid>
+        <link>http://localhost:4000/legion/</link>
+        <guid isPermaLink="true">http://localhost:4000/legion/</guid>
         
         <category>Brandon Sanderson</category>
         
@@ -233,8 +253,8 @@
         <title>It Ends with Us</title>
         <description>&lt;p&gt;I was never big fan of contemporary books. They were never high on my reading list. But this year I decided to challenge myself to read more diverse books then my usual fantasy/sci-fi choices. I’ve heard many times that if I want to read good contemporary book I should try Colleen Hoover books. So when I’ve got a chance to read It Ends with Us I took it. And I was very surprised that it was a really good.&lt;/p&gt; &lt;p&gt;We meet Lily Bloom after her father funeral, where she refused to say anything good about him. He used to beat...</description>
         <pubDate>Mon, 21 Jan 2019 00:00:00 +0000</pubDate>
-        <link>/itendswithus/</link>
-        <guid isPermaLink="true">/itendswithus/</guid>
+        <link>http://localhost:4000/itendswithus/</link>
+        <guid isPermaLink="true">http://localhost:4000/itendswithus/</guid>
         
         <category>Colleen Hoover</category>
         
@@ -253,8 +273,8 @@
         <title>Sometimes I lie</title>
         <description>&lt;p&gt;Amber Reynolds woke up in a hospital, but she can’t open her eyes, can’t move the finger and can’t open her mouth. She remember having a car accident but all the details are a blur. She’s aware of her surrounding and can hear everything people are saying. She’s trying to put her memories back in order, piece by piece, to remember what had happened during last few days.&lt;/p&gt; &lt;p&gt;We discover Amber’s story in three ways. Chapters interlace from now with a few days before the accident and the dairy entries, from when protagonist was ten years old. It quickly turns...</description>
         <pubDate>Fri, 18 Jan 2019 00:00:00 +0000</pubDate>
-        <link>/sometimesilie/</link>
-        <guid isPermaLink="true">/sometimesilie/</guid>
+        <link>http://localhost:4000/sometimesilie/</link>
+        <guid isPermaLink="true">http://localhost:4000/sometimesilie/</guid>
         
         <category>Sometimes I lie</category>
         
@@ -273,8 +293,8 @@
         <title>Pierwsze Słowo</title>
         <description>&lt;p&gt;Pierwsze Słowo by Marta Kisiel is an anthology containing fantasy stories which are funny but sometimes very dark. I haven’t read anything else from this author yet, but since first pages I was very pleasantly surprised. Very short story “Rozmowa dyskwalifikacyjna” made me cry from laughter and the next one “Dożywocie” I was reading long into the night, because I couldn’t put it down.&lt;/p&gt; &lt;p&gt;The author has very intelligent way of writing, she’s not afraid to laugh at our nowadays life, full of technology and never-ending work for corporations. I really like this kind of humour. Most of the novellas...</description>
         <pubDate>Wed, 16 Jan 2019 00:00:00 +0000</pubDate>
-        <link>/pierwszeslowo/</link>
-        <guid isPermaLink="true">/pierwszeslowo/</guid>
+        <link>http://localhost:4000/pierwszeslowo/</link>
+        <guid isPermaLink="true">http://localhost:4000/pierwszeslowo/</guid>
         
         <category>Pierwsze Słowo</category>
         
@@ -293,8 +313,8 @@
         <title>First Year</title>
         <description>&lt;p&gt;In her debut First Year Rachel E. Carter is taking us to Jerar, a fantasy land, where all young people are faced with a choice. Either pursue career in trade or try to get into most prestigious academy to become a soldier, knight or a mage. Our protagonist, Ryiah, is convinced she is good enough to become a mage, and not just an Alchemist or a Healer. She’s striving to be the most elite kind of them all - a Combat mage. But she soon finds out that her poor lineage is putting her in great disadvantage. After first year...</description>
         <pubDate>Sat, 12 Jan 2019 00:00:00 +0000</pubDate>
-        <link>/firstyear/</link>
-        <guid isPermaLink="true">/firstyear/</guid>
+        <link>http://localhost:4000/firstyear/</link>
+        <guid isPermaLink="true">http://localhost:4000/firstyear/</guid>
         
         <category>First Year</category>
         
@@ -313,8 +333,8 @@
         <title>Only the Ocean</title>
         <description>&lt;p&gt;I’ve got Only the Ocean by Natasha Carthew form a book box and, considering a beautiful cover, I couldn’t wait to dig right into it. It turned out it wasn’t that easy. The book is written in a very peculiar way. The author is heavy emphasising different accents and way of speaking for the main character, who is a girl from poor ‘swamp folk’. From the very beginning this book is very hard to read. I had to be very focused to understand what exactly was happening, and even though I tried, I often was confused and couldn’t imagine it...</description>
         <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
-        <link>/onlytheocean/</link>
-        <guid isPermaLink="true">/onlytheocean/</guid>
+        <link>http://localhost:4000/onlytheocean/</link>
+        <guid isPermaLink="true">http://localhost:4000/onlytheocean/</guid>
         
         <category>Only the Ocean</category>
         
@@ -333,8 +353,8 @@
         <title>Heir to the Empire</title>
         <description>&lt;p&gt;Heir to the Empire by Timothy Zahn is the first book of Star Wars: The Thrawn Trilogy and was published 27 years ago. That’s kind of crazy when you think about it, because it’s as easy to read as it was written recently. I’ve read author’s book for the first time last year and it was recently written Thrawn. I really enjoyed it and I fell in love with it’s main character. My husband suggested that I should read the original trilogy then, which was brilliant in his opinion. So we dug it up from our family house and I...</description>
         <pubDate>Sat, 05 Jan 2019 00:00:00 +0000</pubDate>
-        <link>/heirtotheempire/</link>
-        <guid isPermaLink="true">/heirtotheempire/</guid>
+        <link>http://localhost:4000/heirtotheempire/</link>
+        <guid isPermaLink="true">http://localhost:4000/heirtotheempire/</guid>
         
         <category>Heir to the Empire</category>
         
@@ -353,8 +373,8 @@
         <title>Skyward</title>
         <description>&lt;p&gt;Skyward by Brandon Sanderson is an epic sci-fi young adult book, but I can assure you, that everyone can read and enjoy it. I was never let down by this author and this time was the same. I don’t know what exactly makes his writing so great, but every time I take up one of his book I’m swept away with the tale.&lt;/p&gt; &lt;p&gt;This time we learn the story of Spensa, a girl who dreamt about being a starfighter pilot, like her father. She lives on a planet, where her ancestors crashed onto many years ago. Humankind is almost driven...</description>
         <pubDate>Fri, 21 Dec 2018 00:00:00 +0000</pubDate>
-        <link>/skyward/</link>
-        <guid isPermaLink="true">/skyward/</guid>
+        <link>http://localhost:4000/skyward/</link>
+        <guid isPermaLink="true">http://localhost:4000/skyward/</guid>
         
         <category>Skyward</category>
         
@@ -373,8 +393,8 @@
         <title>Daughters of the Dragon</title>
         <description>&lt;p&gt;Daughters of the Dragon is historical fiction book about Korean woman named Hong Jae-hee. She tells her terrible and unbelievable story to her granddaughter, her only descendant who was adopted by American family.&lt;/p&gt; &lt;p&gt;And the story is so heart-breaking it will bring tears to your eyes. As a young girl Jae-hee was ordered by Japanese occupants to be sent together with her sister to work in a shoe factory. It quickly turns out that the shoe factory means in reality comfort station for Japanese army. At the age of fourteen Jae-hee is forced to work as a sex slave for...</description>
         <pubDate>Mon, 17 Dec 2018 00:00:00 +0000</pubDate>
-        <link>/daughtersofthedragon/</link>
-        <guid isPermaLink="true">/daughtersofthedragon/</guid>
+        <link>http://localhost:4000/daughtersofthedragon/</link>
+        <guid isPermaLink="true">http://localhost:4000/daughtersofthedragon/</guid>
         
         <category>Daughters of the Dragon</category>
         
@@ -393,8 +413,8 @@
         <title>Elevation</title>
         <description>&lt;p&gt;Elevation by Stephen King is a short story about an ordinary man who experience extraordinary things. It’s hardly a novella, as it has 132 pages with big letters and big margins and also some nice illustrations. Basically you can read it in just one evening. And as it is King we are talking about you won’t be bored with it. Just for the record, this book was voted best Horror book of 2018 by Good Reads users, but don’t let that scare you. It is NOT a horror.&lt;/p&gt; &lt;p&gt;King’s greatest talent I think, is telling people’s stories and creating worlds...</description>
         <pubDate>Thu, 13 Dec 2018 00:00:00 +0000</pubDate>
-        <link>/elevation/</link>
-        <guid isPermaLink="true">/elevation/</guid>
+        <link>http://localhost:4000/elevation/</link>
+        <guid isPermaLink="true">http://localhost:4000/elevation/</guid>
         
         <category>Elevation</category>
         
@@ -413,8 +433,8 @@
         <title>The Light Between Worlds</title>
         <description>&lt;p&gt;What would you do if you find yourself in the middle of the woods on another world in your pyjamas? That’s what happened to Philippa, Jamie and Evelyn. They got swept from the dark bunker, where they were hiding in London during WWII, to beautiful forest. They are offered a refuge, a place to stay if they help with this new world own problems. Who would refuse, knowing that they can always come back home as no time would pass?&lt;/p&gt; &lt;p&gt;I thought The Light Between Worlds would be retelling of Narnia, as the motive is exactly the same - children...</description>
         <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
-        <link>/thelightbetweenworlds/</link>
-        <guid isPermaLink="true">/thelightbetweenworlds/</guid>
+        <link>http://localhost:4000/thelightbetweenworlds/</link>
+        <guid isPermaLink="true">http://localhost:4000/thelightbetweenworlds/</guid>
         
         <category>The Light Between Worlds</category>
         
@@ -433,8 +453,8 @@
         <title>Kinslayer</title>
         <description>&lt;p&gt;In a second book of Lotus Wars, Kinslayer, Jay Kristoff is taking us to a journey full of grief, loss and chaos. After Shōgun’s death Shima Imperium is facing a threat of civil war. Clans start to prepare for taking the power for themselves and people of Kigen start a riots inspired by the Stormdancer and supported by Kage agents. But the Lotus Guild is working quickly and efficiently, making sure the future Shōgun will be their puppet.&lt;/p&gt; &lt;p&gt;In the meantime Yukiko is trying to cope with grief and anger after her father’s death. This is no easy task considering...</description>
         <pubDate>Tue, 27 Nov 2018 00:00:00 +0000</pubDate>
-        <link>/kinslayer/</link>
-        <guid isPermaLink="true">/kinslayer/</guid>
+        <link>http://localhost:4000/kinslayer/</link>
+        <guid isPermaLink="true">http://localhost:4000/kinslayer/</guid>
         
         <category>Kinslayer</category>
         
@@ -453,8 +473,8 @@
         <title>To Kill a Kingdom</title>
         <description>&lt;p&gt;To Kill the Kingdom by Alexandra Christo is a retelling of little mermaid story. Of course it’s much darker and more complicated.&lt;/p&gt; &lt;p&gt;We have two main protagonists here. First is Lira - the daughter of Sea Queen herself, the one who got for herself another name that everyone else fear, Princes’ Bane. The sirens collect human’s hearts to gain more power, and Lira, the most powerful of them all, only hunt for princes. She’s wild, cruel and brutal - her only goal is to please her mother and one day to take her place. But she’s also too confident and...</description>
         <pubDate>Mon, 19 Nov 2018 00:00:00 +0000</pubDate>
-        <link>/tokillakingdom/</link>
-        <guid isPermaLink="true">/tokillakingdom/</guid>
+        <link>http://localhost:4000/tokillakingdom/</link>
+        <guid isPermaLink="true">http://localhost:4000/tokillakingdom/</guid>
         
         <category>To Kill a Kingdom</category>
         
@@ -473,8 +493,8 @@
         <title>Splintered</title>
         <description>&lt;p&gt;Splintered by A. G. Howard is a tale inspired by Alice’s Adventures in Wonderland. Alyssa Gardner seems to be a normal teenage girl. But nothing could be farther from the truth. Her mother was sent to mental hospital many years ago because of her delusions. Unfortunately, Alyssa discovers she can also hear flowers and bugs talking to her. It turns out it’s not an illness but a family curse, which has started when their ancestor, Alice, came back from Wonderland. Is it possible that Wonderland is real? And will Alyssa be brave enough to venture into unknown to break the...</description>
         <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
-        <link>/splintered/</link>
-        <guid isPermaLink="true">/splintered/</guid>
+        <link>http://localhost:4000/splintered/</link>
+        <guid isPermaLink="true">http://localhost:4000/splintered/</guid>
         
         <category>Splintered</category>
         
@@ -493,8 +513,8 @@
         <title>Ana</title>
         <description>&lt;p&gt;Ana by Roberto Santiago is part contemporary and part crime story. Ana Tramel is a very talented lawyer, but many years ago she promised herself that she won’t go back to the court. Everything changes when unexpectedly she gets a call from her brother who, after years of silence, tells her that he is a main suspect in a murder case. It won’t be an easy case, because the victim is a manager of the casino, where Alejandro played poker and owes hundred thousands of euros. Ana sues the biggest gambling company in the country without any real assets or...</description>
         <pubDate>Thu, 08 Nov 2018 00:00:00 +0000</pubDate>
-        <link>/ana/</link>
-        <guid isPermaLink="true">/ana/</guid>
+        <link>http://localhost:4000/ana/</link>
+        <guid isPermaLink="true">http://localhost:4000/ana/</guid>
         
         <category>ana</category>
         
@@ -513,8 +533,8 @@
         <title>Shadow and Bone</title>
         <description>&lt;p&gt;Shadow and Bone by Leigh Bardugo is the first book in The Grisha Trilogy. I’ve read Six of Crows duology by this author and completely fell in love with it, so I was very exited to read more stories from Grishaverse.&lt;/p&gt; &lt;p&gt;Our main character is Alina Starkov who is just another soldier, not very talented, certainly not very popular. She just want to get by, staying close to her only friend Mal, who is one of army’s best tracker. Everything changes, when they’re trying to cross the Shadow Fold, unnatural darkness crawling with monsters, which divides Ravka in half. They...</description>
         <pubDate>Tue, 06 Nov 2018 00:00:00 +0000</pubDate>
-        <link>/shadowandbone/</link>
-        <guid isPermaLink="true">/shadowandbone/</guid>
+        <link>http://localhost:4000/shadowandbone/</link>
+        <guid isPermaLink="true">http://localhost:4000/shadowandbone/</guid>
         
         <category>shadow and bone</category>
         
@@ -533,8 +553,8 @@
         <title>Spektrum</title>
         <description>&lt;p&gt;Spektrum by Martyna Raduchowska is the second book in the Black Lights series. Before I read the book I’ve heard it’s not typical continuation. It covers the same time period and events as first book. But this time the story is said from perspective of May the android.&lt;/p&gt; &lt;p&gt;Firstly I wasn’t thrilled with this idea, I wanted to know what happened next? But I actually liked this book more than the first one. I like Maya as protagonist, who despite her good intentions is called a traitor and have to flee to the Wall to save her life.&lt;/p&gt; &lt;p&gt;Since the...</description>
         <pubDate>Thu, 18 Oct 2018 00:00:00 +0100</pubDate>
-        <link>/spektrum/</link>
-        <guid isPermaLink="true">/spektrum/</guid>
+        <link>http://localhost:4000/spektrum/</link>
+        <guid isPermaLink="true">http://localhost:4000/spektrum/</guid>
         
         <category>spektrum</category>
         
@@ -553,8 +573,8 @@
         <title>Stormdancer</title>
         <description>&lt;p&gt;Stormdancer by Jay Kristoff is a dystopian fantasy story based in Asian inspired isles of Shima. They are govern by cruel Shõgun who’s ruling with his whims and cooperate with mysterious Lotus Guild, who invented loads of useful machines and improvements but the lotus fuel they use is so toxic it’s killing the isles and its inhabitants.&lt;/p&gt; &lt;p&gt;Our protagonist is Yukiko, a young girl whom father is a hunter and a faithful servant of Shõgun. They are ordered to hunt a mythical Arashitora, a beast who was extinct for a long time. But they can’t refuse the order and so...</description>
         <pubDate>Fri, 12 Oct 2018 00:00:00 +0100</pubDate>
-        <link>/stormdancer/</link>
-        <guid isPermaLink="true">/stormdancer/</guid>
+        <link>http://localhost:4000/stormdancer/</link>
+        <guid isPermaLink="true">http://localhost:4000/stormdancer/</guid>
         
         <category>stormdancer</category>
         
@@ -573,8 +593,8 @@
         <title>Jinxed by Amy McCulloch</title>
         <description>&lt;p&gt;Jinxed by Amy McCulloch is a light story full of humour and cute robotic pets. Lacey Chu is a teenager with a big dream, she want to work for Moncha Corp as companioneer - creator of smart, robotic pets (baku) who are also functioning as advanced smartphones. The first step is getting into prestigious school Profectus. It seems Lacy has done everything in her power to reach this goals, she worked hard and is really gifted in tinkering. But would it be enough, knowing her main competitor from school just happen to be the son of one of the most...</description>
         <pubDate>Sun, 07 Oct 2018 00:00:00 +0100</pubDate>
-        <link>/jinxed/</link>
-        <guid isPermaLink="true">/jinxed/</guid>
+        <link>http://localhost:4000/jinxed/</link>
+        <guid isPermaLink="true">http://localhost:4000/jinxed/</guid>
         
         <category>jinxed</category>
         
@@ -583,26 +603,6 @@
         <category>book recommendation</category>
         
         <category>Amy McCulloch</category>
-        
-        
-        <category>review</category>
-        
-      </item>
-    
-      <item>
-        <title>Throne of Glass by Sarah J Maas</title>
-        <description>&lt;p&gt;Throne of Glass by Sarah J Maas is the first book in the series about Celaena Sardonthien. After a year as a slave in a salt mines the assassin get an offer she can’t refuse: fight in a tournament to win a position of King’s Champion and after four years of servitude complete freedom.&lt;/p&gt; &lt;p&gt;The book is light and quick read. But again we have proud Celaena who, even after a year as a slave, is convinced she’s the best in everything and deserves all the respect and glory in the world. She simply couldn’t stand the fact that she...</description>
-        <pubDate>Fri, 28 Sep 2018 00:00:00 +0100</pubDate>
-        <link>/throneofglass/</link>
-        <guid isPermaLink="true">/throneofglass/</guid>
-        
-        <category>Throne of Glass</category>
-        
-        <category>book review</category>
-        
-        <category>book recommendation</category>
-        
-        <category>Sarah J Maas</category>
         
         
         <category>review</category>
