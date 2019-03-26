@@ -5,6 +5,8 @@ layout: main
 <main class="home" id="post" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
     <div id="grid" class="row flex-grid">
     {% for post in site.posts %}
+    {% if post.lang == site.active_lang %}
+
         <article class="box-item" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
             <span class="category">
                 <a href="{{ site.url }}{{ site.baseurl }}/category/{{ post.category }}">
@@ -41,6 +43,7 @@ layout: main
                 </div>
             </div>
         </article>
+    {% endif %}
     {% endfor %}
     </div>
 </main>
