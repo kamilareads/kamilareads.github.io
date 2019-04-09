@@ -3,18 +3,38 @@
   <channel>
     <title>Kamila reads</title>
     <description>Mam na imię Kamila i kocham książki. Jeśli nie wiesz co czytać zapraszam na bloga! Na pewno znajdziesz tu coś dla siebie!</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/pl/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 06 Apr 2019 20:51:25 +0100</pubDate>
-    <lastBuildDate>Sat, 06 Apr 2019 20:51:25 +0100</lastBuildDate>
+    <link>/</link>
+    <atom:link href="/pl/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 09 Apr 2019 22:53:52 +0100</pubDate>
+    <lastBuildDate>Tue, 09 Apr 2019 22:53:52 +0100</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Podniebna Pieśń</title>
+        <description>&lt;p&gt;Podniebna Pieśń Abi Elphinstone to przepiękna, baśniowa opowieść o odwadze, nadziei i prawdziwej przyjaźni. Dla mroźnego królestwa Erkenwaldu nastały ciężkie czasy. Zła Królowa Lodu podstępem przejęła władzę i po zwycięstwie w wielkiej bitwie pojmała wszystkich pozostałych przy życiu dorosłych i uwięziła ich w swym lodowym pałacu Winterfang. Tylko dzieciom udało się wymknąć okrutnej królowej, a to tylko dlatego, że są dobrze ukryte. Czarownica jednak nie ustaje w wysiłkach by przywabić je do siebie, gdyż potrzebuje wszystkich mieszkańców Erkenwaldu, by zrealizować swoje niecne plany. Gdy przejmie wszystkie głosy w królestwie, jej władza pozostanie niezachwiana na wieczność.&lt;/p&gt; &lt;p&gt;Flint pochodzi z plemienia Futer...</description>
+        <pubDate>Tue, 09 Apr 2019 00:00:00 +0100</pubDate>
+        <link>/skysong/</link>
+        <guid isPermaLink="true">/skysong/</guid>
+        
+        <category>Podniebna Pieśń</category>
+        
+        <category>Abi Elphinstone</category>
+        
+        <category>recenzja</category>
+        
+        <category>Wydawnictwo Wilga</category>
+        
+        
+        <category>recenzja</category>
+        
+      </item>
     
       <item>
         <title>Warcross</title>
         <description>&lt;p&gt;Emika Chen jest łowczynią nagród, jednak ma problem z samodzielnym utrzymaniem się przez długi, które zostawił jej zmarły ojciec oraz to, że widnieje w kryminalnych kartotekach policji jako hakerka, przez co nie może dostać poważnej pracy. Jest na tyle zdesperowana, że próbuje zhakować międzynarodowe mistrzostwa w najpopularniejszej na świecie grze Warcross, by szybko zarobić dość pieniędzy by zapłacić zaległy czynsz. Jednak niefortunnie pojawia się również fizycznie w grze, czego świadkiem są również miliony widzów. Emika jest przekonana, że zostanie natychmiast aresztowana i postawiona przed sądem, jednak zamiast tego kontaktuje się z nią sam twórca gry, ekscentryczny milioner Hideo z propozycją...</description>
         <pubDate>Sat, 06 Apr 2019 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/warcross/</link>
-        <guid isPermaLink="true">http://localhost:4000/warcross/</guid>
+        <link>/warcross/</link>
+        <guid isPermaLink="true">/warcross/</guid>
         
         <category>Warcross</category>
         
@@ -33,8 +53,8 @@
         <title>Furie</title>
         <description>&lt;p&gt;Furie to debiutancka powieść Katie Lowe. Violet ma szesnaście lat, ale doświadczyła już bardzo wiele. Jej ojciec i młodsza siostra zginęli w wypadku, z którego tylko ona uszła z życiem. Jej matka całkowiecie straciła wolę do życia i nie jest w stanie w żaden sposób pomóc swej jedynej żyjącej córce. Gdy Violet idzie do nowej, prywatnej szkoły Elm Hollow nie spodziewa się, że jej ponure życie ulegnie jakimkolwiek zmianom. Jednak niespodziewanie Robin, piękna i popularna dziewczyna zwraca na nią uwagę i przedstawia ją swoim przyjaciółkom. Ale na tym nie kończą się niespodzianki, Violet zostaje zaproszona do ekskluzywnej grupy, żeby studiować...</description>
         <pubDate>Wed, 03 Apr 2019 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/thefuries/</link>
-        <guid isPermaLink="true">http://localhost:4000/thefuries/</guid>
+        <link>/thefuries/</link>
+        <guid isPermaLink="true">/thefuries/</guid>
         
         <category>Furie</category>
         
@@ -53,8 +73,8 @@
         <title>Alyssa i obłęd</title>
         <description>&lt;p&gt;Alyssa i obłęd autorstwa A. G. Howard to druga część cyklu Alyssa z innej krainy. Po swoich przygodach w Krainie Czarów bohaterka powraca do prawdziwego świata i decyduje, że to tu jest jej dom i tu zamierza spędzić resztę życia. Próbuje wieść normalne życie, i mimo tego, że planuje powiedzieć Jebowi prawdę o swoim dziedzictwie i pomóc mu przypomnieć sobie wydarzenia z Krainy Czarów, to nie zamierza tam wracać. Jednak magiczne królestwo zdecydowanie o Allysie nie zapomniało, a już Morpheus w szczególności. Dochodzi do tego, że nie tylko odwiedza ją w snach, ale również niespodziewanie pojawia się w jej szkole...</description>
         <pubDate>Mon, 01 Apr 2019 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/unhinged/</link>
-        <guid isPermaLink="true">http://localhost:4000/unhinged/</guid>
+        <link>/unhinged/</link>
+        <guid isPermaLink="true">/unhinged/</guid>
         
         <category>Allysa i obłęd</category>
         
@@ -73,8 +93,8 @@
         <title>Niedźwiedź i Słowik</title>
         <description>&lt;p&gt;Niedźwiedź i Słowik to pierwszy tom trylogii Winternight autorstwa Katheriene Arden. To pięknie napisana opowieść w klimacie baśni, której akcja dzieje się na dzikich obrzeżach średniowiecznej Rosji. Wasia jest córką potężnego bojara, a jej matką była siostra wielkiego księcia. Ich wioska leży na skraju dziczy, a zimy trwają tam przez większą część roku. Nie jest to łatwe życie, ale jedynie takie znają. Mieszkańcy wioski przyjęli chrześcijaństwo, ale wciąż składają ofiary zgodnie ze swoją dawną religią, by udobruchać domowe demony strzegące ich domów podczas ciężkich zim. Wszyscy żyją tu spokojnie do czasu aż Piotr, ojciec Wasi, przywozi z Moskwy nową, bogobojną...</description>
         <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/thebearandthenightingale/</link>
-        <guid isPermaLink="true">http://localhost:4000/thebearandthenightingale/</guid>
+        <link>/thebearandthenightingale/</link>
+        <guid isPermaLink="true">/thebearandthenightingale/</guid>
         
         <category>Niedźwiedź i Słowik</category>
         
@@ -93,8 +113,8 @@
         <title>Małe Licho i Tajemnica Niebożątka</title>
         <description>&lt;p&gt;Małe Licho i tajemnica Niebożątka to pierwsza książka Marty Kisiel skierowana do dzieci. Ale i dorośli znajdą wiele radości przy jej czytaniu. Zdobyła ona nagrodę Książka Roku Lubimyczytać.pl w kategorii literatury dziecięcej. Jako, że ostatnimi czasy stałam się wielką fanką twórczości Marty Kisiel to również za tę krótką opowieść zabrałam się z entuzjazmem.&lt;/p&gt; &lt;p&gt;Nawet pisząc historię skierowaną do dzieci autorka posługuje się językiem polskim pięknie i nie upraszcza nadmiernie zdań, ale jednocześnie przekaz jest bardzo jasny i klarowny. Książkę czyta się z przyjemnością, bohaterowie jak zwykle są przesympatyczni a ich postrzeganie świata jest specyficzne, ale bardzo trafne i wyrażane w...</description>
         <pubDate>Tue, 26 Mar 2019 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/malelicho/</link>
-        <guid isPermaLink="true">http://localhost:4000/malelicho/</guid>
+        <link>/malelicho/</link>
+        <guid isPermaLink="true">/malelicho/</guid>
         
         <category>Małe Licho</category>
         
@@ -113,8 +133,8 @@
         <title>Przebudzenie Lewiatana</title>
         <description>&lt;p&gt;Przebudzenie Lewiatana to książka sci-fi napisana przez Jamesa S. A. Corey. Jest to pseudonim artystyczny, którego używa dwoje autorów - Daniel Abraham i Ty Franck. Na jej podstawie powstał również serial zatytułowany The Expanse.&lt;/p&gt; &lt;p&gt;Akcja dzieje się w przyszłości, ludzkość skolonizowała już większość Układu Słonecznego - Marsa, Księżyc, Pas Asteroid i dalej. Wciąż jednak nie udało im się wyjść poza ich zakątek wszechświata. Jednak szybko staje się jasne, że Układ Słoneczny już ludziom nie wystarcza. Jim Holden jest pierwszym oficerem na statku, który dostarcza odłamki lodowca z pierścieni Saturna do górniczych stacji Pasa. Jego przewidywalna i rutynowa praca zostaje jednak...</description>
         <pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/leviathanwakes/</link>
-        <guid isPermaLink="true">http://localhost:4000/leviathanwakes/</guid>
+        <link>/leviathanwakes/</link>
+        <guid isPermaLink="true">/leviathanwakes/</guid>
         
         <category>Przebudzenie Lewiatana</category>
         
@@ -133,8 +153,8 @@
         <title>Nomen Omen</title>
         <description>&lt;p&gt;Nomen Omen to kolejna powieść Marty Kisiel. Akcja dzieje się we Wrocławiu gdzie główna bohaterka, Salomea, szuka azylu przed swoją zwariowaną rodziną. Niestety nie ma zbyt wiele szczęścia. Trafia na stancję do domu, który jest owiany tak złą sławą, że taksówkarze nawet nie chcą podjechać w jego pobliże, gospodyni jest wielce podejrzana, żadne odbiorniki radiowe nie działają, a w słuchawce telefonu słychać tajemnicze szepty. Do tego jej nieznośny brat zostaje wyrzucony z akademika i zwala jej się nie głowę. Zdawałoby się, że nie może być już gorzej, a jednak. Wszystko staje się jeszcze bardziej skomplikowane, kiedy Niedaś, brat Salki, zrzuca...</description>
         <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/nomenomen/</link>
-        <guid isPermaLink="true">http://localhost:4000/nomenomen/</guid>
+        <link>/nomenomen/</link>
+        <guid isPermaLink="true">/nomenomen/</guid>
         
         <category>Nomen Omen</category>
         
@@ -153,8 +173,8 @@
         <title>Korona w Mroku</title>
         <description>&lt;p&gt;Korona w Mroku to drugi tom serii Szklany Tron. Jak się okazuje, pierwsza książka była zaledwie wstępem do całej serii. Nie byłam pewna czego powinnam oczekiwać od tej części. Wszyscy moi znajomi mówili, że jest znacznie lepsza niż poprzednia, która dla mnie była w miarę ok. W końcu więc zdecydowałam się kontynuować swoją przygodę ze Szklanym Tronem i zobaczyć dokąd mnie zaprowadzi. I muszę się zgodzić z powszechną opinią, ten tom był dużo lepszy.&lt;/p&gt; &lt;p&gt;Fabuła w pierwszej książce była dość prosta. Był turniej i oczywiste było, że w końcu to Celaena okaże się zwycięzcą. Tutaj natomiast sytuacja wygląda zupełnie inaczej....</description>
         <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/crownofmidnight/</link>
-        <guid isPermaLink="true">http://localhost:4000/crownofmidnight/</guid>
+        <link>/crownofmidnight/</link>
+        <guid isPermaLink="true">/crownofmidnight/</guid>
         
         <category>Korona w Mroku</category>
         
@@ -173,8 +193,8 @@
         <title>Oczy Uroczne</title>
         <description>&lt;p&gt;Oczy Uroczne to kontynuacja wyróżnionej Nagrodą im. Janusza A. Zajdla opowiadania Szaławiła. Jeśli jeszcze go nie czytaliście, to odsyłam najpierw tam, bo przed Wami spojlery!&lt;/p&gt; &lt;p&gt;Bardzo ucieszyłam się, kiedy usłyszałam, że Marta Kisiel napisała o dalszych losach Ody Kręciszewskiej i jej przyjaciół, zarówno tych ludzkich, jak i tych mniej. Było to jedno z moich ulubionych opowiadań w antalogii Pierwsze Słowo. Oczywiście i tym razem się nie zawiodłam.&lt;/p&gt; &lt;p&gt;Akcja powieści dzieje się w okresie około bożonarodzeniowym, mamy przesilenie zimowe co wprawia, że wszystkie byty nieludzkie stają się niespokojne i rozdrażnione. Oda również to odczuwa, gdy zaczyna bez powodu kłócić się z...</description>
         <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/oczyuroczne/</link>
-        <guid isPermaLink="true">http://localhost:4000/oczyuroczne/</guid>
+        <link>/oczyuroczne/</link>
+        <guid isPermaLink="true">/oczyuroczne/</guid>
         
         <category>Oczy Uroczne</category>
         
@@ -193,8 +213,8 @@
         <title>Głosząca Kres</title>
         <description>&lt;p&gt;Głosząca Kres Jaya Kristoffa to ostatni tom trylogii Wojny Lotosowej. Wyspy Shimy są rozdarte wojną domową. Po tym, jak ich próba przedłużenia dynastii Kazumitsu spełzła na niczym, Gildia sięgnęła po ostateczne rozwiązanie. Metalowy behemot, zwany obrazowo Miażdżycielem, ma być użyty jako główny argument by pozostałe klany ugięły się i uznały autorytet Klanu Tygrysa oraz by ostatecznie rozprawić się z rebelią. Tymczasem Yukiko musi zrobić wszystko, żeby zjednoczyć Kage i innych buntowników, by dać im choć cień szansy na odparcie ataku Gildii. Jednak wkrótce do konfliktu dołączy się jeszcze jedna strona, której pojawienia się nikt nie przewidział.&lt;/p&gt; &lt;p&gt;Najlepszym słowem na opisanie...</description>
         <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/endsinger/</link>
-        <guid isPermaLink="true">http://localhost:4000/endsinger/</guid>
+        <link>/endsinger/</link>
+        <guid isPermaLink="true">/endsinger/</guid>
         
         <category>Głosząca Kres</category>
         
@@ -213,8 +233,8 @@
         <title>Zły Król</title>
         <description>&lt;p&gt;Zły Król autorstwa Holly Black to kontynuacja książki Okrutny Książę. Jeśli nie czytaliście pierwszej części i nie chcecie popsuć sobie przyjemności odkrywania tej historii, sugeruję, żebyście odpuścili sobie czytanie tej recenzji, gdyż nie jestem w stanie napisać jej bez zdradzania finału Okrutnego Księcia. Czujcie się ostrzeżeni!&lt;/p&gt; &lt;p&gt;W zakończeniu pierwszej części autorka zostawiła nas w szoku zbierających szczęki z podłogi. Byłam bardzo ciekawa co będzie działo się dalej i jak Jude poradzi sobie z Cardanem w roli Króla Elfów. Ta część podobała mi się lepiej niż pierwsza, bo było tu więcej polityki i intryg a postacie były bardziej dojrzałe.&lt;/p&gt; &lt;p&gt;Jude ma...</description>
         <pubDate>Tue, 19 Feb 2019 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/thewickedking/</link>
-        <guid isPermaLink="true">http://localhost:4000/thewickedking/</guid>
+        <link>/thewickedking/</link>
+        <guid isPermaLink="true">/thewickedking/</guid>
         
         <category>Zły Król</category>
         
@@ -233,8 +253,8 @@
         <title>Star Wars Ostatni Strzał</title>
         <description>&lt;p&gt;Star Wars: Ostatni Strzał to opowieść o przygodach Hana Solo i Landa Calrissiana. Akcja ma miejsce częściowo przed wydarzeniami z filmu “Han Solo” a częściowo po. Ludzie często twierdzą, że książki z uniwersum Gwiezdnych Wojen bez rycerzy jedi nie mogą być dobre, ale ja się z tą opinią nie zgadzam. Osobiście zawsze bardzo lubiłam postać Hana Solo i mimo, że nie oglądałam jeszcze filmu, to bardzo byłam ciekawa tej książki.&lt;/p&gt; &lt;p&gt;Czyta się ją szybko i przyjemnie, kiedy do niej siadamy czujemy się, jakbyśmy spotykali się ze starymi przyjaciółmi. Kilka lat po obaleniu Imperium Han musi sprostać zupełnie nowym wyzwaniom, sprawdzić...</description>
         <pubDate>Sat, 16 Feb 2019 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/lastshot/</link>
-        <guid isPermaLink="true">http://localhost:4000/lastshot/</guid>
+        <link>/lastshot/</link>
+        <guid isPermaLink="true">/lastshot/</guid>
         
         <category>Star Wars Ostatni Strzał</category>
         
@@ -253,8 +273,8 @@
         <title>The Gutter Prayer</title>
         <description>&lt;p&gt;The Gutter Prayer jest debiutancką powieścią autorstwa Garetha Ryder-Hanrahana. To mroczna fantastyka, której akcja toczy się w mieście Guerdon. W świecie rozdartym przez wojny bogów, gdzie ich obdarzeni boskimi mocami święci sieją postrach i zniszczenie miasto to jest neutralną oazą spokoju. Co nie oznacza, że jest to miejsce bezpieczne. W mroku czają się straszliwe bestie, a inne potwory kroczą po ulicach działając w majestacie prawa jako wsparcie dla straży miejskiej. Uważajcie więc, bo jeśli złamiecie prawo, możecie zostać zmienieni w jednego z nich.&lt;/p&gt; &lt;p&gt;Opowieść zaczyna się gdy trójka młodych złodziei próbuje ukraść dokumenty na zlecenie swojej gildii. Szybko jednak okazuje...</description>
         <pubDate>Thu, 14 Feb 2019 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/thegutterprayer/</link>
-        <guid isPermaLink="true">http://localhost:4000/thegutterprayer/</guid>
+        <link>/thegutterprayer/</link>
+        <guid isPermaLink="true">/thegutterprayer/</guid>
         
         <category>The Gutter Prayer</category>
         
@@ -273,8 +293,8 @@
         <title>Cmętarz Zwieżąt</title>
         <description>&lt;p&gt;Rodzina Creedów przeprowadza się na urokliwe przedmieścia stanu Maine do pięknego, wymarzonego domu. Okolica jest urzekająca, sąsiedzi przemili a Louis ma dobrą pracę w klinice uniwersyteckiej. Jedynym mankamentem jest międzymiastowa droga, po której jeżdżą, często zbyt szybko, samochody ciężarowe. Śmiertelnie groźna dla małych zwierzątek. Ale to tylko oznacza, że rodzina będzie musiała mieć oko na swojego kota Churcha. To jedynie drobna niedogodność. Kiedy ich sąsiad, Jud Crandall, pokazuje im okoliczny “cmętarz zwieżąt” Louis uważa, że to urocza, małomiasteczkowa tradycja. Nie ma jednak pojęcia, że to tylko front dla dużo mroczniejszego, starożytnego miejsca, pełnego złych mocy.&lt;/p&gt; &lt;p&gt;Jak w większości książek Kinga...</description>
         <pubDate>Wed, 06 Feb 2019 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/petsematary/</link>
-        <guid isPermaLink="true">http://localhost:4000/petsematary/</guid>
+        <link>/petsematary/</link>
+        <guid isPermaLink="true">/petsematary/</guid>
         
         <category>Cmętarz Zwieżąt</category>
         
@@ -293,8 +313,8 @@
         <title>Adeptka</title>
         <description>&lt;p&gt;Niedawno miała premierę Adeptka, druga część serii Czarny Mag Rachel E. Carter. Byłam bardzo ciekawa tej książki i tego, jak dalej potoczą się losy Ryiah. Tak jak się spodziewałam, widzimy tu dużo więcej Jeraru, akcja wciąż przenosi się z miejsca na miejsce, pozwalając czytelnikowi na poznanie tej niezwykłej krainy. Akcji również jest więcej, bohaterowie są zmuszeni mierzyć się już nie tylko z udawanym niebezpieczeństwem podczas lekcji, ale również uczestniczą w prawdziwych bitwach na niespokojnych granicach państwa. Jest tu również dużo więcej romansu, gdyż relacje postaci pogłębiają się wraz z upływającym czasem. W przeciwieństwie do poprzedniego tomu, Adeptka obejmuje cztery pozostałe...</description>
         <pubDate>Mon, 04 Feb 2019 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/apprentice/</link>
-        <guid isPermaLink="true">http://localhost:4000/apprentice/</guid>
+        <link>/apprentice/</link>
+        <guid isPermaLink="true">/apprentice/</guid>
         
         <category>Adeptka</category>
         
@@ -313,8 +333,8 @@
         <title>Gdzie śpiewają diabły</title>
         <description>&lt;p&gt;Witajcie w Azylu. Jest to miasteczko, które sprawia wrażenie, jakby świat o nim zapomniał. Telefony tu nie działają, nie wspominając już o internecie. Duża część domów świeci pustkami a ich numery opierają się jakiejkolwiek logice i porządkowi, podczas gdy nazwy ulic są niczym wyjęte z poematów. Jest tu także jezioro Diable, tak nazywają je miejscowi, chociaż nazwy tej nie znajdziecie na żadnej mapie. Jego powierzchnia jest idealnie czarna a brzegi są zdradzieckie, więc nie dajcie się zwieść jego urodzie. Czasem w jego pobliżu można usłyszeć śpiew Diabła. Mieszkańcy mogą Wam opowiedzieć lokalną legendę o Diable i Czarownicy, ale nie są...</description>
         <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/gdziespiewajadiably/</link>
-        <guid isPermaLink="true">http://localhost:4000/gdziespiewajadiably/</guid>
+        <link>/gdziespiewajadiably/</link>
+        <guid isPermaLink="true">/gdziespiewajadiably/</guid>
         
         <category>Gdzie śpiewają diabły</category>
         
@@ -333,8 +353,8 @@
         <title>Legion</title>
         <description>&lt;p&gt;Legion Brandona Sandersona to zbiór trzech opowiadań o Stephenie Leeds, genialnym detektywie. Żeby mieć dostęp do wszystkich informacji, jakie jego umysł przyswaja z zatrważającą prędkością nasz bohater używa grupy wyobrażonych ekspertów, aspektów jak je nazywa. Każdy z nich specjalizuje się w czymś innym i pomaga mu radzić sobie w najdziwniejszych i najbardziej wymagających sytuacjach. Biorąc pod uwagę jego zdolności, Stephen przyjmuje tylko sprawy, które wydadzą mu się interesujące, a których nikt inny nie zdołałby rozwiązać.&lt;/p&gt; &lt;p&gt;Bardzo dobrze czytało mi się tę książkę, jednak nie będzie to moja ulubiona pozycja tego autora. Zdecydowanie jestem fanką kompleksowo stworzonych światów i wielowątkowej fabuły....</description>
         <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/legion/</link>
-        <guid isPermaLink="true">http://localhost:4000/legion/</guid>
+        <link>/legion/</link>
+        <guid isPermaLink="true">/legion/</guid>
         
         <category>Legion</category>
         
@@ -353,8 +373,8 @@
         <title>It Ends with Us</title>
         <description>&lt;p&gt;Nigdy nie byłam fanką książek obyczajowych i nigdy nie były one wysoko na mojej liście do czytania. Jednak postanowiłam sobie, że w tym roku poszerzę nieco moje czytelnicze horyzonty poza fantastykę i sci-fi. Wiele razy słyszałam, że jeśli chcę przeczytać jakąś dobrą powieść obyczajową, to powinnam sięgnąć po Colleen Hoover. Kiedy więc nadarzyła się okazja, żeby przeczytać It Ends with Us od razu z niej skorzystałam. I byłam bardzo, ale to bardzo pozytywnie zaskoczona.&lt;/p&gt; &lt;p&gt;Lily Bloom poznajemy w dniu pogrzebu jej ojca, na którym w swojej mowie pożegnalnej nie powiedziała o nim ani jednego dobrego słowa. Dla niej był on...</description>
         <pubDate>Mon, 21 Jan 2019 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/itendswithus/</link>
-        <guid isPermaLink="true">http://localhost:4000/itendswithus/</guid>
+        <link>/itendswithus/</link>
+        <guid isPermaLink="true">/itendswithus/</guid>
         
         <category>It Ends with Us</category>
         
@@ -373,8 +393,8 @@
         <title>Czasami kłamię</title>
         <description>&lt;p&gt;Amber Reynolds budzi się w szpitalu. Nie może otworzyć oczu, mówić ani nawet ruszyć palcem. Pamięta wypadek samochodowy, ale szczegóły kilku ostatnich dni zacierają się w jej pamięci. Jest świadoma tego gdzie jest i co się dzieje wokół niej, słyszy ludzi rozmawiających nad jej łóżkiem. Jej umysł pracuje na najwyższych obrotach. Z urywków rozmów i własnych poplątanych wspomnień musi poskładać sobie, kawałek po kawałku, co działo się z nią przez kilka ostatnich dni.&lt;/p&gt; &lt;p&gt;Poznajemy historię Amber na trzy sposoby. Rozdziały dzielą się na te, które dzieją się w chwili obecnej - w szpitalu gdzie leży bohaterka, na wydarzenia dziejące się...</description>
         <pubDate>Fri, 18 Jan 2019 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/sometimesilie/</link>
-        <guid isPermaLink="true">http://localhost:4000/sometimesilie/</guid>
+        <link>/sometimesilie/</link>
+        <guid isPermaLink="true">/sometimesilie/</guid>
         
         <category>Czasami kłamię</category>
         
@@ -393,8 +413,8 @@
         <title>Pierwsze Słowo</title>
         <description>&lt;p&gt;Pierwsze Słowo Marty Kisiel to zbiór opowiadań - fantastycznych, zabawnych a czasem bardzo mrocznych. Jeszcze nie miałam przyjemności czytać niczego tej autorki, ale już od samego początku byłam bardzo mile zaskoczona. Króciutkie opowiadanie “Rozmowa dyskwalifikacyjna” rozbawiło mnie do łez, a kolejne - “Dożywocie” czytałam długo w noc, bo nie mogłam się od niego oderwać.&lt;/p&gt; &lt;p&gt;Autorka ma bardzo inteligentny styl pisania, nie waha się czerpać z panujących w społeczeństwie stereotypów i obśmiewać zwyczajów oraz przywar naszych czasów. Bardzo lubię takie poczucie humoru. Większość opowiadań w tym zbiorze porusza jakiś aspekt śmierci. Niektóre z nich były naprawdę mroczne i sprawiały, że włos...</description>
         <pubDate>Wed, 16 Jan 2019 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/pierwszeslowo/</link>
-        <guid isPermaLink="true">http://localhost:4000/pierwszeslowo/</guid>
+        <link>/pierwszeslowo/</link>
+        <guid isPermaLink="true">/pierwszeslowo/</guid>
         
         <category>Pierwsze Słowo</category>
         
@@ -413,8 +433,8 @@
         <title>Pierwszy Rok</title>
         <description>&lt;p&gt;W swojej debiutanckiej książce Pierwszy Rok Rachel E. Carter zabiera nas w podróż do fantastycznej krainy Jeraru, gdzie wszyscy młodzi ludzie muszą zdecydować, czy będą trudnić się prostym handlem, czy podejmą się próby dostania się do elitarnej akademii szkolącej rycerzy, kawalerię i magów. Nasza bohaterka, Ryiah, jest przekonana, że jest wystarczająco dobra, by zostać magiem. I to nie byle jakim, bo najbardziej elitarnym - magiem bojowym. Szybko jednak przekonuje się, że fakt, iż wywodzi się z ubogiej rodziny stawia ją w bardzo niekorzystnym położeniu. Okazuje się, że na pięć miejsc w każdej z trzech magicznych frakcji chętnych jest ponad setka....</description>
         <pubDate>Sat, 12 Jan 2019 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/firstyear/</link>
-        <guid isPermaLink="true">http://localhost:4000/firstyear/</guid>
+        <link>/firstyear/</link>
+        <guid isPermaLink="true">/firstyear/</guid>
         
         <category>Pierwszy Rok</category>
         
@@ -433,8 +453,8 @@
         <title>Only the Ocean</title>
         <description>&lt;p&gt;Książkę Only the Ocean dostałam w moim comiesięcznym, książkowym pudełku. Biorąc pod uwagę przepiękną okładkę byłam bardzo ciekawa i nie mogłam się doczekać, żeby zacząć ją czytać. Okazało się, że nie było to proste. Autorka ma bardzo specyficzny styl pisania. Kładzie duży nacisk na różne sposoby mówienia i jej bohaterka, dziewczyna z biednej rodziny, posługuje się bardzo prostym i mało gramatycznym językiem. Od początku bardzo ciężko mi się to czytało. Musiałam się bardzo skupiać na tym co czytam, by zrozumieć co się właściwie w książce dzieje. A i tak często nie potrafiłam zobaczyć oczami wyobraźni opisywanych sekwencji zdarzeń. Kontynuowałam czytanie...</description>
         <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/onlytheocean/</link>
-        <guid isPermaLink="true">http://localhost:4000/onlytheocean/</guid>
+        <link>/onlytheocean/</link>
+        <guid isPermaLink="true">/onlytheocean/</guid>
         
         <category>Only the Ocean</category>
         
@@ -453,8 +473,8 @@
         <title>Dziedzic Imperium</title>
         <description>&lt;p&gt;Dziedzic Imperium autorstwa Timothy Zahna to pierwsza część trylogii Gwiezdne Wojny: Trylogia Thrawna i po raz pierwszy wydana była około 27 lat temu. Co wydaje się naprawdę niesamowite, biorąc pod uwagę, że książkę czyta się z równą łatwością, jak te pisane obecnie. Z twórczością autora spotkałam się po raz pierwszy w zeszłym roku, gdy przeczytałam jego nową książkę - Thrawn. Bardzo mi się ona spodobała i stwierdziłam, że postać Wielkiego Admirała jest cudownie wykreowana. Mój mąż, widząc mój entuzjazm, polecił mi przeczytanie oryginalnej Trylogii Thrawna, która teraz została przeniesiona do działu Legendy Gwiezdnych Wojen. Wykopaliśmy te stare książki z domu...</description>
         <pubDate>Sat, 05 Jan 2019 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/heirtotheempire/</link>
-        <guid isPermaLink="true">http://localhost:4000/heirtotheempire/</guid>
+        <link>/heirtotheempire/</link>
+        <guid isPermaLink="true">/heirtotheempire/</guid>
         
         <category>Dziedzic Imperium</category>
         
@@ -473,8 +493,8 @@
         <title>Skyward</title>
         <description>&lt;p&gt;Skyward autorstwa Brandona Sandersona to książka sci-fi skierowana głównie do młodzieży, jednak jestem pewna, że nie tylko młodzi ludzie ją docenią. Autor jeszcze nigdy mnie nie zawiódł i również jego najnowsza książka mnie zachwyciła. Nie potrafię do końca sprecyzować, co takiego jest w jego prozie, ale każda jego historia potrafi mnie wciągnąć bez reszty do tego stopnia, że zapominam o całym świecie.&lt;/p&gt; &lt;p&gt;Tym razem poznajemy historię Spensy, dziewczyny która marzy o tym, by zostać pilotem kosmicznego myśliwca, jak jej ojciec. Żyje ona na planecie, na której wiele lat temu rozbił się statek jej przodków. Ludzkość jest niemal całkowicie wytępiona i...</description>
         <pubDate>Fri, 21 Dec 2018 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/skyward/</link>
-        <guid isPermaLink="true">http://localhost:4000/skyward/</guid>
+        <link>/skyward/</link>
+        <guid isPermaLink="true">/skyward/</guid>
         
         <category>Skyward</category>
         
@@ -491,8 +511,8 @@
         <title>Córki Smoka</title>
         <description>&lt;p&gt;Córki smoka to książka z gatunku fikcji historycznej, która przedstawia historię Hong Jae-hee. Opowiada ona swoją tragiczną historię wnuczce, jedynej potomkini, która została adoptowana przez amerykańską rodzinę.&lt;/p&gt; &lt;p&gt;Opowieść jest tak straszliwie smutna, że będzie Wam wyciskać łzy z oczu. Jae-hee jako młoda dziewczyna dostaje rozkaz od okupującej japońskiej armii by wraz z siostrą stawić się do pracy w fabryce butów. Szybko jednak okazuje się, że fabryka butów to stacja komfortu dla japońskich żołnierzy. W wieku czternastu lat Jae-hee zostaje zmuszona pracować jako niewolnica dla japońskiej armii, “kobieta do towarzystwa”. To co się tam działo jest po prostu nie do uwierzenia....</description>
         <pubDate>Mon, 17 Dec 2018 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/daughtersofthedragon/</link>
-        <guid isPermaLink="true">http://localhost:4000/daughtersofthedragon/</guid>
+        <link>/daughtersofthedragon/</link>
+        <guid isPermaLink="true">/daughtersofthedragon/</guid>
         
         <category>Córki Smoka</category>
         
@@ -509,8 +529,8 @@
         <title>Uniesienie</title>
         <description>&lt;p&gt;Uniesienie Stephena Kinga to krótkie opowiadanie o zwykłym człowieku, który doświadcza niezwykłych rzeczy. Ciężko nazwać to powieścią, gdyż cała historia liczy ledwo 132 strony a to jeszcze przy dużej czcionce i marginesach na pół strony. No i do tego są jeszcze ilustracje przy wszystkich rozdziałach, bardzo ładne zresztą. Można tę książkę zdecydowanie przeczytać w jeden wieczór. A ponieważ mówimy o Kingu, z pewnością tak będzie, bo od historii nie sposób się oderwać. Dodam jeszcze tylko, że książka ta została okrzyknięta najlepszą książką w roku 2018 w kategorii horror w głosowaniu użytkowników portalu Good Reads, ale nie dajcie się zwieść. To...</description>
         <pubDate>Thu, 13 Dec 2018 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/elevation/</link>
-        <guid isPermaLink="true">http://localhost:4000/elevation/</guid>
+        <link>/elevation/</link>
+        <guid isPermaLink="true">/elevation/</guid>
         
         <category>Uniesienie</category>
         
@@ -527,8 +547,8 @@
         <title>The Light Between Worlds</title>
         <description>&lt;p&gt;Co byście zrobili, gdybyście nagle znaleźli się w środku lasu w innym świecie, a do tego w piżamie? To właśnie spotkało Philippę, Jamie’ego i Evelyn. W jednej chwili kulili się w schronie przeciw bombowym w Londynie za czasów II wojny światowej a w następnej byli w przepięknym, spokojnym lesie. Zostaje im zaoferowany azyl, jeśli pomogą mieszkańcom lasu z ich kłopotami. Któż by odmówił takiej ofercie wiedząc, że w każdej chwili może wrócić do domu, jakby nie minęła nawet minuta?&lt;/p&gt; &lt;p&gt;Sięgając po książkę the Light Between Worlds myślałam, że będzie to próba ponownego opowiedzenia Opowieści z Narnii. Motyw przewodni jest dokładnie...</description>
         <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/thelightbetweenworlds/</link>
-        <guid isPermaLink="true">http://localhost:4000/thelightbetweenworlds/</guid>
+        <link>/thelightbetweenworlds/</link>
+        <guid isPermaLink="true">/thelightbetweenworlds/</guid>
         
         <category>The Light Between Worlds</category>
         
@@ -545,8 +565,8 @@
         <title>Bratobójca</title>
         <description>&lt;p&gt;W drugiej części Wojen Lotosowych, Bratobójcy, Jay Kristoff zabiera nas w podróż pełną smutku, straty i kompletnego chaosu. Po śmierci szoguna Imperium Shimy staje przed groźbą wojny domowej. Klany szykują się do walki o przejęcie władzy a ludność Kigen, zainspirowana pojawieniem się Tancerki Burzy, wszczyna zamieszki, podsycane również przez agentów Kage. Jednak Gildia Lotosu działa szybko i efektywnie, upewniając się, że kolejny szogun będzie im nie tylko przychylny, ale będzie robił dokładnie to, co mu każą.&lt;/p&gt; &lt;p&gt;W międzyczasie Yukiko stara się pogodzić z rozpaczą po stracie ojca. Nie jest to łatwe zadanie, biorąc pod uwagę, że wszyscy oczekują od niej,...</description>
         <pubDate>Tue, 27 Nov 2018 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/kinslayer/</link>
-        <guid isPermaLink="true">http://localhost:4000/kinslayer/</guid>
+        <link>/kinslayer/</link>
+        <guid isPermaLink="true">/kinslayer/</guid>
         
         <category>Jay Kristoff</category>
         
@@ -563,30 +583,12 @@
         <title>To Kill a Kingdom</title>
         <description>&lt;p&gt;To Kill a Kingdom autorstwa Alexandry Christo to swego rodzaju ponowne opowiedzenie historii małej syrenki. Oczywiście w wersji dużo mroczniejszej i bardziej brutalnej, przeznaczonej dla młodych dorosłych, a nie dla dzieci.&lt;/p&gt; &lt;p&gt;Mamy tu dwójkę głównych bohaterów. Lira jest córką Królowej Mórz i zapracowała sobie na siejący postrach przydomek Zguby Książąt. Syreny kolekcjonują ludzkie serca, które zwiększają ich moc i zapewniają im młodość, Lira natomiast, która jest najpotężniejsza wśród swego rodzaju, poluje jedynie na serca książąt. Jest dzika, okrutna i brutalna, a jej jedynym celem jest przypodobanie się matce, by ta pewnego dnia przekazała jej koronę Królowej Mórz. Jednak nasza bohaterka...</description>
         <pubDate>Mon, 19 Nov 2018 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/tokillakingdom/</link>
-        <guid isPermaLink="true">http://localhost:4000/tokillakingdom/</guid>
+        <link>/tokillakingdom/</link>
+        <guid isPermaLink="true">/tokillakingdom/</guid>
         
         <category>To Kill a Kingdom</category>
         
         <category>Alexandra Cristo</category>
-        
-        <category>recenzja</category>
-        
-        
-        <category>recenzja</category>
-        
-      </item>
-    
-      <item>
-        <title>Alyssa i Czary</title>
-        <description>&lt;p&gt;Alyssa i Czary autorstwa A. G. Howard to pełna nieprzerwanej akcji opowieść inspirowana Alicją w Krainie Czarów. Alyssa Gardner na pierwszy rzut oka wygląda na normalną nastolatkę. Ale nie ma nic dalszego od prawdy. Jej matka jest zamknięta w zakładzie psychiatrycznym, ponieważ ponoć cierpi na urojenia, które zaczynają dręczyć również jej córkę. Dziewczyna słyszy głosy kwiatów i owadów oraz widzi różne niestworzone rzeczy. Jednak okazuje się, że to wcale nie choroba psychiczna, a klątwa rodziny Liddell, którą sprowadziła na nie słynna Alicja. Czy to możliwe, by Kraina Czarów istniała naprawdę? I czy Alyssa odważy się tam udać, by uratować siebie...</description>
-        <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/splintered/</link>
-        <guid isPermaLink="true">http://localhost:4000/splintered/</guid>
-        
-        <category>A. G. Howard</category>
-        
-        <category>Alyssa i Czary</category>
         
         <category>recenzja</category>
         
