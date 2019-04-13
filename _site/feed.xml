@@ -5,9 +5,29 @@
     <description>I'm Kamila and I love books! If you looking for book recommendations you can check out my blog and see what I'm reading!</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 11 Apr 2019 23:32:13 +0100</pubDate>
-    <lastBuildDate>Thu, 11 Apr 2019 23:32:13 +0100</lastBuildDate>
+    <pubDate>Sat, 13 Apr 2019 23:46:23 +0100</pubDate>
+    <lastBuildDate>Sat, 13 Apr 2019 23:46:23 +0100</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Kasacja</title>
+        <description>&lt;p&gt;Kasacja jest pierwszą książką z cyklu Joanna Chyłka Remigiusza Mroza. Serii tej chyba nie trzeba nikomu przedstawiać, jestem pewnie jedną z niewielu osób, które do tej pory jeszcze jej nie przeczytały. Ale polecano mi ją już tak wiele razy, że kiedyś nabyłam ją przy okazji zakupów w księgarni, potem swoje przeleżała na półce i w końcu nastał jej czas.&lt;/p&gt; &lt;p&gt;Syn bogatego biznesmena zostaje oskarżony o wyjątkowo okrutne morderstwo dwóch osób. Sprawę prowadzi Joanna Chyłka, ambitna, bezwzględna i przede wszystkim skuteczna prawniczka z jednej z największych warszawskich kancelarii. Pomaga jej świeżo upieczony aplikant Kordian Oryński. Sprawa choć wydaje się prosta, wcale...</description>
+        <pubDate>Fri, 12 Apr 2019 00:00:00 +0100</pubDate>
+        <link>/kasacja/</link>
+        <guid isPermaLink="true">/kasacja/</guid>
+        
+        <category>Kasacja</category>
+        
+        <category>Remigiusz Mróz</category>
+        
+        <category>recenzja</category>
+        
+        <category>Joanna Chyłka</category>
+        
+        
+        <category>recenzja</category>
+        
+      </item>
     
       <item>
         <title>The Raven Boys</title>
@@ -583,26 +603,6 @@
         <category>book recommendation</category>
         
         <category>Laura E. Weymouth</category>
-        
-        
-        <category>review</category>
-        
-      </item>
-    
-      <item>
-        <title>Kinslayer</title>
-        <description>&lt;p&gt;In a second book of Lotus Wars, Kinslayer, Jay Kristoff is taking us to a journey full of grief, loss and chaos. After Shōgun’s death Shima Imperium is facing a threat of civil war. Clans start to prepare for taking the power for themselves and people of Kigen start a riots inspired by the Stormdancer and supported by Kage agents. But the Lotus Guild is working quickly and efficiently, making sure the future Shōgun will be their puppet.&lt;/p&gt; &lt;p&gt;In the meantime Yukiko is trying to cope with grief and anger after her father’s death. This is no easy task considering...</description>
-        <pubDate>Tue, 27 Nov 2018 00:00:00 +0000</pubDate>
-        <link>/kinslayer/</link>
-        <guid isPermaLink="true">/kinslayer/</guid>
-        
-        <category>Kinslayer</category>
-        
-        <category>book review</category>
-        
-        <category>book recommendation</category>
-        
-        <category>Jay Kristoff</category>
         
         
         <category>review</category>
