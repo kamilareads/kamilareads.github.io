@@ -5,9 +5,29 @@
     <description>I'm Kamila and I love books! If you looking for book recommendations you can check out my blog and see what I'm reading!</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 17 Apr 2019 08:46:00 +0100</pubDate>
-    <lastBuildDate>Wed, 17 Apr 2019 08:46:00 +0100</lastBuildDate>
+    <pubDate>Wed, 24 Apr 2019 22:17:06 +0100</pubDate>
+    <lastBuildDate>Wed, 24 Apr 2019 22:17:06 +0100</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Dark Force Rising</title>
+        <description>&lt;p&gt;Dark Force Rising by Timothy Zahn is the second book in Star Wars: The Thrawn Trilogy. After reading the first book I couldn’t wait to read this one and see what Grand Admiral will scheme this time. And I was not disappointed!&lt;/p&gt; &lt;p&gt;As Heir to Empire started slow and a little bit boring, here we have action from the very start. Our heroes don’t waste any time and after a quick catch up they move yet again - Han and Lando to find out who is the traitor in the midst of the Republic, Leia to negotiate peace terms with...</description>
+        <pubDate>Wed, 24 Apr 2019 00:00:00 +0100</pubDate>
+        <link>/darkforcerising/</link>
+        <guid isPermaLink="true">/darkforcerising/</guid>
+        
+        <category>Dark Force Rising</category>
+        
+        <category>book review</category>
+        
+        <category>Timothy Zahn</category>
+        
+        <category>The Thrawn Trilogy</category>
+        
+        
+        <category>review</category>
+        
+      </item>
     
       <item>
         <title>Władczyni Mroku</title>
@@ -583,26 +603,6 @@
         <category>book recommendation</category>
         
         <category>William Andrews</category>
-        
-        
-        <category>review</category>
-        
-      </item>
-    
-      <item>
-        <title>Elevation</title>
-        <description>&lt;p&gt;Elevation by Stephen King is a short story about an ordinary man who experience extraordinary things. It’s hardly a novella, as it has 132 pages with big letters and big margins and also some nice illustrations. Basically you can read it in just one evening. And as it is King we are talking about you won’t be bored with it. Just for the record, this book was voted best Horror book of 2018 by Good Reads users, but don’t let that scare you. It is NOT a horror.&lt;/p&gt; &lt;p&gt;King’s greatest talent I think, is telling people’s stories and creating worlds...</description>
-        <pubDate>Thu, 13 Dec 2018 00:00:00 +0000</pubDate>
-        <link>/elevation/</link>
-        <guid isPermaLink="true">/elevation/</guid>
-        
-        <category>Elevation</category>
-        
-        <category>book review</category>
-        
-        <category>book recommendation</category>
-        
-        <category>Stephen King</category>
         
         
         <category>review</category>
