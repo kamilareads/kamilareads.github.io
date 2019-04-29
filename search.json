@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Dożywocie",
+      "tags"     : "Dożywocie, Marta Kisiel, recenzja, and Lichotka",
+      "categories" : "recenzja",
+      "url"      : "/dozywocie/",
+      "date"     : "04/29/2019"
+    } ,
+  
+    {
       "title"    : "The Beekeeper of Aleppo",
       "tags"     : "The Beekeeper of Aleppo, book review, Christy Lefteri, and book recommendation",
       "categories" : "review",
