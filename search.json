@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "A Darker Shade of Magic",
+      "tags"     : "A Darker Shade of Magic, book review, V. E. Schwab, and Shades of Magic",
+      "categories" : "review",
+      "url"      : "/adsom/",
+      "date"     : "05/10/2019"
+    } ,
+  
+    {
       "title"    : "Dożywocie",
       "tags"     : "Dożywocie, Marta Kisiel, recenzja, and Lichotka",
       "categories" : "recenzja",
