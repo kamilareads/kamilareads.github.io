@@ -5,9 +5,29 @@
     <description>I'm Kamila and I love books! If you looking for book recommendations you can check out my blog and see what I'm reading!</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 10 May 2019 23:11:37 +0100</pubDate>
-    <lastBuildDate>Fri, 10 May 2019 23:11:37 +0100</lastBuildDate>
+    <pubDate>Tue, 14 May 2019 23:04:23 +0100</pubDate>
+    <lastBuildDate>Tue, 14 May 2019 23:04:23 +0100</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>The Never Game</title>
+        <description>&lt;p&gt;The Never Game is the first novel in new Colter Shaw series by award-winning author Jeffery Deaver. I must admit, that this was my first book from this author, although I watched the Bone Collector movie based on his book. I was intrigued by the book’s description. The action is based in Silicon Valley, where mysterious criminal put his victims into survival scenarios based on some video game. As a gaming nerd I was intrigued right away!&lt;/p&gt; &lt;p&gt;Colter Shaw is not a policeman nor a private detective, but he does help police or civilians track down people for rewards. And...</description>
+        <pubDate>Tue, 14 May 2019 00:00:00 +0100</pubDate>
+        <link>/thenevergame/</link>
+        <guid isPermaLink="true">/thenevergame/</guid>
+        
+        <category>The Never Game</category>
+        
+        <category>book review</category>
+        
+        <category>Jeffery Deaver</category>
+        
+        <category>Colter Shaw</category>
+        
+        
+        <category>review</category>
+        
+      </item>
     
       <item>
         <title>A Darker Shade of Magic</title>
@@ -583,26 +603,6 @@
         <category>The Black Mage</category>
         
         <category>Rachel E. Carter</category>
-        
-        
-        <category>review</category>
-        
-      </item>
-    
-      <item>
-        <title>Only the Ocean</title>
-        <description>&lt;p&gt;I’ve got Only the Ocean by Natasha Carthew form a book box and, considering a beautiful cover, I couldn’t wait to dig right into it. It turned out it wasn’t that easy. The book is written in a very peculiar way. The author is heavy emphasising different accents and way of speaking for the main character, who is a girl from poor ‘swamp folk’. From the very beginning this book is very hard to read. I had to be very focused to understand what exactly was happening, and even though I tried, I often was confused and couldn’t imagine it...</description>
-        <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
-        <link>/onlytheocean/</link>
-        <guid isPermaLink="true">/onlytheocean/</guid>
-        
-        <category>Only the Ocean</category>
-        
-        <category>book review</category>
-        
-        <category>Young Adult</category>
-        
-        <category>Natasha Carthew</category>
         
         
         <category>review</category>
