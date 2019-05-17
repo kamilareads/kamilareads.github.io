@@ -5,9 +5,29 @@
     <description>I'm Kamila and I love books! If you looking for book recommendations you can check out my blog and see what I'm reading!</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 14 May 2019 23:04:23 +0100</pubDate>
-    <lastBuildDate>Tue, 14 May 2019 23:04:23 +0100</lastBuildDate>
+    <pubDate>Fri, 17 May 2019 08:56:18 +0100</pubDate>
+    <lastBuildDate>Fri, 17 May 2019 08:56:18 +0100</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Toń</title>
+        <description>&lt;p&gt;Toń to kolejna książka Marty Kisiel, którą miałam przyjemność przeczytać. Dla mnie zwykle są dwie grupy autorów. Tacy, których jedna książka mi się spodoba, więc sięgam po inne, ale to już nie to samo. Druga grupa natomiast, to ci, których książki mogę kupować w ciemno i nigdy nie jestem zawiedziona. Pani Marta należy do tych drugich. Uwielbiam jej styl i poczucie humoru, które trafia do mnie bezbłędnie.&lt;/p&gt; &lt;p&gt;Dżusi zostaje niespodziewanie wezwana przez swoja ciotkę, by pod jej nieobecność wraz siostrą doglądać mieszkania. Dziewczyna, nie nawykła do długich namysłów, zgadza się i wyrusza do Wrocławia, gdzie spędziła dzieciństwo i skąd umyślnie...</description>
+        <pubDate>Thu, 16 May 2019 00:00:00 +0100</pubDate>
+        <link>/ton/</link>
+        <guid isPermaLink="true">/ton/</guid>
+        
+        <category>Toń</category>
+        
+        <category>Marta Kisiel</category>
+        
+        <category>recenzja</category>
+        
+        <category>Uroboros</category>
+        
+        
+        <category>recenzja</category>
+        
+      </item>
     
       <item>
         <title>The Never Game</title>
@@ -583,26 +603,6 @@
         <category>anthology</category>
         
         <category>Marta Kisiel</category>
-        
-        
-        <category>review</category>
-        
-      </item>
-    
-      <item>
-        <title>First Year</title>
-        <description>&lt;p&gt;In her debut First Year Rachel E. Carter is taking us to Jerar, a fantasy land, where all young people are faced with a choice. Either pursue career in trade or try to get into most prestigious academy to become a soldier, knight or a mage. Our protagonist, Ryiah, is convinced she is good enough to become a mage, and not just an Alchemist or a Healer. She’s striving to be the most elite kind of them all - a Combat mage. But she soon finds out that her poor lineage is putting her in great disadvantage. After first year...</description>
-        <pubDate>Sat, 12 Jan 2019 00:00:00 +0000</pubDate>
-        <link>/firstyear/</link>
-        <guid isPermaLink="true">/firstyear/</guid>
-        
-        <category>First Year</category>
-        
-        <category>book review</category>
-        
-        <category>The Black Mage</category>
-        
-        <category>Rachel E. Carter</category>
         
         
         <category>review</category>
