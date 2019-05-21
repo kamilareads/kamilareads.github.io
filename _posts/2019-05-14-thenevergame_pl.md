@@ -7,7 +7,7 @@ releaseDate: 16/05/2019
 pages: 365
 publisher: HarperCollins
 permalink: /thenevergame/
-introduction: ‘Love, Colter Shaw had learned, could be an endlessly refillable prescription of madness.
+introduction: Love, Colter Shaw had learned, could be an endlessly refillable prescription of madness.
 image: /assets/img/posty/thenevergame.jpg
 category: 'recenzja'
 tags:
@@ -28,6 +28,6 @@ tags:
 
   Szybko polubiłam również samego Shawa. Jest on bardzo racjonalny, opanowany oraz niezwykle zaradny. Co więcej, nie jest on zwykłym najemnikiem, pracującym dla tego, kto płaci najwięcej. Przyjmuje tylko te sprawy, które go zainteresują i zwykle robi to nie dla nagrody, ale by pomóc nieszczęsnym, bezbronnym ofiarom, lub by wesprzeć policję w pochwyceniu niebezpiecznych zbiegów. Jest on również niezwykle inteligentny i nie boi się podejmować ryzyka. Oprócz głównego śledztwa mamy tu również zasygnalizowaną inną intrygę, rodzinną tajemnicę, która czeka na rozwiązanie. Jednak w pierwszej książce jest ona jedynie wspomniana, więc jej rozwinięcie będzie zapewne w kolejnych częściach.
 
-  Nie jestem znawczynią thrillerów i kryminałów, ale lubię je poczytać od czasu do czasu. Przy the Never Game spędziłam miło kilka wieczorów. Książka szczególnie spodoba się fanom gier komputerowych. Nie wiem jeszcze jakie kolejne sprawy przyjmie Colter Shaw, ale z przyjemnością spotkam się z nim ponownie w kolejnych częściach serii. 
+  Nie jestem znawczynią thrillerów i kryminałów, ale lubię je poczytać od czasu do czasu. Przy the Never Game spędziłam miło kilka wieczorów. Książka szczególnie spodoba się fanom gier komputerowych. Nie wiem jeszcze jakie kolejne sprawy przyjmie Colter Shaw, ale z przyjemnością spotkam się z nim ponownie w kolejnych częściach serii.
 
   \*\*\*\*
