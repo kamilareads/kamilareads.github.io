@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Shadow Run",
+      "tags"     : "Shadow Run, book review, Adrianne Strickland, Michael Miller, and Kaitan Chronicles",
+      "categories" : "review",
+      "url"      : "/shadowrun/",
+      "date"     : "06/10/2019"
+    } ,
+  
+    {
       "title"    : "Zenith",
       "tags"     : "Zenith, book review, Sasha Alsberg, and Lindsay Cummings",
       "categories" : "review",

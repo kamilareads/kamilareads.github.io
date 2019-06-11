@@ -5,9 +5,29 @@
     <description>I'm Kamila and I love books! If you looking for book recommendations you can check out my blog and see what I'm reading!</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 06 Jun 2019 23:21:22 +0100</pubDate>
-    <lastBuildDate>Thu, 06 Jun 2019 23:21:22 +0100</lastBuildDate>
+    <pubDate>Tue, 11 Jun 2019 08:54:15 +0100</pubDate>
+    <lastBuildDate>Tue, 11 Jun 2019 08:54:15 +0100</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Shadow Run</title>
+        <description>&lt;p&gt;Shadow Run is the first book in Kaitan Chronicles series by AdriAnne Strickland and Michael Miller. It’s a YA adventure sci-fi based in the far future. The world is not only technologically advanced but has already faced the first drawback, when the vast Star Gates exploded for no apparent reason. This is the reason why the mysterious substance – Shadow is the main topic of speculation. It holds enormous potential to be used as fuel and supporting other technologies, but it’s also completely unstable. Most people can’t be near it for a long time. But there are some exceptions. Qole...</description>
+        <pubDate>Mon, 10 Jun 2019 00:00:00 +0100</pubDate>
+        <link>/shadowrun/</link>
+        <guid isPermaLink="true">/shadowrun/</guid>
+        
+        <category>Shadow Run</category>
+        
+        <category>book review</category>
+        
+        <category>Adrianne Strickland, Michael Miller</category>
+        
+        <category>Kaitan Chronicles</category>
+        
+        
+        <category>review</category>
+        
+      </item>
     
       <item>
         <title>Zenith</title>
@@ -583,26 +603,6 @@
         <category>Gdzie śpiewają diabły</category>
         
         <category>fantasy</category>
-        
-        
-        <category>review</category>
-        
-      </item>
-    
-      <item>
-        <title>Legion</title>
-        <description>&lt;p&gt;Legion: The Many Lives of Stephen Leeds by Brandon Sanderson is an anthology of three short novellas about a genius Stephen Leeds. To deal with his extraordinary mind he is creating a hallucinations, aspects as he calls them, of the experts in differences fields who help him deal with all kind of situations. He works as a detective and only takes the cases that interests him, which also are not ordinary.&lt;/p&gt; &lt;p&gt;I really enjoyed this book, although it won’t be my favourite from this author. I do prefer the complex stories full of details and many different story threads. But...</description>
-        <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
-        <link>/legion/</link>
-        <guid isPermaLink="true">/legion/</guid>
-        
-        <category>Brandon Sanderson</category>
-        
-        <category>book review</category>
-        
-        <category>Legion</category>
-        
-        <category>thriller</category>
         
         
         <category>review</category>
