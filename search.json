@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "The Outcast",
+      "tags"     : "The Outcast, book review, Taran Matharu, and Summoner",
+      "categories" : "review",
+      "url"      : "/theoutcast/",
+      "date"     : "06/21/2019"
+    } ,
+  
+    {
       "title"    : "Shadow Run",
       "tags"     : "Shadow Run, book review, Adrianne Strickland, Michael Miller, and Kaitan Chronicles",
       "categories" : "review",
