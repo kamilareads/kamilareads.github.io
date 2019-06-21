@@ -5,9 +5,29 @@
     <description>I'm Kamila and I love books! If you looking for book recommendations you can check out my blog and see what I'm reading!</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 11 Jun 2019 08:54:15 +0100</pubDate>
-    <lastBuildDate>Tue, 11 Jun 2019 08:54:15 +0100</lastBuildDate>
+    <pubDate>Fri, 21 Jun 2019 23:26:27 +0100</pubDate>
+    <lastBuildDate>Fri, 21 Jun 2019 23:26:27 +0100</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>The Outcast</title>
+        <description>&lt;p&gt;The Outcast written by Taran Matharu is a prequel to the very popular series Summoner. I haven’t read the main story yet, but because I like to read stories with chronological order, I decided that I want to read the Outcast first.&lt;/p&gt; &lt;p&gt;Arcturus is an orphan who is fighting for survival. But he has a grand plan. He collected enough money to run away from his slave-like job in the inn and maybe try his luck somewhere else now. But everything changes when he unintentionally steals a magic scroll from a noble boy, and it turns out he has the...</description>
+        <pubDate>Fri, 21 Jun 2019 00:00:00 +0100</pubDate>
+        <link>/theoutcast/</link>
+        <guid isPermaLink="true">/theoutcast/</guid>
+        
+        <category>The Outcast</category>
+        
+        <category>book review</category>
+        
+        <category>Taran Matharu</category>
+        
+        <category>Summoner</category>
+        
+        
+        <category>review</category>
+        
+      </item>
     
       <item>
         <title>Shadow Run</title>
@@ -583,26 +603,6 @@
         <category>Apprentice</category>
         
         <category>The Black Mage</category>
-        
-        
-        <category>review</category>
-        
-      </item>
-    
-      <item>
-        <title>Gdzie śpiewają diabły</title>
-        <description>&lt;p&gt;Welcome to Azyl. It seems as world have forgotten about this little town. Phones are not working here, not to mention the Internet. There’s a lot of big, empty houses and their numbers are against any logic or order. But the names of the streets are really poetic. There is also a lake here, the town’s folk calls it Devil’s Lake, although you won’t find it on any map. Its surface is jet black and its coast very treacherous, so don’t let its beauty deceive you. Sometimes you can hear the Devil singing here. Local people can tell you the...</description>
-        <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
-        <link>/gdziespiewajadiably/</link>
-        <guid isPermaLink="true">/gdziespiewajadiably/</guid>
-        
-        <category>Magdalena Kubasiewicz</category>
-        
-        <category>book review</category>
-        
-        <category>Gdzie śpiewają diabły</category>
-        
-        <category>fantasy</category>
         
         
         <category>review</category>
