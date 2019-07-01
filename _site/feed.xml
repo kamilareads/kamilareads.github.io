@@ -5,9 +5,29 @@
     <description>I'm Kamila and I love books! If you looking for book recommendations you can check out my blog and see what I'm reading!</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 27 Jun 2019 23:28:52 +0100</pubDate>
-    <lastBuildDate>Thu, 27 Jun 2019 23:28:52 +0100</lastBuildDate>
+    <pubDate>Tue, 02 Jul 2019 00:15:21 +0100</pubDate>
+    <lastBuildDate>Tue, 02 Jul 2019 00:15:21 +0100</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Shadow Frost</title>
+        <description>&lt;p&gt;Shadow Frost is a debut novel by young author Coco Ma. It’s the first book in a new fantasy YA series. It’s a story about Asterin, Princess of Axaria. There is a demon terrorising her kingdom, and it seems that she’s the only one who can defeat it. Together with her friends and elite guards, she’s embarking on a hunt. But none of them can predict the outcome of this journey.&lt;/p&gt; &lt;p&gt;This book is full of action, adventure and has an impressive magic system. There are nine elements that a person can wield, like water, air, ice, fire, and so...</description>
+        <pubDate>Mon, 01 Jul 2019 00:00:00 +0100</pubDate>
+        <link>/shadowfrost/</link>
+        <guid isPermaLink="true">/shadowfrost/</guid>
+        
+        <category>Shadow Frost</category>
+        
+        <category>book review</category>
+        
+        <category>Coco Ma</category>
+        
+        <category>YA fantasy</category>
+        
+        
+        <category>review</category>
+        
+      </item>
     
       <item>
         <title>Twierdza Kimerydu</title>
@@ -583,26 +603,6 @@
         <category>Daniel José Older</category>
         
         <category>Star Wars</category>
-        
-        
-        <category>review</category>
-        
-      </item>
-    
-      <item>
-        <title>The Gutter Prayer</title>
-        <description>&lt;p&gt;The Gutter Prayer is a debut novel by Gareth Ryder-Hanrahan. It is a dark fantasy story based in a city of Guerdon. In the world torn apart by Godswar, where gods and their chosen saints are destructing and killing all on their way, Guerdon is a neutral, peaceful oasis. But not get deceived that it is safe. It’s full of strange creatures lurking in the dark, as well as monsters walking on the streets as bodyguards. And if you’re not careful and you break the law you may as well be turned to one of them.&lt;/p&gt; &lt;p&gt;The story begins with...</description>
-        <pubDate>Thu, 14 Feb 2019 00:00:00 +0000</pubDate>
-        <link>/thegutterprayer/</link>
-        <guid isPermaLink="true">/thegutterprayer/</guid>
-        
-        <category>The Gutter Prayer</category>
-        
-        <category>book review</category>
-        
-        <category>Gareth Ryder-Hanrahan</category>
-        
-        <category>dark fantasy</category>
         
         
         <category>review</category>
