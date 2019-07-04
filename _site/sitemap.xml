@@ -71,6 +71,10 @@
     
     
         <url>
+            <loc>/bomb/</loc>
+        </url>
+  
+        <url>
             <loc>/shadowfrost/</loc>
         </url>
   
