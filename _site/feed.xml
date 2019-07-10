@@ -5,9 +5,29 @@
     <description>I'm Kamila and I love books! If you looking for book recommendations you can check out my blog and see what I'm reading!</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 04 Jul 2019 23:28:28 +0100</pubDate>
-    <lastBuildDate>Thu, 04 Jul 2019 23:28:28 +0100</lastBuildDate>
+    <pubDate>Thu, 11 Jul 2019 00:00:11 +0100</pubDate>
+    <lastBuildDate>Thu, 11 Jul 2019 00:00:11 +0100</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>The Call of Earth</title>
+        <description>&lt;p&gt;The Call of Earth is the second book in a Homecoming Saga by Orson Scott Card. The action takes place right after the ending of The Memory of Earth. After Gaballufix death, the city of Basilica is in chaos. Rasa is desperately trying to bring back peace to her beloved home, but even her extraordinary influence seems not to be enough. And while the city of women striving for survival, a powerful man will grab the opportunity and seize power in the vulnerable fortress. In the meantime, Nafai and his brothers will have to return one last time to Basilica...</description>
+        <pubDate>Wed, 10 Jul 2019 00:00:00 +0100</pubDate>
+        <link>/callofearth/</link>
+        <guid isPermaLink="true">/callofearth/</guid>
+        
+        <category>The Call of Earth</category>
+        
+        <category>book review</category>
+        
+        <category>Orson Scott Card</category>
+        
+        <category>Homecoming Saga</category>
+        
+        
+        <category>review</category>
+        
+      </item>
     
       <item>
         <title>Time Bomb</title>
@@ -583,26 +603,6 @@
         <category>Jay Kristoff</category>
         
         <category>the Lotus Wars</category>
-        
-        
-        <category>review</category>
-        
-      </item>
-    
-      <item>
-        <title>The Wicked King</title>
-        <description>&lt;p&gt;The Wicked King by Holy Black is the second book from The Folk of the Air series. If you haven’t read The Cruel Prince yet and want to avoid spoilers, please don’t read this review, because I can’t write about the sequel without spoiling the ending of the first book. So yes, you’ve been warned.&lt;/p&gt; &lt;p&gt;After the Cruel Prince the author has left us in awe with the book finale. I was very excited to read the sequel, because I was really curious how Jude will handle Cardan in his new role as High King of Faerie. I think I...</description>
-        <pubDate>Tue, 19 Feb 2019 00:00:00 +0000</pubDate>
-        <link>/thewickedking/</link>
-        <guid isPermaLink="true">/thewickedking/</guid>
-        
-        <category>The Wicked King</category>
-        
-        <category>book review</category>
-        
-        <category>Holly Black</category>
-        
-        <category>The Folk of the Air</category>
         
         
         <category>review</category>
