@@ -5,9 +5,29 @@
     <description>I'm Kamila and I love books! If you looking for book recommendations you can check out my blog and see what I'm reading!</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 11 Jul 2019 00:00:11 +0100</pubDate>
-    <lastBuildDate>Thu, 11 Jul 2019 00:00:11 +0100</lastBuildDate>
+    <pubDate>Fri, 12 Jul 2019 23:44:14 +0100</pubDate>
+    <lastBuildDate>Fri, 12 Jul 2019 23:44:14 +0100</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Twierdza Tytonu</title>
+        <description>&lt;p&gt;Twierdza Tytonu to drugi tom opowieści o Twierdzy Kimerydu i jej mieszkańcach. Tutaj akcja rozpoczyna się aż dziesięć lat po dramatycznym zakończeniu poprzedniej części. Do głosu dochodzi nowe pokolenie bohaterów, ale nie zabraknie również naszych ulubionych chłopców, którzy jednak zmuszeni zostają, by szybko wydorośleć. Tym razem większa część książki dzieje się w imperialnej Europie, poznajemy więc w końcu osławione Vintage i dwór Brytanika, o którym tyle było mowy w Twierdzy Kimerydu.&lt;/p&gt; &lt;p&gt;Książka objętościowo jest większa niż poprzednia część, jednak muszę przyznać, że czytało mi się ją lepiej. Nie wiem, czy to zasługa tego, że już weszłam w alternatywny świat Kimerydu,...</description>
+        <pubDate>Fri, 12 Jul 2019 00:00:00 +0100</pubDate>
+        <link>/twierdzatytonu/</link>
+        <guid isPermaLink="true">/twierdzatytonu/</guid>
+        
+        <category>Twierdza Kimerydu</category>
+        
+        <category>Magdalena Pioruńska</category>
+        
+        <category>recenzja</category>
+        
+        <category>Twierdza Tytonu</category>
+        
+        
+        <category>recenzja</category>
+        
+      </item>
     
       <item>
         <title>The Call of Earth</title>
@@ -583,26 +603,6 @@
         <category>Marta Kisiel</category>
         
         <category>Dożywocie</category>
-        
-        
-        <category>review</category>
-        
-      </item>
-    
-      <item>
-        <title>Endsinger</title>
-        <description>&lt;p&gt;Endsinger by Jay Kristoff is the last book in The Lotus Wars series. The Shima Imperium is torn by civil war. After a failed attempt of prolonging the Kazumitsu dynasty Lotus Guild is determined to use their one last asset, the terrible machine called the Earthcrusher to bend other clans to their will and get rid of rebellion once and for all. In the meantime Yukiko and Buruu have to work very hard to keep Kage united to face the upcoming Guild attack. But soon another player will join the conflict, one no one have foreseen.&lt;/p&gt; &lt;p&gt;This book was just...</description>
-        <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
-        <link>/endsinger/</link>
-        <guid isPermaLink="true">/endsinger/</guid>
-        
-        <category>Endsinger</category>
-        
-        <category>book review</category>
-        
-        <category>Jay Kristoff</category>
-        
-        <category>the Lotus Wars</category>
         
         
         <category>review</category>
