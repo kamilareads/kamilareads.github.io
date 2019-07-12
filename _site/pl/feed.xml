@@ -3,18 +3,18 @@
   <channel>
     <title>Kamila reads</title>
     <description>Mam na imię Kamila i kocham książki. Jeśli nie wiesz co czytać zapraszam na bloga! Na pewno znajdziesz tu coś dla siebie!</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/pl/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 12 Jul 2019 23:40:56 +0100</pubDate>
-    <lastBuildDate>Fri, 12 Jul 2019 23:40:56 +0100</lastBuildDate>
+    <link>/</link>
+    <atom:link href="/pl/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 12 Jul 2019 23:44:22 +0100</pubDate>
+    <lastBuildDate>Fri, 12 Jul 2019 23:44:22 +0100</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
     
       <item>
         <title>Twierdza Tytonu</title>
         <description>&lt;p&gt;Twierdza Tytonu to drugi tom opowieści o Twierdzy Kimerydu i jej mieszkańcach. Tutaj akcja rozpoczyna się aż dziesięć lat po dramatycznym zakończeniu poprzedniej części. Do głosu dochodzi nowe pokolenie bohaterów, ale nie zabraknie również naszych ulubionych chłopców, którzy jednak zmuszeni zostają, by szybko wydorośleć. Tym razem większa część książki dzieje się w imperialnej Europie, poznajemy więc w końcu osławione Vintage i dwór Brytanika, o którym tyle było mowy w Twierdzy Kimerydu.&lt;/p&gt; &lt;p&gt;Książka objętościowo jest większa niż poprzednia część, jednak muszę przyznać, że czytało mi się ją lepiej. Nie wiem, czy to zasługa tego, że już weszłam w alternatywny świat Kimerydu,...</description>
         <pubDate>Fri, 12 Jul 2019 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/twierdzatytonu/</link>
-        <guid isPermaLink="true">http://localhost:4000/twierdzatytonu/</guid>
+        <link>/twierdzatytonu/</link>
+        <guid isPermaLink="true">/twierdzatytonu/</guid>
         
         <category>Twierdza Kimerydu</category>
         
@@ -33,8 +33,8 @@
         <title>Wezwanie Ziemi</title>
         <description>&lt;p&gt;Wezwanie Ziemi to drugi tom sagi Powrót do Domu autorstwa Orsona Scott Carda. Akcja dzieje się od razu po zakończeniu poprzedniej części. Po śmierci Gaballufixa Basilica pogrąża się w chaosie. Rasa desperacko stara się wykorzystać swoje wpływy do przywrócenia porządku, jednak nawet jej wysiłki spełzają na niczym. A podczas gdy miasto kobiet walczy o przetrwanie, potężny mężczyzna zamierza wykorzystać nadarzającą się okazję by podstępem przejąć władzę w dogodnie usytuowanej fortecy. Tymczasem Nafai i jego bracia muszą wrócić po raz ostatni do Basilici, by znaleźć żony, które zgodzą się na zawsze opuścić miasto i udać się z nimi na pustynie, w...</description>
         <pubDate>Wed, 10 Jul 2019 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/callofearth/</link>
-        <guid isPermaLink="true">http://localhost:4000/callofearth/</guid>
+        <link>/callofearth/</link>
+        <guid isPermaLink="true">/callofearth/</guid>
         
         <category>Wezwanie Ziemi</category>
         
@@ -53,8 +53,8 @@
         <title>Bomba</title>
         <description>&lt;p&gt;Bomba autorstwa Joelle Charbonneau to pełna akcji i napięcia powieść młodzieżowa. Mamy tu szóstkę skrajnie różniących się od siebie nastolatków, którzy zostają uwięzieni w szkole, w której zaczynają wybuchać kolejne bomby. Pikanterii tej historii dodaje fakt, że już od pierwszej strony wiemy, że ładunki podłożyło któreś z nich.&lt;/p&gt; &lt;p&gt;Książka jest dość krótka. Co prawda ma 350 stron, ale są tu duże marginesy, rozdziały są po dwie, trzy strony i co chwilę pojawiają się przedziałki z pustymi stronami, więc czyta się błyskawicznie. Można bez problemu przeczytać od razu, za jednym razem. Ale co najważniejsze, wciąga od pierwszych stron. Podobało mi się...</description>
         <pubDate>Wed, 03 Jul 2019 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/bomb/</link>
-        <guid isPermaLink="true">http://localhost:4000/bomb/</guid>
+        <link>/bomb/</link>
+        <guid isPermaLink="true">/bomb/</guid>
         
         <category>Bomba</category>
         
@@ -73,8 +73,8 @@
         <title>Shadow Frost</title>
         <description>&lt;p&gt;Shadow Frost to debiutancka powieść młodej autorki Coco Ma i jest to pierwszy tom w nowej serii fantastycznej. Książka opowiada o losach Asterin, księżniczki i następczyni tronu Axarii, która stara się uchronić swoje królestwo od zguby. W jego granicach grasuje bowiem demon, który terroryzuje jego mieszkańców. Gdy okazuje się, że bohaterka może być jedyną osobą zdolną go powstrzymać, nie zwlekając zbiera drużynę przyjaciół i strażników by wyruszyć na straceńczą misję powstrzymania potwora. Nikt z nich jednak nawet nie podejrzewa jak ta wyprawa się skończy.&lt;/p&gt; &lt;p&gt;Książka jest pełna akcji, przygód i ma ciekawy system magii. Jest dziewięć elementów - woda, powietrze,...</description>
         <pubDate>Mon, 01 Jul 2019 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/shadowfrost/</link>
-        <guid isPermaLink="true">http://localhost:4000/shadowfrost/</guid>
+        <link>/shadowfrost/</link>
+        <guid isPermaLink="true">/shadowfrost/</guid>
         
         <category>Shadow Frost</category>
         
@@ -93,8 +93,8 @@
         <title>Twierdza Kimerydu</title>
         <description>&lt;p&gt;Twierdza Kimerydu autorstwa Magdaleny Pioruńskiej to książka wielowymiarowa. Opowieść jest osadzona w alternatywnym świecie, który jednak bardzo przypomina nasz własny, w którym wiele rzeczy poszło bardzo nie tak. Mamy tu Cesarstwo Europejskie, którym niepodzielnie rządzi cesarz Brytanik, okrutny, przebiegły i bezwzględny człowiek, który nie zamierza z nikim dzielić się swoją władzą, a w imię postępu popełnia okrutne zbrodnie przeciw ludzkości. Jednak w Afryce Południowo-Wschodniej rdzenni mieszkańcy walczą z wpływami cesarstwa na ich życie. Potajemnie wciąż kultywują własną religię i obyczaje, a do ludzi z Europy podchodzą z dystansem i nieufnością. Taką ostoją, opierającą się propagandzie Cesarza, jest Twierdza Kimerydu, gdzie...</description>
         <pubDate>Thu, 27 Jun 2019 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/twierdzakimerydu/</link>
-        <guid isPermaLink="true">http://localhost:4000/twierdzakimerydu/</guid>
+        <link>/twierdzakimerydu/</link>
+        <guid isPermaLink="true">/twierdzakimerydu/</guid>
         
         <category>Twierdza Kimerydu</category>
         
@@ -113,8 +113,8 @@
         <title>A Curse so Dark and Lonely</title>
         <description>&lt;p&gt;A Curse so Dark and Lonely autorstwa Brigid Kemmerer to powieść oparta na klasycznej baśni Piękna i Bestia, ale skierowana nie do dzieci, a do młodych dorosłych. Dla mnie zawsze była to ulubiona bajka w dzieciństwie, więc byłam bardzo ciekawa tej pozycji.&lt;/p&gt; &lt;p&gt;Rhen jest przeklętym księciem, i kiedy mówię przeklętym, to nie mam na myśli tego, że wygląda jak potwór. Pod koniec każdej kolejnej pory roku przemienia się w straszliwą bestię, zarówno fizycznie i psychicznie. Traci świadomość tego, kim jest i całkowicie poddaje się morderczym instynktom dzikiego, spragnionego krwi monstrum, zabijając każdego, kto będzie miał nieszczęście znaleźć się w jego...</description>
         <pubDate>Tue, 25 Jun 2019 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/acursesodarkandlonely/</link>
-        <guid isPermaLink="true">http://localhost:4000/acursesodarkandlonely/</guid>
+        <link>/acursesodarkandlonely/</link>
+        <guid isPermaLink="true">/acursesodarkandlonely/</guid>
         
         <category>A Curse so Dark and Lonely</category>
         
@@ -133,8 +133,8 @@
         <title>Summoner Rebelia</title>
         <description>&lt;p&gt;Summoner: Rebelia, autorstwa Tarana Matharu, to prequel do popularnej serii Zaklinacz. Ja samej serii jeszcze nie czytałam, ale ponieważ lubię książki czytać chronologicznie, to postanowiłam zacząć właśnie od Rebelii.&lt;/p&gt; &lt;p&gt;Arcturus jest sierotą, która walczy o przetrwanie w okrutnym świecie, ale ma wielki plan. Udało mu się zgromadzić dość pieniędzy, by porzucić swoją niewolniczą pracę w karczmie i uciec jak najdalej, mając nadzieję, że szczęście uśmiechnie się do niego gdzieś indziej. Wszystko się jednak zmienia, gdy przypadkiem kradnie młodemu szlachcicowi magiczny zwój i okazuje się, że Arcturus ma niezwykle rzadkie zdolności magiczne. Ku jego zaskoczeniu zamiast zostać straconym lub wtrąconym do...</description>
         <pubDate>Fri, 21 Jun 2019 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/theoutcast/</link>
-        <guid isPermaLink="true">http://localhost:4000/theoutcast/</guid>
+        <link>/theoutcast/</link>
+        <guid isPermaLink="true">/theoutcast/</guid>
         
         <category>Summoner Rebelia</category>
         
@@ -153,8 +153,8 @@
         <title>Cień</title>
         <description>&lt;p&gt;Cień to pierwsza część nowej serii sci-fi dla młodzieży Kroniki Kaitanu autorstwa AdriAnne Strickland i Michaela Millera. Akcja dzieje się w dalekiej przyszłości, gdzie świat posiada nie tylko zaawansowaną technologię, ale już doświadczył pierwszej poważnej katastrofy. W wyniku Wielkiego Upadku portale międzygwiezdne, umożliwiające szybkie międzygalaktyczne podróże, eksplodowały, powodując powodując powrót do technologii sprzed kilkuset lat. To między innymi dlatego tajemnicza substancja – cień - jest w centrum uwagi wielu wpływowych instytucji. Kryje w sobie bowiem wielki potencjał do wykorzystania jako paliwo, czy innego wspierania technologii, jednak jest również wyjątkowo niestabilna. Ponadto ludzie nie mogą przebywać w jej pobliżu przez dłuższy...</description>
         <pubDate>Mon, 10 Jun 2019 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/shadowrun/</link>
-        <guid isPermaLink="true">http://localhost:4000/shadowrun/</guid>
+        <link>/shadowrun/</link>
+        <guid isPermaLink="true">/shadowrun/</guid>
         
         <category>Cień</category>
         
@@ -173,8 +173,8 @@
         <title>Zenith</title>
         <description>&lt;p&gt;Zenith jest książką sci-fi autorstwa Sashy Alsberg i Lindsay Cummings. Główna bohaterka, Androma Racella, jest potężną najemniczką i piratką, która zyskała sobie miano Krwawej Baronowej. Jest kapitanem statku Maruder i wraz ze swoją załogą, składającą się z równie zaradnych towarzyszek podróżują po całej galaktyce Mirabel w poszukiwaniu dobrze płatnych zleceń. Wszystko się jednak zmienia, gdy ich statek zostaje pochwycony przez łowcę nagród, Dexa. Androma dostaje zlecenie, któremu nie może odmówić. Wyruszają więc na straceńczą misję, której nikt inny w całej galaktyce nie mógłby podołać.&lt;/p&gt; &lt;p&gt;Zenith jest dość pokaźną książką, co może nieco przerażać. Zaczyna się jednak od razu wartką akcją,...</description>
         <pubDate>Thu, 06 Jun 2019 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/zenith/</link>
-        <guid isPermaLink="true">http://localhost:4000/zenith/</guid>
+        <link>/zenith/</link>
+        <guid isPermaLink="true">/zenith/</guid>
         
         <category>Zenith</category>
         
@@ -193,8 +193,8 @@
         <title>Siła Niższa</title>
         <description>&lt;p&gt;Siła Niższa Marty Kisiel to kontynuacja Dożywocia, czyli dalsze losy naszych ulubieńców Licha i spółki. Po dramatycznym zakończeniu poprzedniej książki bohaterowie próbują się zaaklimatyzować w nowym domu. A nie jest to proste, gdyż wraz z powrotem do cywilizacji powróciły również rachunki do zapłacenia. Konrad wpada więc w szał pracy, przeplatanej gotowaniem dla całej rodziny (Krakers wciąż jeszcze nie powrócił) i napadami cholerycznej złości na wszystko co chodzi i Kica. Licho również nie może sobie poradzić z opuszczeniem Lichotki. Nawet nie ma ochoty sprzątać! A wszystko komplikuje się jeszcze bardziej, gdy do dożywotników dołącza kolejny anioł stróż Tsadkiel. I nie, nie...</description>
         <pubDate>Thu, 23 May 2019 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/silanizsza/</link>
-        <guid isPermaLink="true">http://localhost:4000/silanizsza/</guid>
+        <link>/silanizsza/</link>
+        <guid isPermaLink="true">/silanizsza/</guid>
         
         <category>Siła Niższa</category>
         
@@ -213,8 +213,8 @@
         <title>Aurora Rising</title>
         <description>&lt;p&gt;Na Aurora Rising czekałam, odkąd skończyłam czytać serię Illuminae i duet Jay Kristoff i Amie Kaufman zapowiedział kolejną wspólną powieść w klimacie sci-fi. Byłam więc prze-szczęśliwa, kiedy książka w końcu trafiła w moje ręce. To była jedna z najbardziej wyczekiwanych przeze mnie premier tego roku. Czy było warto czekać?&lt;/p&gt; &lt;p&gt;Jest rok 2380 i Tyler Jones właśnie kończy edukację w prestiżowej Akademii Aurory. Jego przyszłość maluje się w świetlistych barwach, gdyż jest jednym z najlepszych studentów na roku i dostał najwyższe oceny z większości egzaminów końcowych. Dzięki temu będzie miał pierwszeństwo wyboru najlepszych ludzi do swojej drużyny. Jednak w noc przed...</description>
         <pubDate>Tue, 21 May 2019 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/aurorarising/</link>
-        <guid isPermaLink="true">http://localhost:4000/aurorarising/</guid>
+        <link>/aurorarising/</link>
+        <guid isPermaLink="true">/aurorarising/</guid>
         
         <category>Aurora Rising</category>
         
@@ -233,8 +233,8 @@
         <title>Toń</title>
         <description>&lt;p&gt;Toń to kolejna książka Marty Kisiel, którą miałam przyjemność przeczytać. Dla mnie zwykle są dwie grupy autorów. Tacy, których jedna książka mi się spodoba, więc sięgam po inne, ale to już nie to samo. Druga grupa natomiast, to ci, których książki mogę kupować w ciemno i nigdy nie jestem zawiedziona. Pani Marta należy do tych drugich. Uwielbiam jej styl i poczucie humoru, które trafia do mnie bezbłędnie.&lt;/p&gt; &lt;p&gt;Dżusi zostaje niespodziewanie wezwana przez swoja ciotkę, by pod jej nieobecność wraz siostrą doglądać mieszkania. Dziewczyna, nie nawykła do długich namysłów, zgadza się i wyrusza do Wrocławia, gdzie spędziła dzieciństwo i skąd umyślnie...</description>
         <pubDate>Thu, 16 May 2019 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/ton/</link>
-        <guid isPermaLink="true">http://localhost:4000/ton/</guid>
+        <link>/ton/</link>
+        <guid isPermaLink="true">/ton/</guid>
         
         <category>Toń</category>
         
@@ -253,8 +253,8 @@
         <title>The Never Game</title>
         <description>&lt;p&gt;The Never Game to pierwsza część nowej serii Colter Show autorstwa wielokrotnie nagradzanego Jeffery Deaver’a. Muszę się Wam przyznać, że było to moje pierwsze spotkanie z tym autorem, chociaż oczywiście oglądałam filmową adaptację jego książki Kolekcjoner Kości. W przypadku tej powieści zaintrygował mnie opis. Akcja dzieje się w Krzemowej Dolinie, gdzie tajemniczy porywacz umieszcza swoje ofiary w ekstremalnych sytuacjach inspirowanych grą komputerową. Jedyne co mogą zrobić to przetrwać lub zginąć.&lt;/p&gt; &lt;p&gt;Colter Shaw nie jest ani policjantem ani prywatnym detektywem. Mimo tego pomaga policji i cywilom w poszukiwaniu zaginionych osób. Za odpowiednim wynagrodzeniem. Jest oczywiście ekspertem w swojej dziedzinie. Wychowany przez...</description>
         <pubDate>Tue, 14 May 2019 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/thenevergame/</link>
-        <guid isPermaLink="true">http://localhost:4000/thenevergame/</guid>
+        <link>/thenevergame/</link>
+        <guid isPermaLink="true">/thenevergame/</guid>
         
         <category>The Never Game</category>
         
@@ -273,8 +273,8 @@
         <title>Mroczniejszy Odcień Magii</title>
         <description>&lt;p&gt;Mroczniejszy Odcień Magii to pierwszy tom serii Odcienie Magii autorstwa V. E. Schwab. Miałam tę książkę na radarze już od dłuższego czasu. Słyszałam wiele dobrego na temat autorki a opis tej serii zdecydowanie do mnie przemawiał. W końcu kupiłam ją i po tym jak przeleżała jakiś czas na półce, w końcu się za nią zabrałam.&lt;/p&gt; &lt;p&gt;Książka opowiada o przygodach Kella, jednego z niewielu pozostałych na świecie magów, którzy mogą podróżować do równoległych światów. Szczęśliwie się dla niego złożyło, że został adoptowany przez rodzinę królewską Czerwonego Londynu, a teraz służy im jako ambasador oraz posłaniec w kontaktach z pozostałymi królestwami. Jednak...</description>
         <pubDate>Fri, 10 May 2019 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/adsom/</link>
-        <guid isPermaLink="true">http://localhost:4000/adsom/</guid>
+        <link>/adsom/</link>
+        <guid isPermaLink="true">/adsom/</guid>
         
         <category>Mroczniejszy Odcień Magii</category>
         
@@ -293,8 +293,8 @@
         <title>Dożywocie</title>
         <description>&lt;p&gt;Z Dożywociem Marty Kisiel spotkałam się po raz pierwszy w zbiorze opowiadań Pierwsze słowo i opowiadanie to z miejsca mnie zachwyciło i od razu postanowiłam, że muszę się zapoznać z resztą twórczości autorki. Także ogromnie się ucieszyłam, że będę mogła przeczytać więcej o mieszkańcach Lichotki i ich przygodach. W międzyczasie jednak przeczytałam kilka innych książek autorki, i muszę powiedzieć, że jednak troszkę się Dożywociem jako powieścią rozczarowałam.&lt;/p&gt; &lt;p&gt;Oczywiście wciąż jest to świetna książka! Przezabawna, z bohaterami, którzy konkurują o miano tego najbardziej uroczego i ujmującego. No i poczucie humoru jest dokładnie takie jak lubię, pełno tu ciętych ripost, absurdalnych sytuacji...</description>
         <pubDate>Mon, 29 Apr 2019 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/dozywocie/</link>
-        <guid isPermaLink="true">http://localhost:4000/dozywocie/</guid>
+        <link>/dozywocie/</link>
+        <guid isPermaLink="true">/dozywocie/</guid>
         
         <category>Dożywocie</category>
         
@@ -313,8 +313,8 @@
         <title>The Beekeeper of Aleppo</title>
         <description>&lt;p&gt;The Beekeeper of Aleppo autorstwa Christy Lefteri to poruszająca opowieść o syryjskich uchodźcach. Nuri był pszczelarzem. Kochał swoją pracę i była ona jego pasją, jego całym życiem. On oraz jego rodzina i przyjaciele wiedli proste, ale szczęśliwe życie. Jednak nadeszła wojna, która spustoszyła cały kraj.&lt;/p&gt; &lt;p&gt;Narratorem w książce jest sam Nuri, który swoją opowieść snuje będąc już bezpieczny w Anglii, oczekując na decyzję, czy on i jego żona Afra będą mogli tam zostać na dobre. Ich historię poznajemy z retrospekcji i wspomnień, przemieszanymi z aktualnymi wydarzeniami, gdzie oboje starają się zapomnieć o traumatycznych przeżyciach i odnaleźć się w nowym życiu...</description>
         <pubDate>Fri, 26 Apr 2019 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/thebeekeeperofaleppo/</link>
-        <guid isPermaLink="true">http://localhost:4000/thebeekeeperofaleppo/</guid>
+        <link>/thebeekeeperofaleppo/</link>
+        <guid isPermaLink="true">/thebeekeeperofaleppo/</guid>
         
         <category>The Beekeeper of Aleppo</category>
         
@@ -331,8 +331,8 @@
         <title>Ciemna Strona Mocy</title>
         <description>&lt;p&gt;Ciemna Strona Mocy autorstwa Timothy Zahna to druga część cyklu Gwiezdne Wojny: Trylogia Thrawna. Po przeczytaniu pierwszego tomu wprost nie mogłam się doczekać kontynuacji, żeby przekonać się jakie podstępne wybiegi wymyśli tym razem Wielki Admirał by pokonać Republikę. I nie zawiodłam się!&lt;/p&gt; &lt;p&gt;Podczas gdy Dziedzic Imperium zaczynał się spokojnie i akcja rozwijała się dość wolno, to tu już od samego początku nie ma czasu na nudę. Nasi bohaterowie nie tracą ani minuty na odpoczynek. Po szybkim przeanalizowaniu aktualnej sytuacji ponownie wyruszają na misję ratowania galaktyki - Han i Lando będą tropić zdrajców, którzy zalęgli się na łonie Republiki, Leia negocjować...</description>
         <pubDate>Wed, 24 Apr 2019 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/darkforcerising/</link>
-        <guid isPermaLink="true">http://localhost:4000/darkforcerising/</guid>
+        <link>/darkforcerising/</link>
+        <guid isPermaLink="true">/darkforcerising/</guid>
         
         <category>Ciemna Strona Mocy</category>
         
@@ -351,8 +351,8 @@
         <title>Władczyni Mroku</title>
         <description>&lt;p&gt;Władczyni Mroku jest debiutancką powieścią K. C. Hiddenstorm, a już wkrótce, 15 maja, będzie miało premierę nowe wydanie z przepiękną okładką. Dzięki uprzejmości autorki mogłam książkę przeczytać przed ponowną premierą, za co serdecznie dziękuję!&lt;/p&gt; &lt;p&gt;Władczyni Mroku to powieść przede wszystkim o wielkiej miłości, która nie zna granic. Ponadto nic tu nie jest czarno białe - demony potrafią kochać nieskończenie, a aniołowie często błądzą i dają się zwieść swoim własnym żądzom. Akcja dzieje się równolegle na ziemi, w piekle oraz w niebie oraz w krainach “pomiędzy”.&lt;/p&gt; &lt;p&gt;Główną bohaterką jest trzydziestoletnia Megan, która nie wyróżnia się niczym specjalnym, poza pięknym tatuażem na...</description>
         <pubDate>Tue, 16 Apr 2019 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/wladczynimroku/</link>
-        <guid isPermaLink="true">http://localhost:4000/wladczynimroku/</guid>
+        <link>/wladczynimroku/</link>
+        <guid isPermaLink="true">/wladczynimroku/</guid>
         
         <category>Władczyni Mroku</category>
         
@@ -371,8 +371,8 @@
         <title>Kasacja</title>
         <description>&lt;p&gt;Kasacja jest pierwszą książką z cyklu Joanna Chyłka Remigiusza Mroza. Serii tej chyba nie trzeba nikomu przedstawiać, jestem pewnie jedną z niewielu osób, które do tej pory jeszcze jej nie przeczytały. Ale polecano mi ją już tak wiele razy, że kiedyś nabyłam ją przy okazji zakupów w księgarni, potem swoje przeleżała na półce i w końcu nastał jej czas.&lt;/p&gt; &lt;p&gt;Syn bogatego biznesmena zostaje oskarżony o wyjątkowo okrutne morderstwo dwóch osób. Sprawę prowadzi Joanna Chyłka, ambitna, bezwzględna i przede wszystkim skuteczna prawniczka z jednej z największych warszawskich kancelarii. Pomaga jej świeżo upieczony aplikant Kordian Oryński. Sprawa choć wydaje się prosta, wcale...</description>
         <pubDate>Fri, 12 Apr 2019 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/kasacja/</link>
-        <guid isPermaLink="true">http://localhost:4000/kasacja/</guid>
+        <link>/kasacja/</link>
+        <guid isPermaLink="true">/kasacja/</guid>
         
         <category>Kasacja</category>
         
@@ -391,8 +391,8 @@
         <title>Król Kruków</title>
         <description>&lt;p&gt;Król Kruków autorstwa Maggie Stiefvater to pierwsza książka bardzo popularnego z Kruczego Cyklu. Referencje do tych książek widziałam już chyba wszędzie i nawet mam kilka gadżetów nią inspirowanych (z moich miesięcznych książkowych subskrypcji), więc w końcu stwierdziłam, że czas najwyższy się z tą opowieścią zapoznać.&lt;/p&gt; &lt;p&gt;Blue nie jest typową nastolatką. Jej matka jest wróżką i przepowiada ludziom przyszłość. Tak jak jej ciotki i inni członkowie rodziny. Nasza bohaterka jako jedyna zdaje się nie mieć żadnych umiejętności widzenia przyszłości. Jednak jakieś zdolności przejawia, a mianowicie sama jej obecność sprawia, że innym łatwiej jest korzystać ze swych paranormalnych talentów. Blue jest więc...</description>
         <pubDate>Thu, 11 Apr 2019 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/ravenboys/</link>
-        <guid isPermaLink="true">http://localhost:4000/ravenboys/</guid>
+        <link>/ravenboys/</link>
+        <guid isPermaLink="true">/ravenboys/</guid>
         
         <category>Król Kruków</category>
         
@@ -411,8 +411,8 @@
         <title>Podniebna Pieśń</title>
         <description>&lt;p&gt;Podniebna Pieśń Abi Elphinstone to przepiękna, baśniowa opowieść o odwadze, nadziei i prawdziwej przyjaźni. Dla mroźnego królestwa Erkenwaldu nastały ciężkie czasy. Zła Królowa Lodu podstępem przejęła władzę i po zwycięstwie w wielkiej bitwie pojmała wszystkich pozostałych przy życiu dorosłych i uwięziła ich w swym lodowym pałacu Winterfang. Tylko dzieciom udało się wymknąć okrutnej królowej, a to tylko dlatego, że są dobrze ukryte. Czarownica jednak nie ustaje w wysiłkach by przywabić je do siebie, gdyż potrzebuje wszystkich mieszkańców Erkenwaldu, by zrealizować swoje niecne plany. Gdy przejmie wszystkie głosy w królestwie, jej władza pozostanie niezachwiana na wieczność.&lt;/p&gt; &lt;p&gt;Flint pochodzi z plemienia Futer...</description>
         <pubDate>Tue, 09 Apr 2019 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/skysong/</link>
-        <guid isPermaLink="true">http://localhost:4000/skysong/</guid>
+        <link>/skysong/</link>
+        <guid isPermaLink="true">/skysong/</guid>
         
         <category>Podniebna Pieśń</category>
         
@@ -431,8 +431,8 @@
         <title>Warcross</title>
         <description>&lt;p&gt;Emika Chen jest łowczynią nagród, jednak ma problem z samodzielnym utrzymaniem się przez długi, które zostawił jej zmarły ojciec oraz to, że widnieje w kryminalnych kartotekach policji jako hakerka, przez co nie może dostać poważnej pracy. Jest na tyle zdesperowana, że próbuje zhakować międzynarodowe mistrzostwa w najpopularniejszej na świecie grze Warcross, by szybko zarobić dość pieniędzy by zapłacić zaległy czynsz. Jednak niefortunnie pojawia się również fizycznie w grze, czego świadkiem są również miliony widzów. Emika jest przekonana, że zostanie natychmiast aresztowana i postawiona przed sądem, jednak zamiast tego kontaktuje się z nią sam twórca gry, ekscentryczny milioner Hideo z propozycją...</description>
         <pubDate>Sat, 06 Apr 2019 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/warcross/</link>
-        <guid isPermaLink="true">http://localhost:4000/warcross/</guid>
+        <link>/warcross/</link>
+        <guid isPermaLink="true">/warcross/</guid>
         
         <category>Warcross</category>
         
@@ -451,8 +451,8 @@
         <title>Furie</title>
         <description>&lt;p&gt;Furie to debiutancka powieść Katie Lowe. Violet ma szesnaście lat, ale doświadczyła już bardzo wiele. Jej ojciec i młodsza siostra zginęli w wypadku, z którego tylko ona uszła z życiem. Jej matka całkowiecie straciła wolę do życia i nie jest w stanie w żaden sposób pomóc swej jedynej żyjącej córce. Gdy Violet idzie do nowej, prywatnej szkoły Elm Hollow nie spodziewa się, że jej ponure życie ulegnie jakimkolwiek zmianom. Jednak niespodziewanie Robin, piękna i popularna dziewczyna zwraca na nią uwagę i przedstawia ją swoim przyjaciółkom. Ale na tym nie kończą się niespodzianki, Violet zostaje zaproszona do ekskluzywnej grupy, żeby studiować...</description>
         <pubDate>Wed, 03 Apr 2019 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/thefuries/</link>
-        <guid isPermaLink="true">http://localhost:4000/thefuries/</guid>
+        <link>/thefuries/</link>
+        <guid isPermaLink="true">/thefuries/</guid>
         
         <category>Furie</category>
         
@@ -471,8 +471,8 @@
         <title>Alyssa i obłęd</title>
         <description>&lt;p&gt;Alyssa i obłęd autorstwa A. G. Howard to druga część cyklu Alyssa z innej krainy. Po swoich przygodach w Krainie Czarów bohaterka powraca do prawdziwego świata i decyduje, że to tu jest jej dom i tu zamierza spędzić resztę życia. Próbuje wieść normalne życie, i mimo tego, że planuje powiedzieć Jebowi prawdę o swoim dziedzictwie i pomóc mu przypomnieć sobie wydarzenia z Krainy Czarów, to nie zamierza tam wracać. Jednak magiczne królestwo zdecydowanie o Allysie nie zapomniało, a już Morpheus w szczególności. Dochodzi do tego, że nie tylko odwiedza ją w snach, ale również niespodziewanie pojawia się w jej szkole...</description>
         <pubDate>Mon, 01 Apr 2019 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/unhinged/</link>
-        <guid isPermaLink="true">http://localhost:4000/unhinged/</guid>
+        <link>/unhinged/</link>
+        <guid isPermaLink="true">/unhinged/</guid>
         
         <category>Allysa i obłęd</category>
         
@@ -491,8 +491,8 @@
         <title>Niedźwiedź i Słowik</title>
         <description>&lt;p&gt;Niedźwiedź i Słowik to pierwszy tom trylogii Winternight autorstwa Katheriene Arden. To pięknie napisana opowieść w klimacie baśni, której akcja dzieje się na dzikich obrzeżach średniowiecznej Rosji. Wasia jest córką potężnego bojara, a jej matką była siostra wielkiego księcia. Ich wioska leży na skraju dziczy, a zimy trwają tam przez większą część roku. Nie jest to łatwe życie, ale jedynie takie znają. Mieszkańcy wioski przyjęli chrześcijaństwo, ale wciąż składają ofiary zgodnie ze swoją dawną religią, by udobruchać domowe demony strzegące ich domów podczas ciężkich zim. Wszyscy żyją tu spokojnie do czasu aż Piotr, ojciec Wasi, przywozi z Moskwy nową, bogobojną...</description>
         <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/thebearandthenightingale/</link>
-        <guid isPermaLink="true">http://localhost:4000/thebearandthenightingale/</guid>
+        <link>/thebearandthenightingale/</link>
+        <guid isPermaLink="true">/thebearandthenightingale/</guid>
         
         <category>Niedźwiedź i Słowik</category>
         
@@ -511,8 +511,8 @@
         <title>Małe Licho i Tajemnica Niebożątka</title>
         <description>&lt;p&gt;Małe Licho i tajemnica Niebożątka to pierwsza książka Marty Kisiel skierowana do dzieci. Ale i dorośli znajdą wiele radości przy jej czytaniu. Zdobyła ona nagrodę Książka Roku Lubimyczytać.pl w kategorii literatury dziecięcej. Jako, że ostatnimi czasy stałam się wielką fanką twórczości Marty Kisiel to również za tę krótką opowieść zabrałam się z entuzjazmem.&lt;/p&gt; &lt;p&gt;Nawet pisząc historię skierowaną do dzieci autorka posługuje się językiem polskim pięknie i nie upraszcza nadmiernie zdań, ale jednocześnie przekaz jest bardzo jasny i klarowny. Książkę czyta się z przyjemnością, bohaterowie jak zwykle są przesympatyczni a ich postrzeganie świata jest specyficzne, ale bardzo trafne i wyrażane w...</description>
         <pubDate>Tue, 26 Mar 2019 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/malelicho/</link>
-        <guid isPermaLink="true">http://localhost:4000/malelicho/</guid>
+        <link>/malelicho/</link>
+        <guid isPermaLink="true">/malelicho/</guid>
         
         <category>Małe Licho</category>
         
@@ -531,8 +531,8 @@
         <title>Przebudzenie Lewiatana</title>
         <description>&lt;p&gt;Przebudzenie Lewiatana to książka sci-fi napisana przez Jamesa S. A. Corey. Jest to pseudonim artystyczny, którego używa dwoje autorów - Daniel Abraham i Ty Franck. Na jej podstawie powstał również serial zatytułowany The Expanse.&lt;/p&gt; &lt;p&gt;Akcja dzieje się w przyszłości, ludzkość skolonizowała już większość Układu Słonecznego - Marsa, Księżyc, Pas Asteroid i dalej. Wciąż jednak nie udało im się wyjść poza ich zakątek wszechświata. Jednak szybko staje się jasne, że Układ Słoneczny już ludziom nie wystarcza. Jim Holden jest pierwszym oficerem na statku, który dostarcza odłamki lodowca z pierścieni Saturna do górniczych stacji Pasa. Jego przewidywalna i rutynowa praca zostaje jednak...</description>
         <pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/leviathanwakes/</link>
-        <guid isPermaLink="true">http://localhost:4000/leviathanwakes/</guid>
+        <link>/leviathanwakes/</link>
+        <guid isPermaLink="true">/leviathanwakes/</guid>
         
         <category>Przebudzenie Lewiatana</category>
         
@@ -551,8 +551,8 @@
         <title>Nomen Omen</title>
         <description>&lt;p&gt;Nomen Omen to kolejna powieść Marty Kisiel. Akcja dzieje się we Wrocławiu gdzie główna bohaterka, Salomea, szuka azylu przed swoją zwariowaną rodziną. Niestety nie ma zbyt wiele szczęścia. Trafia na stancję do domu, który jest owiany tak złą sławą, że taksówkarze nawet nie chcą podjechać w jego pobliże, gospodyni jest wielce podejrzana, żadne odbiorniki radiowe nie działają, a w słuchawce telefonu słychać tajemnicze szepty. Do tego jej nieznośny brat zostaje wyrzucony z akademika i zwala jej się nie głowę. Zdawałoby się, że nie może być już gorzej, a jednak. Wszystko staje się jeszcze bardziej skomplikowane, kiedy Niedaś, brat Salki, zrzuca...</description>
         <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/nomenomen/</link>
-        <guid isPermaLink="true">http://localhost:4000/nomenomen/</guid>
+        <link>/nomenomen/</link>
+        <guid isPermaLink="true">/nomenomen/</guid>
         
         <category>Nomen Omen</category>
         
@@ -571,8 +571,8 @@
         <title>Korona w Mroku</title>
         <description>&lt;p&gt;Korona w Mroku to drugi tom serii Szklany Tron. Jak się okazuje, pierwsza książka była zaledwie wstępem do całej serii. Nie byłam pewna czego powinnam oczekiwać od tej części. Wszyscy moi znajomi mówili, że jest znacznie lepsza niż poprzednia, która dla mnie była w miarę ok. W końcu więc zdecydowałam się kontynuować swoją przygodę ze Szklanym Tronem i zobaczyć dokąd mnie zaprowadzi. I muszę się zgodzić z powszechną opinią, ten tom był dużo lepszy.&lt;/p&gt; &lt;p&gt;Fabuła w pierwszej książce była dość prosta. Był turniej i oczywiste było, że w końcu to Celaena okaże się zwycięzcą. Tutaj natomiast sytuacja wygląda zupełnie inaczej....</description>
         <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/crownofmidnight/</link>
-        <guid isPermaLink="true">http://localhost:4000/crownofmidnight/</guid>
+        <link>/crownofmidnight/</link>
+        <guid isPermaLink="true">/crownofmidnight/</guid>
         
         <category>Korona w Mroku</category>
         
@@ -591,8 +591,8 @@
         <title>Oczy Uroczne</title>
         <description>&lt;p&gt;Oczy Uroczne to kontynuacja wyróżnionej Nagrodą im. Janusza A. Zajdla opowiadania Szaławiła. Jeśli jeszcze go nie czytaliście, to odsyłam najpierw tam, bo przed Wami spojlery!&lt;/p&gt; &lt;p&gt;Bardzo ucieszyłam się, kiedy usłyszałam, że Marta Kisiel napisała o dalszych losach Ody Kręciszewskiej i jej przyjaciół, zarówno tych ludzkich, jak i tych mniej. Było to jedno z moich ulubionych opowiadań w antalogii Pierwsze Słowo. Oczywiście i tym razem się nie zawiodłam.&lt;/p&gt; &lt;p&gt;Akcja powieści dzieje się w okresie około bożonarodzeniowym, mamy przesilenie zimowe co wprawia, że wszystkie byty nieludzkie stają się niespokojne i rozdrażnione. Oda również to odczuwa, gdy zaczyna bez powodu kłócić się z...</description>
         <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/oczyuroczne/</link>
-        <guid isPermaLink="true">http://localhost:4000/oczyuroczne/</guid>
+        <link>/oczyuroczne/</link>
+        <guid isPermaLink="true">/oczyuroczne/</guid>
         
         <category>Oczy Uroczne</category>
         

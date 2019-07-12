@@ -2,360 +2,360 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
         <url>
-            <loc>http://localhost:4000/404.html</loc>
+            <loc>/404.html</loc>
         </url>
     
         <url>
-            <loc>http://localhost:4000/about/</loc>
+            <loc>/about/</loc>
         </url>
     
         <url>
-            <loc>http://localhost:4000/category/blog/</loc>
+            <loc>/category/blog/</loc>
         </url>
     
         <url>
-            <loc>http://localhost:4000/contact/</loc>
+            <loc>/contact/</loc>
         </url>
     
         <url>
-            <loc>http://localhost:4000/category/css/</loc>
+            <loc>/category/css/</loc>
         </url>
     
         <url>
-            <loc>http://localhost:4000/category/django/</loc>
+            <loc>/category/django/</loc>
         </url>
     
         <url>
-            <loc>http://localhost:4000/feed.xml</loc>
+            <loc>/feed.xml</loc>
         </url>
     
         <url>
-            <loc>http://localhost:4000/</loc>
+            <loc>/</loc>
         </url>
     
         <url>
-            <loc>http://localhost:4000/category/life/</loc>
+            <loc>/category/life/</loc>
         </url>
     
         <url>
-            <loc>http://localhost:4000/assets/main.css</loc>
+            <loc>/assets/main.css</loc>
         </url>
     
         <url>
-            <loc>http://localhost:4000/category/mobile/</loc>
+            <loc>/category/mobile/</loc>
         </url>
     
         <url>
-            <loc>http://localhost:4000/contact/message-sent/</loc>
+            <loc>/contact/message-sent/</loc>
         </url>
     
         <url>
-            <loc>http://localhost:4000/search.json</loc>
+            <loc>/search.json</loc>
         </url>
     
         <url>
-            <loc>http://localhost:4000/sitemap.xml</loc>
+            <loc>/sitemap.xml</loc>
         </url>
     
         <url>
-            <loc>http://localhost:4000/tags/index.html</loc>
+            <loc>/tags/index.html</loc>
         </url>
     
         <url>
-            <loc>http://localhost:4000/category/tutorial/</loc>
+            <loc>/category/tutorial/</loc>
         </url>
     
         <url>
-            <loc>http://localhost:4000/category/webdev/</loc>
+            <loc>/category/webdev/</loc>
         </url>
     
     
         <url>
-            <loc>http://localhost:4000/twierdzatytonu/</loc>
+            <loc>/twierdzatytonu/</loc>
         </url>
   
         <url>
-            <loc>http://localhost:4000/callofearth/</loc>
+            <loc>/callofearth/</loc>
         </url>
   
         <url>
-            <loc>http://localhost:4000/bomb/</loc>
+            <loc>/bomb/</loc>
         </url>
   
         <url>
-            <loc>http://localhost:4000/shadowfrost/</loc>
+            <loc>/shadowfrost/</loc>
         </url>
   
         <url>
-            <loc>http://localhost:4000/twierdzakimerydu/</loc>
+            <loc>/twierdzakimerydu/</loc>
         </url>
   
         <url>
-            <loc>http://localhost:4000/acursesodarkandlonely/</loc>
+            <loc>/acursesodarkandlonely/</loc>
         </url>
   
         <url>
-            <loc>http://localhost:4000/theoutcast/</loc>
+            <loc>/theoutcast/</loc>
         </url>
   
         <url>
-            <loc>http://localhost:4000/shadowrun/</loc>
+            <loc>/shadowrun/</loc>
         </url>
   
         <url>
-            <loc>http://localhost:4000/zenith/</loc>
+            <loc>/zenith/</loc>
         </url>
   
         <url>
-            <loc>http://localhost:4000/silanizsza/</loc>
+            <loc>/silanizsza/</loc>
         </url>
   
         <url>
-            <loc>http://localhost:4000/aurorarising/</loc>
+            <loc>/aurorarising/</loc>
         </url>
   
         <url>
-            <loc>http://localhost:4000/ton/</loc>
+            <loc>/ton/</loc>
         </url>
   
         <url>
-            <loc>http://localhost:4000/thenevergame/</loc>
+            <loc>/thenevergame/</loc>
         </url>
   
         <url>
-            <loc>http://localhost:4000/adsom/</loc>
+            <loc>/adsom/</loc>
         </url>
   
         <url>
-            <loc>http://localhost:4000/dozywocie/</loc>
+            <loc>/dozywocie/</loc>
         </url>
   
         <url>
-            <loc>http://localhost:4000/thebeekeeperofaleppo/</loc>
+            <loc>/thebeekeeperofaleppo/</loc>
         </url>
   
         <url>
-            <loc>http://localhost:4000/darkforcerising/</loc>
+            <loc>/darkforcerising/</loc>
         </url>
   
         <url>
-            <loc>http://localhost:4000/wladczynimroku/</loc>
+            <loc>/wladczynimroku/</loc>
         </url>
   
         <url>
-            <loc>http://localhost:4000/kasacja/</loc>
+            <loc>/kasacja/</loc>
         </url>
   
         <url>
-            <loc>http://localhost:4000/ravenboys/</loc>
+            <loc>/ravenboys/</loc>
         </url>
   
         <url>
-            <loc>http://localhost:4000/skysong/</loc>
+            <loc>/skysong/</loc>
         </url>
   
         <url>
-            <loc>http://localhost:4000/warcross/</loc>
+            <loc>/warcross/</loc>
         </url>
   
         <url>
-            <loc>http://localhost:4000/thefuries/</loc>
+            <loc>/thefuries/</loc>
         </url>
   
         <url>
-            <loc>http://localhost:4000/unhinged/</loc>
+            <loc>/unhinged/</loc>
         </url>
   
         <url>
-            <loc>http://localhost:4000/thebearandthenightingale/</loc>
+            <loc>/thebearandthenightingale/</loc>
         </url>
   
         <url>
-            <loc>http://localhost:4000/malelicho/</loc>
+            <loc>/malelicho/</loc>
         </url>
   
         <url>
-            <loc>http://localhost:4000/leviathanwakes/</loc>
+            <loc>/leviathanwakes/</loc>
         </url>
   
         <url>
-            <loc>http://localhost:4000/nomenomen/</loc>
+            <loc>/nomenomen/</loc>
         </url>
   
         <url>
-            <loc>http://localhost:4000/crownofmidnight/</loc>
+            <loc>/crownofmidnight/</loc>
         </url>
   
         <url>
-            <loc>http://localhost:4000/oczyuroczne/</loc>
+            <loc>/oczyuroczne/</loc>
         </url>
   
         <url>
-            <loc>http://localhost:4000/endsinger/</loc>
+            <loc>/endsinger/</loc>
         </url>
   
         <url>
-            <loc>http://localhost:4000/thewickedking/</loc>
+            <loc>/thewickedking/</loc>
         </url>
   
         <url>
-            <loc>http://localhost:4000/lastshot/</loc>
+            <loc>/lastshot/</loc>
         </url>
   
         <url>
-            <loc>http://localhost:4000/thegutterprayer/</loc>
+            <loc>/thegutterprayer/</loc>
         </url>
   
         <url>
-            <loc>http://localhost:4000/petsematary/</loc>
+            <loc>/petsematary/</loc>
         </url>
   
         <url>
-            <loc>http://localhost:4000/apprentice/</loc>
+            <loc>/apprentice/</loc>
         </url>
   
         <url>
-            <loc>http://localhost:4000/gdziespiewajadiably/</loc>
+            <loc>/gdziespiewajadiably/</loc>
         </url>
   
         <url>
-            <loc>http://localhost:4000/legion/</loc>
+            <loc>/legion/</loc>
         </url>
   
         <url>
-            <loc>http://localhost:4000/itendswithus/</loc>
+            <loc>/itendswithus/</loc>
         </url>
   
         <url>
-            <loc>http://localhost:4000/sometimesilie/</loc>
+            <loc>/sometimesilie/</loc>
         </url>
   
         <url>
-            <loc>http://localhost:4000/pierwszeslowo/</loc>
+            <loc>/pierwszeslowo/</loc>
         </url>
   
         <url>
-            <loc>http://localhost:4000/firstyear/</loc>
+            <loc>/firstyear/</loc>
         </url>
   
         <url>
-            <loc>http://localhost:4000/onlytheocean/</loc>
+            <loc>/onlytheocean/</loc>
         </url>
   
         <url>
-            <loc>http://localhost:4000/heirtotheempire/</loc>
+            <loc>/heirtotheempire/</loc>
         </url>
   
         <url>
-            <loc>http://localhost:4000/skyward/</loc>
+            <loc>/skyward/</loc>
         </url>
   
         <url>
-            <loc>http://localhost:4000/daughtersofthedragon/</loc>
+            <loc>/daughtersofthedragon/</loc>
         </url>
   
         <url>
-            <loc>http://localhost:4000/elevation/</loc>
+            <loc>/elevation/</loc>
         </url>
   
         <url>
-            <loc>http://localhost:4000/thelightbetweenworlds/</loc>
+            <loc>/thelightbetweenworlds/</loc>
         </url>
   
         <url>
-            <loc>http://localhost:4000/kinslayer/</loc>
+            <loc>/kinslayer/</loc>
         </url>
   
         <url>
-            <loc>http://localhost:4000/tokillakingdom/</loc>
+            <loc>/tokillakingdom/</loc>
         </url>
   
         <url>
-            <loc>http://localhost:4000/splintered/</loc>
+            <loc>/splintered/</loc>
         </url>
   
         <url>
-            <loc>http://localhost:4000/ana/</loc>
+            <loc>/ana/</loc>
         </url>
   
         <url>
-            <loc>http://localhost:4000/shadowandbone/</loc>
+            <loc>/shadowandbone/</loc>
         </url>
   
         <url>
-            <loc>http://localhost:4000/spektrum/</loc>
+            <loc>/spektrum/</loc>
         </url>
   
         <url>
-            <loc>http://localhost:4000/stormdancer/</loc>
+            <loc>/stormdancer/</loc>
         </url>
   
         <url>
-            <loc>http://localhost:4000/jinxed/</loc>
+            <loc>/jinxed/</loc>
         </url>
   
         <url>
-            <loc>http://localhost:4000/throneofglass/</loc>
+            <loc>/throneofglass/</loc>
         </url>
   
         <url>
-            <loc>http://localhost:4000/cruelprince/</loc>
+            <loc>/cruelprince/</loc>
         </url>
   
         <url>
-            <loc>http://localhost:4000/metro2034/</loc>
+            <loc>/metro2034/</loc>
         </url>
   
         <url>
-            <loc>http://localhost:4000/thelostwitch/</loc>
+            <loc>/thelostwitch/</loc>
         </url>
   
         <url>
-            <loc>http://localhost:4000/assassinsblade/</loc>
+            <loc>/assassinsblade/</loc>
         </url>
   
         <url>
-            <loc>http://localhost:4000/renegades/</loc>
+            <loc>/renegades/</loc>
         </url>
   
         <url>
-            <loc>http://localhost:4000/lzymai/</loc>
+            <loc>/lzymai/</loc>
         </url>
   
         <url>
-            <loc>http://localhost:4000/obsidio/</loc>
+            <loc>/obsidio/</loc>
         </url>
   
         <url>
-            <loc>http://localhost:4000/caraval/</loc>
+            <loc>/caraval/</loc>
         </url>
   
         <url>
-            <loc>http://localhost:4000/acofas/</loc>
+            <loc>/acofas/</loc>
         </url>
   
         <url>
-            <loc>http://localhost:4000/memory/</loc>
+            <loc>/memory/</loc>
         </url>
   
         <url>
-            <loc>http://localhost:4000/morethenagame/</loc>
+            <loc>/morethenagame/</loc>
         </url>
   
         <url>
-            <loc>http://localhost:4000/thelongwar/</loc>
+            <loc>/thelongwar/</loc>
         </url>
   
         <url>
-            <loc>http://localhost:4000/gemina/</loc>
+            <loc>/gemina/</loc>
         </url>
   
         <url>
-            <loc>http://localhost:4000/cobab/</loc>
+            <loc>/cobab/</loc>
         </url>
   
         <url>
-            <loc>http://localhost:4000/nevernight/</loc>
+            <loc>/nevernight/</loc>
         </url>
   
 </urlset>
