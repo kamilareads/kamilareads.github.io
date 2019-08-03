@@ -5,9 +5,29 @@
     <description>I'm Kamila and I love books! If you looking for book recommendations you can check out my blog and see what I'm reading!</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 24 Jul 2019 23:25:44 +0100</pubDate>
-    <lastBuildDate>Wed, 24 Jul 2019 23:25:44 +0100</lastBuildDate>
+    <pubDate>Sat, 03 Aug 2019 20:58:59 +0100</pubDate>
+    <lastBuildDate>Sat, 03 Aug 2019 20:58:59 +0100</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>The Truth About Lies</title>
+        <description>&lt;p&gt;Would you like to have a photographic memory? All your brain would need is just one look to remember all the information from the viewed page. Or maybe you would like to go further, to remember everything, every little detail of your life, each conversation, every argument and all the sad things that ever happened to you? It doesn’t sound so appealing anymore, does it? But Jess Wilson must deal with it since she turned 11. How can you live your life, when your friend jumped from the window, and every time you close your eyes you can see her...</description>
+        <pubDate>Fri, 02 Aug 2019 00:00:00 +0100</pubDate>
+        <link>/thetruthaboutlies/</link>
+        <guid isPermaLink="true">/thetruthaboutlies/</guid>
+        
+        <category>The Truth About Lies</category>
+        
+        <category>book review</category>
+        
+        <category>Tracy Darnton</category>
+        
+        <category>Young Adult</category>
+        
+        
+        <category>review</category>
+        
+      </item>
     
       <item>
         <title>Supernova Era</title>
@@ -586,26 +606,6 @@
         
         
         <category>recenzja</category>
-        
-      </item>
-    
-      <item>
-        <title>Leviathan Wakes</title>
-        <description>&lt;p&gt;Leviathan Wakes is sci-fi space opera written by James S. A. Corey. It is actually a pen name for two authors, Daniel Abraham and Ty Franck. There is also a TV series based on the book called the Expanse.&lt;/p&gt; &lt;p&gt;We are in the future where humanity has already colonized most of the solar system - Mars, the Moon, the Asteroids Belt and beyond. But they still haven’t reached for the stars yet. But it’s becoming clear, that solar system is not enough for humans. Jim Holden is XO on the ice hauler ship flying between rings of Saturn and Belt’s...</description>
-        <pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate>
-        <link>/leviathanwakes/</link>
-        <guid isPermaLink="true">/leviathanwakes/</guid>
-        
-        <category>Leviathan Wakes</category>
-        
-        <category>book review</category>
-        
-        <category>James S. A. Corey</category>
-        
-        <category>The Expanse</category>
-        
-        
-        <category>review</category>
         
       </item>
     
