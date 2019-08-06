@@ -24,7 +24,10 @@ echo "Checkoutuje mastera"
 git checkout master
 
 echo "Kopiuje na mastera"
-cp -vr ../temp .
+cp -vr ../temp/* .
+
+echo "Dodaje do gita"
+git add -A
 
 echo "Commituje mastera"
 git commit -m "$1"
