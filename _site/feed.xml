@@ -5,9 +5,29 @@
     <description>I'm Kamila and I love books! If you looking for book recommendations you can check out my blog and see what I'm reading!</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 03 Aug 2019 20:58:59 +0100</pubDate>
-    <lastBuildDate>Sat, 03 Aug 2019 20:58:59 +0100</lastBuildDate>
+    <pubDate>Tue, 06 Aug 2019 20:32:16 +0100</pubDate>
+    <lastBuildDate>Tue, 06 Aug 2019 20:32:16 +0100</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>We Hunt the Flame</title>
+        <description>&lt;p&gt;We Hunt the Flame is a debut novel by Hafsah Faizal, the first book in duology Sands of Arawiya. The action takes place in a fantasy world of Arawiya inspired by ancient Arabia. It’s an epic tale of adventure, searching for identity, standing up against injustice and fighting to bring the lost magic back to the troubled world. That said, I was expecting a thrilling and exotic story. Unfortunately, I was a bit disappointed.&lt;/p&gt; &lt;p&gt;Zafira is a fearless girl. Every day she put on a man’s clothes and brave the cursed forest to hunt for food to feed the people...</description>
+        <pubDate>Tue, 06 Aug 2019 00:00:00 +0100</pubDate>
+        <link>/wehunttheflame/</link>
+        <guid isPermaLink="true">/wehunttheflame/</guid>
+        
+        <category>We Hunt the Flame</category>
+        
+        <category>book review</category>
+        
+        <category>Hafsah Faizal</category>
+        
+        <category>Young Adult</category>
+        
+        
+        <category>review</category>
+        
+      </item>
     
       <item>
         <title>The Truth About Lies</title>
@@ -586,26 +606,6 @@
         
         
         <category>review</category>
-        
-      </item>
-    
-      <item>
-        <title>Małe Licho i Tajemnica Niebożątka</title>
-        <description>&lt;p&gt;Małe Licho i tajemnica Niebożątka to pierwsza książka Marty Kisiel skierowana do dzieci. Ale i dorośli znajdą wiele radości przy jej czytaniu. Zdobyła ona nagrodę Książka Roku Lubimyczytać.pl w kategorii literatury dziecięcej. Jako, że ostatnimi czasy stałam się wielką fanką twórczości Marty Kisiel to również za tę krótką opowieść zabrałam się z entuzjazmem.&lt;/p&gt; &lt;p&gt;Nawet pisząc historię skierowaną do dzieci autorka posługuje się językiem polskim pięknie i nie upraszcza nadmiernie zdań, ale jednocześnie przekaz jest bardzo jasny i klarowny. Książkę czyta się z przyjemnością, bohaterowie jak zwykle są przesympatyczni a ich postrzeganie świata jest specyficzne, ale bardzo trafne i wyrażane w...</description>
-        <pubDate>Tue, 26 Mar 2019 00:00:00 +0000</pubDate>
-        <link>/malelicho/</link>
-        <guid isPermaLink="true">/malelicho/</guid>
-        
-        <category>Małe Licho</category>
-        
-        <category>Marta Kisiel</category>
-        
-        <category>recenzja</category>
-        
-        <category>Tajemnica Niebożątka</category>
-        
-        
-        <category>recenzja</category>
         
       </item>
     
