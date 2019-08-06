@@ -8,6 +8,9 @@ fi
 
 echo "Buduje posta"
 JEKYLL_ENV=production bundle exec jekyll build
+
+echo "Kasuje wrzuta"
+rm _site/wrzuc.sh
 echo "Dodaje do gita"
 git add -A
 
