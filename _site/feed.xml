@@ -5,9 +5,29 @@
     <description>I'm Kamila and I love books! If you looking for book recommendations you can check out my blog and see what I'm reading!</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 14 Aug 2019 15:48:00 +0100</pubDate>
-    <lastBuildDate>Wed, 14 Aug 2019 15:48:00 +0100</lastBuildDate>
+    <pubDate>Mon, 19 Aug 2019 12:01:16 +0100</pubDate>
+    <lastBuildDate>Mon, 19 Aug 2019 12:01:16 +0100</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>The Gone World</title>
+        <description>&lt;p&gt;‘The Gone World’ by Tom Sweterlitsch is a fusion of sci-fi and mystery novel. I’m personally a fan of both genres so I couldn’t wait to read it. The story began in 1997. Shannon Moss, who works for Naval Criminal Investigative Service, is given a case of former SEAL marine family murder. On the site, she also discovers that his teenage daughter went missing, and she is determined to find the girl alive. Everything gets more complicated, when it turns out, that missing SEAL was also participating in Deep Travel assignments, meaning he was travelling to the future. Shannon is...</description>
+        <pubDate>Mon, 19 Aug 2019 00:00:00 +0100</pubDate>
+        <link>/goneworld/</link>
+        <guid isPermaLink="true">/goneworld/</guid>
+        
+        <category>The Gone World</category>
+        
+        <category>book review</category>
+        
+        <category>Tom Sweterlitsch</category>
+        
+        <category>Time Travel</category>
+        
+        
+        <category>review</category>
+        
+      </item>
     
       <item>
         <title>Empress Orchid</title>
@@ -583,26 +603,6 @@
         <category>Katie Lowe</category>
         
         <category>Young Adult</category>
-        
-        
-        <category>review</category>
-        
-      </item>
-    
-      <item>
-        <title>Unhinged</title>
-        <description>&lt;p&gt;Unhinged by A. G. Howard is the second book in Splintered series, a retelling and continuation of Alice in Wonderland story. After her adventures in Wonderland Alyssa came back to real world and decided that it is here that she truly belongs. She tries to live normal life and even though she plans to tell Jeb the truth and to help recall his forgotten memories from Wonderland, she’s not planning to come back there. But the magic kingdom has certainly not forgotten about her, and nor has Mprpheus either. He’s not only visiting her in dreams, but also showing up...</description>
-        <pubDate>Mon, 01 Apr 2019 00:00:00 +0100</pubDate>
-        <link>/unhinged/</link>
-        <guid isPermaLink="true">/unhinged/</guid>
-        
-        <category>Unhinged</category>
-        
-        <category>book review</category>
-        
-        <category>A. G. Howard</category>
-        
-        <category>Splintered</category>
         
         
         <category>review</category>
