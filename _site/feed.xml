@@ -5,9 +5,29 @@
     <description>I'm Kamila and I love books! If you looking for book recommendations you can check out my blog and see what I'm reading!</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 21 Aug 2019 12:19:39 +0100</pubDate>
-    <lastBuildDate>Wed, 21 Aug 2019 12:19:39 +0100</lastBuildDate>
+    <pubDate>Tue, 27 Aug 2019 17:36:47 +0100</pubDate>
+    <lastBuildDate>Tue, 27 Aug 2019 17:36:47 +0100</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>The Crown Tower</title>
+        <description>&lt;p&gt;“The Crown Tower” by Michael J. Sullivan is the first book in “The Riyria Chronicles”. It is a sequel to “The Riyria Revelations” series (which was published first), and it tells the story of Hadrian and Royce from the very beginning. I like reading from the chronological order of the story, so I started with this one.&lt;/p&gt; &lt;p&gt;Hadrian Blackwater has nothing to fight for anymore. He was a soldier in different armies and killed loads of people across half of the world. But he is bone tired and fed up with this existence. When he receives a letter informing about...</description>
+        <pubDate>Tue, 27 Aug 2019 00:00:00 +0100</pubDate>
+        <link>/thecrowntower/</link>
+        <guid isPermaLink="true">/thecrowntower/</guid>
+        
+        <category>The Crown Tower</category>
+        
+        <category>book review</category>
+        
+        <category>Michael J. Sullivan</category>
+        
+        <category>The Riyria Chronicles</category>
+        
+        
+        <category>review</category>
+        
+      </item>
     
       <item>
         <title>Kingdom of Souls</title>
@@ -581,26 +601,6 @@
         <category>book review</category>
         
         <category>Abi Elphinstone</category>
-        
-        <category>book recommendation</category>
-        
-        
-        <category>review</category>
-        
-      </item>
-    
-      <item>
-        <title>Warcross</title>
-        <description>&lt;p&gt;Emika Chen is a bounty hunter, but she is struggling to make ends meet, because she’s deep in debt and unable to get a legitimate job, thanks to her criminal record. She’s so desperate, that she tries to hack into big championship game of Warcross, the most popular game in the world. And in that moment everyone who’s watching sees her glitching into the game. She’s convinced that she’ll get arrested at any moment, but instead she got a call from a famous creator of the game with a proposal she can’t refuse. She becomes a spy trying to find...</description>
-        <pubDate>Sat, 06 Apr 2019 00:00:00 +0100</pubDate>
-        <link>/warcross/</link>
-        <guid isPermaLink="true">/warcross/</guid>
-        
-        <category>Warcross</category>
-        
-        <category>book review</category>
-        
-        <category>Marie Lu</category>
         
         <category>book recommendation</category>
         
