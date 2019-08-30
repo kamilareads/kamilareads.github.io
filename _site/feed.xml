@@ -5,9 +5,29 @@
     <description>I'm Kamila and I love books! If you looking for book recommendations you can check out my blog and see what I'm reading!</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 27 Aug 2019 17:36:47 +0100</pubDate>
-    <lastBuildDate>Tue, 27 Aug 2019 17:36:47 +0100</lastBuildDate>
+    <pubDate>Fri, 30 Aug 2019 18:35:03 +0100</pubDate>
+    <lastBuildDate>Fri, 30 Aug 2019 18:35:03 +0100</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Dziecko Odyna</title>
+        <description>&lt;p&gt;„Dziecko Odyna” autorstwa Siri Pettersen to pierwszy tom cyklu „Krucze Pierścienie”. Autorka zabiera nas w niesamowitą podróż do inspirowanego folklorem skandynawskim świata Ym, gdzie istnieje jedenaście krain a jego mieszkańcy, aetlingowie, wyglądają zupełnie jak ludzie, ale mają też ogony, z których są bardzo dumni oraz mogą korzystać z Evny, przepełniającej cały ich świat magii.&lt;/p&gt; &lt;p&gt;Hirka ma piętnaście lat i zawsze była traktowana jak odmieniec, gdyż sama nie posiada ogona. Zawsze wierzyła w historię, którą opowiadał jej ojciec, że odgryzły go wilki, gdy była niemowlęciem. Jednak wraz z nadciągającym Rytuałem, któremu poddają się wszyscy młodzi ludzi dziewczyna staje się coraz bardziej...</description>
+        <pubDate>Fri, 30 Aug 2019 00:00:00 +0100</pubDate>
+        <link>/dzieckoodyna/</link>
+        <guid isPermaLink="true">/dzieckoodyna/</guid>
+        
+        <category>Dziecko Odyna</category>
+        
+        <category>Siri Pettersen</category>
+        
+        <category>recenzja</category>
+        
+        <category>Krucze Pierścienie</category>
+        
+        
+        <category>recenzja</category>
+        
+      </item>
     
       <item>
         <title>The Crown Tower</title>
@@ -583,26 +603,6 @@
         <category>Maggie Stiefvater</category>
         
         <category>The Raven Cycle</category>
-        
-        
-        <category>review</category>
-        
-      </item>
-    
-      <item>
-        <title>Sky Song</title>
-        <description>&lt;p&gt;Sky Song by Abi Elphinstone is a beautifully written story about courage, hope and unbreakable bonds of friendship. Kingdom of Erkenwald is facing hard times. Evil Ice Queen is reigning over the kingdom and after her victory in a great battle she captured all who survived and imprisoned them in her palace Winterfang. Only the children manage to slip away from Evil Queen and they are hiding ever since. But she won’t rest until she lure them all to her, because to rule Erkenwald forever, she needs to possess the voices of all its people.&lt;/p&gt; &lt;p&gt;Flint belongs to Fur Clan...</description>
-        <pubDate>Tue, 09 Apr 2019 00:00:00 +0100</pubDate>
-        <link>/skysong/</link>
-        <guid isPermaLink="true">/skysong/</guid>
-        
-        <category>Sky Song</category>
-        
-        <category>book review</category>
-        
-        <category>Abi Elphinstone</category>
-        
-        <category>book recommendation</category>
         
         
         <category>review</category>
