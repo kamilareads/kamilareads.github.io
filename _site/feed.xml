@@ -5,9 +5,29 @@
     <description>I'm Kamila and I love books! If you looking for book recommendations you can check out my blog and see what I'm reading!</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 01 Sep 2019 17:36:24 +0100</pubDate>
-    <lastBuildDate>Sun, 01 Sep 2019 17:36:24 +0100</lastBuildDate>
+    <pubDate>Tue, 24 Sep 2019 13:14:04 +0100</pubDate>
+    <lastBuildDate>Tue, 24 Sep 2019 13:14:04 +0100</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Empire of Silence</title>
+        <description>&lt;p&gt;‘Empire of Silence’ by Christopher Ruocchio is the first book in new ‘Sun Eater’ sci-fi series. It was advertised as complex as ‘Dune’ and atmospheric as ‘The Shadow of the Wind’. I usually don’t like comparisons to other books on covers, but in this case, it was surprisingly accurate.&lt;/p&gt; &lt;p&gt;In the beginning, we met Hadrian Marlowe, who earned the reputation of a hero and a monster. Currently, he spends his days imprisoned and writing down his memories, since the very start, when he was just a young man, son of influential archon of prosperous planet Delos. Don’t expect any fireworks,...</description>
+        <pubDate>Tue, 24 Sep 2019 00:00:00 +0100</pubDate>
+        <link>/empireofsilence/</link>
+        <guid isPermaLink="true">/empireofsilence/</guid>
+        
+        <category>Empire of Silence</category>
+        
+        <category>book review</category>
+        
+        <category>Christoper Ruocchio</category>
+        
+        <category>Sun Eater</category>
+        
+        
+        <category>review</category>
+        
+      </item>
     
       <item>
         <title>Kolory zła. Czerwień</title>
@@ -583,26 +603,6 @@
         <category>recenzja</category>
         
         <category>Anioły</category>
-        
-        
-        <category>recenzja</category>
-        
-      </item>
-    
-      <item>
-        <title>Kasacja</title>
-        <description>&lt;p&gt;Kasacja jest pierwszą książką z cyklu Joanna Chyłka Remigiusza Mroza. Serii tej chyba nie trzeba nikomu przedstawiać, jestem pewnie jedną z niewielu osób, które do tej pory jeszcze jej nie przeczytały. Ale polecano mi ją już tak wiele razy, że kiedyś nabyłam ją przy okazji zakupów w księgarni, potem swoje przeleżała na półce i w końcu nastał jej czas.&lt;/p&gt; &lt;p&gt;Syn bogatego biznesmena zostaje oskarżony o wyjątkowo okrutne morderstwo dwóch osób. Sprawę prowadzi Joanna Chyłka, ambitna, bezwzględna i przede wszystkim skuteczna prawniczka z jednej z największych warszawskich kancelarii. Pomaga jej świeżo upieczony aplikant Kordian Oryński. Sprawa choć wydaje się prosta, wcale...</description>
-        <pubDate>Fri, 12 Apr 2019 00:00:00 +0100</pubDate>
-        <link>/kasacja/</link>
-        <guid isPermaLink="true">/kasacja/</guid>
-        
-        <category>Kasacja</category>
-        
-        <category>Remigiusz Mróz</category>
-        
-        <category>recenzja</category>
-        
-        <category>Joanna Chyłka</category>
         
         
         <category>recenzja</category>
