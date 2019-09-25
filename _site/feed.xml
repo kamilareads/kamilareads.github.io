@@ -5,9 +5,29 @@
     <description>I'm Kamila and I love books! If you looking for book recommendations you can check out my blog and see what I'm reading!</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 24 Sep 2019 13:14:04 +0100</pubDate>
-    <lastBuildDate>Tue, 24 Sep 2019 13:14:04 +0100</lastBuildDate>
+    <pubDate>Wed, 25 Sep 2019 20:53:21 +0100</pubDate>
+    <lastBuildDate>Wed, 25 Sep 2019 20:53:21 +0100</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>The Last Command</title>
+        <description>&lt;p&gt;‘The Last Command’ is the last book in ‘Star Wars: The Thrawn Trilogy’ series by Timothy Zahn. It’s an explosive conclusion of the conflict between the New Republic and Imperium lead by Thrawn. Who will be the winner? Does Republic stand a chance against the military genius of the last Imperial Grand Admiral?&lt;/p&gt; &lt;p&gt;A lot is happening in the last book. Imperium is using their newly acquired ships populated with clone soldiers to breaking through New Republic’s defence and taking over planets from their jurisdiction. With their main advantage of more significant military resources gone, the former Rebels becomes desperate...</description>
+        <pubDate>Wed, 25 Sep 2019 00:00:00 +0100</pubDate>
+        <link>/thelastcommand/</link>
+        <guid isPermaLink="true">/thelastcommand/</guid>
+        
+        <category>The Last Command</category>
+        
+        <category>book review</category>
+        
+        <category>Timothy Zahn</category>
+        
+        <category>Star Wars The Thrawn Trilogy</category>
+        
+        
+        <category>review</category>
+        
+      </item>
     
       <item>
         <title>Empire of Silence</title>
@@ -586,26 +606,6 @@
         
         
         <category>review</category>
-        
-      </item>
-    
-      <item>
-        <title>Władczyni Mroku</title>
-        <description>&lt;p&gt;Władczyni Mroku jest debiutancką powieścią K. C. Hiddenstorm, a już wkrótce, 15 maja, będzie miało premierę nowe wydanie z przepiękną okładką. Dzięki uprzejmości autorki mogłam książkę przeczytać przed ponowną premierą, za co serdecznie dziękuję!&lt;/p&gt; &lt;p&gt;Władczyni Mroku to powieść przede wszystkim o wielkiej miłości, która nie zna granic. Ponadto nic tu nie jest czarno białe - demony potrafią kochać nieskończenie, a aniołowie często błądzą i dają się zwieść swoim własnym żądzom. Akcja dzieje się równolegle na ziemi, w piekle oraz w niebie oraz w krainach “pomiędzy”.&lt;/p&gt; &lt;p&gt;Główną bohaterką jest trzydziestoletnia Megan, która nie wyróżnia się niczym specjalnym, poza pięknym tatuażem na...</description>
-        <pubDate>Tue, 16 Apr 2019 00:00:00 +0100</pubDate>
-        <link>/wladczynimroku/</link>
-        <guid isPermaLink="true">/wladczynimroku/</guid>
-        
-        <category>Władczyni Mroku</category>
-        
-        <category>K. C. Hiddenstorm</category>
-        
-        <category>recenzja</category>
-        
-        <category>Anioły</category>
-        
-        
-        <category>recenzja</category>
         
       </item>
     
