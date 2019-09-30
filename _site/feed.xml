@@ -5,9 +5,29 @@
     <description>I'm Kamila and I love books! If you looking for book recommendations you can check out my blog and see what I'm reading!</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 25 Sep 2019 20:55:27 +0100</pubDate>
-    <lastBuildDate>Wed, 25 Sep 2019 20:55:27 +0100</lastBuildDate>
+    <pubDate>Mon, 30 Sep 2019 23:28:00 +0100</pubDate>
+    <lastBuildDate>Mon, 30 Sep 2019 23:28:00 +0100</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Candidate</title>
+        <description>&lt;p&gt;‘Candidate’ by Rachel E. Carter is the third book in ‘The Black Mage’ series, telling a story of Ryiah, a girl from a poor family who dreamed about becoming the legendary Black Mage. I was waiting impatiently for this volume because the ending of the previous one provided us for entirely new perspectives for unravelling this tale.&lt;/p&gt; &lt;p&gt;Ryiah is twenty now, and she has already achieved so much it’s unbelievable. Thanks to her extremely hard work she became a black mage, she saved the kingdom from Caltoh’s sneaky attack and in the meantime, she managed to win prince’s heart and...</description>
+        <pubDate>Mon, 30 Sep 2019 00:00:00 +0100</pubDate>
+        <link>/candidate/</link>
+        <guid isPermaLink="true">/candidate/</guid>
+        
+        <category>Candidate</category>
+        
+        <category>book review</category>
+        
+        <category>Rachel E. Carter</category>
+        
+        <category>The Black Mage</category>
+        
+        
+        <category>review</category>
+        
+      </item>
     
       <item>
         <title>The Last Command</title>
@@ -583,26 +603,6 @@
         <category>Christy Lefteri</category>
         
         <category>book recommendation</category>
-        
-        
-        <category>review</category>
-        
-      </item>
-    
-      <item>
-        <title>Dark Force Rising</title>
-        <description>&lt;p&gt;Dark Force Rising by Timothy Zahn is the second book in Star Wars: The Thrawn Trilogy. After reading the first book I couldn’t wait to read this one and see what Grand Admiral will scheme this time. And I was not disappointed!&lt;/p&gt; &lt;p&gt;As Heir to Empire started slow and a little bit boring, here we have action from the very start. Our heroes don’t waste any time and after a quick catch up they move yet again - Han and Lando to find out who is the traitor in the midst of the Republic, Leia to negotiate peace terms with...</description>
-        <pubDate>Wed, 24 Apr 2019 00:00:00 +0100</pubDate>
-        <link>/darkforcerising/</link>
-        <guid isPermaLink="true">/darkforcerising/</guid>
-        
-        <category>Dark Force Rising</category>
-        
-        <category>book review</category>
-        
-        <category>Timothy Zahn</category>
-        
-        <category>The Thrawn Trilogy</category>
         
         
         <category>review</category>

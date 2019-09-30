@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Candidate",
+      "tags"     : "Candidate, book review, Rachel E. Carter, and The Black Mage",
+      "categories" : "review",
+      "url"      : "/candidate/",
+      "date"     : "09/30/2019"
+    } ,
+  
+    {
       "title"    : "The Last Command",
       "tags"     : "The Last Command, book review, Timothy Zahn, and Star Wars The Thrawn Trilogy",
       "categories" : "review",
