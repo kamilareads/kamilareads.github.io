@@ -5,9 +5,27 @@
     <description>I'm Kamila and I love books! If you looking for book recommendations you can check out my blog and see what I'm reading!</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 30 Sep 2019 23:28:00 +0100</pubDate>
-    <lastBuildDate>Mon, 30 Sep 2019 23:28:00 +0100</lastBuildDate>
+    <pubDate>Thu, 03 Oct 2019 19:25:34 +0100</pubDate>
+    <lastBuildDate>Thu, 03 Oct 2019 19:25:34 +0100</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Lost and Found</title>
+        <description>&lt;p&gt;‘Lost and Found’ is a new novel written by Orson Scott Card. Contrary to most of his book, this is not a sci-fi or fantasy story, but Young Adult contemporary with a little bit sparkle of everyday magic. I didn’t know what to expect of this book, but as I’m a big fan of the author himself, I had to check it out.&lt;/p&gt; &lt;p&gt;It’s a story about fourteen-year-old boy Ezekiel. He has an exceptional talent of finding lost things and instantly knowing where the owner is. It sounds good in theory, but it quickly turns up to get the boy...</description>
+        <pubDate>Tue, 01 Oct 2019 00:00:00 +0100</pubDate>
+        <link>/lostandfound/</link>
+        <guid isPermaLink="true">/lostandfound/</guid>
+        
+        <category>Lost and Found</category>
+        
+        <category>book review</category>
+        
+        <category>Orson Scott Card</category>
+        
+        
+        <category>review</category>
+        
+      </item>
     
       <item>
         <title>Candidate</title>
@@ -586,26 +604,6 @@
         
         
         <category>recenzja</category>
-        
-      </item>
-    
-      <item>
-        <title>The Beekeeper of Aleppo</title>
-        <description>&lt;p&gt;The Beekeeper of Aleppo by Christy Lefteri is a very touching story about Syrian refugees. Nuri was a beekeeper. He loved his job, it was his passion, his whole life. He and his family and friends led a simple life, but they were very happy. But then the war came, and everything they knew was shattered to pieces.&lt;/p&gt; &lt;p&gt;The story is told from Nuri’s point of view. He starting his tale when he’s already in England, waiting for the decision if he can stay there for good. We learn his story from the series of retrospective memories mixed with his...</description>
-        <pubDate>Fri, 26 Apr 2019 00:00:00 +0100</pubDate>
-        <link>/thebeekeeperofaleppo/</link>
-        <guid isPermaLink="true">/thebeekeeperofaleppo/</guid>
-        
-        <category>The Beekeeper of Aleppo</category>
-        
-        <category>book review</category>
-        
-        <category>Christy Lefteri</category>
-        
-        <category>book recommendation</category>
-        
-        
-        <category>review</category>
         
       </item>
     
