@@ -71,6 +71,10 @@
     
     
         <url>
+            <loc>/lostandfound/</loc>
+        </url>
+  
+        <url>
             <loc>/candidate/</loc>
         </url>
   
