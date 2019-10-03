@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: pl
-title: Losty and Found
+title: Lost and Found
 author: Orson Scott Card
 releaseDate: 10/09/2019
 pages: 281
@@ -29,4 +29,4 @@ tags:
   Kiedy zbliżałam się do końca książki, po prostu siedziałam i czytałam ignorując inne obowiązki, tak bardzo chciałam poznać zakończenie tej opowieści. Było tam również kilka łez w międzyczasie. Bardzo podobała mi się ta historia i polecam ją każdemu, nie ważne, czy jesteście nastolatkiem, dorosłym, czy emerytem!
 
 
-  \*\*\*\* 
+  \*\*\*\*
