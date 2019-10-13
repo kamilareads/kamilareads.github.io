@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Angel Mage",
+      "tags"     : "Angel Mage, Garth Nix, and recenzja",
+      "categories" : "recenzja",
+      "url"      : "/angelmage/",
+      "date"     : "10/13/2019"
+    } ,
+  
+    {
       "title"    : "Lost and Found",
       "tags"     : "Lost and Found, Orson Scott Card, and recenzja",
       "categories" : "recenzja",

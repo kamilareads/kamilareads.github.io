@@ -5,9 +5,27 @@
     <description>I'm Kamila and I love books! If you looking for book recommendations you can check out my blog and see what I'm reading!</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 03 Oct 2019 19:37:37 +0100</pubDate>
-    <lastBuildDate>Thu, 03 Oct 2019 19:37:37 +0100</lastBuildDate>
+    <pubDate>Sun, 13 Oct 2019 12:46:49 +0100</pubDate>
+    <lastBuildDate>Sun, 13 Oct 2019 12:46:49 +0100</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Angel Mage</title>
+        <description>&lt;p&gt;‘Angel Mage’ is the newest fantasy novel by Garth Nix. It’s a stand-alone with a very original magic system based on summoning angels and using their powers. I was hooked from the very first pages.&lt;/p&gt; &lt;p&gt;Liliath was a very talented icon maker with extraordinary powers, but with a fall of her state and its archangel disappearance, she was forced to flee and run for her life. She goes into a magically induced sleep to wait for a convenient time to get back and restore the fallen angel to its glorious power. And make their enemies pay.&lt;/p&gt; &lt;p&gt;Four young people who...</description>
+        <pubDate>Sun, 13 Oct 2019 00:00:00 +0100</pubDate>
+        <link>/angelmage/</link>
+        <guid isPermaLink="true">/angelmage/</guid>
+        
+        <category>Angel Mage</category>
+        
+        <category>book review</category>
+        
+        <category>Garth Nix</category>
+        
+        
+        <category>review</category>
+        
+      </item>
     
       <item>
         <title>Lost and Found</title>
@@ -584,26 +602,6 @@
         
         
         <category>review</category>
-        
-      </item>
-    
-      <item>
-        <title>Dożywocie</title>
-        <description>&lt;p&gt;Z Dożywociem Marty Kisiel spotkałam się po raz pierwszy w zbiorze opowiadań Pierwsze słowo i opowiadanie to z miejsca mnie zachwyciło i od razu postanowiłam, że muszę się zapoznać z resztą twórczości autorki. Także ogromnie się ucieszyłam, że będę mogła przeczytać więcej o mieszkańcach Lichotki i ich przygodach. W międzyczasie jednak przeczytałam kilka innych książek autorki, i muszę powiedzieć, że jednak troszkę się Dożywociem jako powieścią rozczarowałam.&lt;/p&gt; &lt;p&gt;Oczywiście wciąż jest to świetna książka! Przezabawna, z bohaterami, którzy konkurują o miano tego najbardziej uroczego i ujmującego. No i poczucie humoru jest dokładnie takie jak lubię, pełno tu ciętych ripost, absurdalnych sytuacji...</description>
-        <pubDate>Mon, 29 Apr 2019 00:00:00 +0100</pubDate>
-        <link>/dozywocie/</link>
-        <guid isPermaLink="true">/dozywocie/</guid>
-        
-        <category>Dożywocie</category>
-        
-        <category>Marta Kisiel</category>
-        
-        <category>recenzja</category>
-        
-        <category>Lichotka</category>
-        
-        
-        <category>recenzja</category>
         
       </item>
     
