@@ -5,9 +5,27 @@
     <description>I'm Kamila and I love books! If you looking for book recommendations you can check out my blog and see what I'm reading!</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 13 Oct 2019 12:46:49 +0100</pubDate>
-    <lastBuildDate>Sun, 13 Oct 2019 12:46:49 +0100</lastBuildDate>
+    <pubDate>Sun, 20 Oct 2019 17:33:37 +0100</pubDate>
+    <lastBuildDate>Sun, 20 Oct 2019 17:33:37 +0100</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Szamanka od umarlaków</title>
+        <description>&lt;p&gt;„Szamanka od Umarlaków” Martyny Raduchowskiej to pełna humoru opowieść o mrocznej tematyce. Ida Brzezińska pochodzi z wielkiego rodu czarodziejów, ale sama nie wykazuje za grosz zdolności magicznych. W ramach buntu postanawia uciec do Wrocławia na studia psychologiczne i rozpocząć wymarzone, samodzielne życie, wolne od zabobonów i przesądów. Okazuje się jednak, że nie będzie to takie proste, gdyż Ida zaczyna dostrzegać martwych ludzi wszędzie wokół siebie. A na domiar złego, oni wcale nie chcą zrozumieć, że ona może nie mieć ochoty z nimi rozmawiać. Na szczęście z pomocą przychodzi jej ekscentryczna ciotka Tekla, która przyjmuje ją pod swoje skrzydła.&lt;/p&gt; &lt;p&gt;Ida, oprócz...</description>
+        <pubDate>Sun, 20 Oct 2019 00:00:00 +0100</pubDate>
+        <link>/szamanka/</link>
+        <guid isPermaLink="true">/szamanka/</guid>
+        
+        <category>Szamanka od umarlaków</category>
+        
+        <category>Martyna Raduchowska</category>
+        
+        <category>recenzja</category>
+        
+        
+        <category>recenzja</category>
+        
+      </item>
     
       <item>
         <title>Angel Mage</title>
@@ -579,26 +597,6 @@
         <category>Jeffery Deaver</category>
         
         <category>Colter Shaw</category>
-        
-        
-        <category>review</category>
-        
-      </item>
-    
-      <item>
-        <title>A Darker Shade of Magic</title>
-        <description>&lt;p&gt;A Darker Shade of Magic is the first book in a fantasy series Shades of Magic by V. E. Schwab. I had this book on my radar for a long time. I’ve heard so many good things about the author and the series description sounded very appealing to me. So, I bought it and after it waited on my shelve for a while, I finally got to it.&lt;/p&gt; &lt;p&gt;The book tells a story about adventures of Kell, one of the few remaining magic wielders who can travel between parallel universes. He was lucky enough to be adopted by royal family...</description>
-        <pubDate>Fri, 10 May 2019 00:00:00 +0100</pubDate>
-        <link>/adsom/</link>
-        <guid isPermaLink="true">/adsom/</guid>
-        
-        <category>A Darker Shade of Magic</category>
-        
-        <category>book review</category>
-        
-        <category>V. E. Schwab</category>
-        
-        <category>Shades of Magic</category>
         
         
         <category>review</category>
