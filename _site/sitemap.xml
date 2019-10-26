@@ -71,6 +71,10 @@
     
     
         <url>
+            <loc>/permanentrecord/</loc>
+        </url>
+  
+        <url>
             <loc>/szamanka/</loc>
         </url>
   
