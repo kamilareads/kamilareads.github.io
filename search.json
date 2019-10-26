@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Permanent Record",
+      "tags"     : "Permanent Record, book review, and Edward Snowden",
+      "categories" : "review",
+      "url"      : "/permanentrecord/",
+      "date"     : "10/26/2019"
+    } ,
+  
+    {
       "title"    : "Szamanka od umarlaków",
       "tags"     : "Szamanka od umarlaków, Martyna Raduchowska, and recenzja",
       "categories" : "recenzja",
