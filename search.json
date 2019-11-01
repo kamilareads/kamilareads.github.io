@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Na moment przed świtem",
+      "tags"     : "Na moment przed świtem, Magdalena Wala, recenzja, and Za zakrętem",
+      "categories" : "recenzja",
+      "url"      : "/namomentprzedswitem/",
+      "date"     : "11/01/2019"
+    } ,
+  
+    {
       "title"    : "Permanent Record",
       "tags"     : "Permanent Record, book review, and Edward Snowden",
       "categories" : "review",
