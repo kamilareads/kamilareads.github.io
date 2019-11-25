@@ -5,9 +5,29 @@
     <description>I'm Kamila and I love books! If you looking for book recommendations you can check out my blog and see what I'm reading!</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 23 Nov 2019 12:31:39 +0000</pubDate>
-    <lastBuildDate>Sat, 23 Nov 2019 12:31:39 +0000</lastBuildDate>
+    <pubDate>Mon, 25 Nov 2019 14:51:13 +0000</pubDate>
+    <lastBuildDate>Mon, 25 Nov 2019 14:51:13 +0000</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Cokolwiek wybierzesz</title>
+        <description>&lt;p&gt;„My już żyjemy w dystopijnej cyberprzyszłości. Tylko interfejs jest przyjazny dla użytkownika, więc nikt się nie zorientował.”&lt;/p&gt; &lt;p&gt;„Cokolwiek wybierzesz” to pierwszy tom cyklu „Ukryta sieć” autorstwa Jakuba Szamałka. Jest to trzymający w napięciu thriller, który przedstawia nam nowy, bardzo aktualny, rodzaj przestępczości, opierającej się na wykorzystaniu nowoczesnych technologii.&lt;/p&gt; &lt;p&gt;Julita jest dziennikarką z wielkimi ambicjami, pracującą dla plotkarskiego portalu Meganewsy, który żyje głównie skandalami celebrytów. Pewnego dnia dostaje jednak zlecenie napisania „prawdziwego” newsa o śmiertelnym wypadku Ryszarda Buczka, słynnego prowadzącego programu dla dzieci. Upojona sukcesem pragnie wykorzystać swoje pięć minut i zaczyna przyglądać się wydarzeiu uważniej. Ku własnemu zaskoczeniu, im dłużej...</description>
+        <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
+        <link>/cokolwiekwybierzesz/</link>
+        <guid isPermaLink="true">/cokolwiekwybierzesz/</guid>
+        
+        <category>Cokolwiek wybierzesz</category>
+        
+        <category>Jakub Szamałek</category>
+        
+        <category>recenzja</category>
+        
+        <category>Ukryta Sieć</category>
+        
+        
+        <category>recenzja</category>
+        
+      </item>
     
       <item>
         <title>Rithmatist</title>
@@ -573,26 +593,6 @@
         <category>Adrianne Strickland, Michael Miller</category>
         
         <category>Kaitan Chronicles</category>
-        
-        
-        <category>review</category>
-        
-      </item>
-    
-      <item>
-        <title>Zenith</title>
-        <description>&lt;p&gt;Zenith is a space opera written by Sasha Alsberg and Lindsay Cummings. The main character is Androma Racella, a powerful mercenary and space pirate with a very catchy nickname, Bloody Baroness. She’s a captain of spaceship Marauder, and together with her crew of equally dangerous girls, they are flying across Mirabel Galaxy in search of well-paid jobs. Everything changes when they got caught by a bounty hunter Dex and got a proposal they can’t refuse. They must embark on a mission no one else in the galaxy can fulfil.&lt;/p&gt; &lt;p&gt;Zenith is quite a big book which can be a little...</description>
-        <pubDate>Thu, 06 Jun 2019 00:00:00 +0100</pubDate>
-        <link>/zenith/</link>
-        <guid isPermaLink="true">/zenith/</guid>
-        
-        <category>Zenith</category>
-        
-        <category>book review</category>
-        
-        <category>Sasha Alsberg</category>
-        
-        <category>Lindsay Cummings</category>
         
         
         <category>review</category>
