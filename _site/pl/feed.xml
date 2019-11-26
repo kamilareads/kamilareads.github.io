@@ -5,9 +5,27 @@
     <description>Mam na imię Kamila i kocham książki. Jeśli nie wiesz co czytać zapraszam na bloga! Na pewno znajdziesz tu coś dla siebie!</description>
     <link>/</link>
     <atom:link href="/pl/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 25 Nov 2019 14:51:20 +0000</pubDate>
-    <lastBuildDate>Mon, 25 Nov 2019 14:51:20 +0000</lastBuildDate>
+    <pubDate>Tue, 26 Nov 2019 12:38:37 +0000</pubDate>
+    <lastBuildDate>Tue, 26 Nov 2019 12:38:37 +0000</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Imaginary Friend</title>
+        <description>&lt;p&gt;“Imaginary Friend” to nowa powieść Stephena Chbosky. Została napisna po dwudziestu latach od wydania jego pierwszej książki „The Perks of Being a Wall Flower”. W międzyczasie autor pracował jako reżyser i scenarzysta. Przyznał jednak, że tęsknił za pisaniem powieści i tak właśnie narodziła się jego najnowsza książka.&lt;/p&gt; &lt;p&gt;Samo tomiszcze jest bardzo opasłe. Czytałam je powoli, ale miałam to szczęście, że oprócz fizycznego egzemplarza miałam również eBooka, więc mogłam czytać gdziekolwiek naszła mnie ochota. Słyszałam opinie, że powieść jest zdecydowanie za długa, ale wydaje mi się, że autor po prostu ma taki styl, że swą historię opowiada powoli i ze szczegółami,...</description>
+        <pubDate>Tue, 26 Nov 2019 00:00:00 +0000</pubDate>
+        <link>/imaginaryfriend/</link>
+        <guid isPermaLink="true">/imaginaryfriend/</guid>
+        
+        <category>Imaginary Friend</category>
+        
+        <category>Stephen Chbosky</category>
+        
+        <category>recenzja</category>
+        
+        
+        <category>recenzja</category>
+        
+      </item>
     
       <item>
         <title>Cokolwiek wybierzesz</title>
@@ -573,26 +591,6 @@
         <category>recenzja</category>
         
         <category>Zaklinacz</category>
-        
-        
-        <category>recenzja</category>
-        
-      </item>
-    
-      <item>
-        <title>Cień</title>
-        <description>&lt;p&gt;Cień to pierwsza część nowej serii sci-fi dla młodzieży Kroniki Kaitanu autorstwa AdriAnne Strickland i Michaela Millera. Akcja dzieje się w dalekiej przyszłości, gdzie świat posiada nie tylko zaawansowaną technologię, ale już doświadczył pierwszej poważnej katastrofy. W wyniku Wielkiego Upadku portale międzygwiezdne, umożliwiające szybkie międzygalaktyczne podróże, eksplodowały, powodując powodując powrót do technologii sprzed kilkuset lat. To między innymi dlatego tajemnicza substancja – cień - jest w centrum uwagi wielu wpływowych instytucji. Kryje w sobie bowiem wielki potencjał do wykorzystania jako paliwo, czy innego wspierania technologii, jednak jest również wyjątkowo niestabilna. Ponadto ludzie nie mogą przebywać w jej pobliżu przez dłuższy...</description>
-        <pubDate>Mon, 10 Jun 2019 00:00:00 +0100</pubDate>
-        <link>/shadowrun/</link>
-        <guid isPermaLink="true">/shadowrun/</guid>
-        
-        <category>Cień</category>
-        
-        <category>Adrianne Strickland, Michael Miller</category>
-        
-        <category>recenzja</category>
-        
-        <category>Kroniki Kaitanu</category>
         
         
         <category>recenzja</category>
