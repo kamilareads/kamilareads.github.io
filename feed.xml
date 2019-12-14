@@ -5,9 +5,29 @@
     <description>I'm Kamila and I love books! If you looking for book recommendations you can check out my blog and see what I'm reading!</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 26 Nov 2019 12:38:31 +0000</pubDate>
-    <lastBuildDate>Tue, 26 Nov 2019 12:38:31 +0000</lastBuildDate>
+    <pubDate>Sat, 14 Dec 2019 21:00:47 +0000</pubDate>
+    <lastBuildDate>Sat, 14 Dec 2019 21:00:47 +0000</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Starsight</title>
+        <description>&lt;p&gt;“Starsight” is a brand-new sequel of Brandon Sanderson’s “Skyward”. A word of advice, if you haven’t read the first book, please don’t look at this review, because it will probably contain loads of spoilers to it. Writing a review of the sequel I would expect the readers know the ending of the previous book. So yeah, you’ve been warned.&lt;/p&gt; &lt;p&gt;From the very start, “Starsight” is action-filled. We find Spensa in the middle of a space battle, fighting with merciless Krells. But the story takes a very different turn. I was expecting another book filled with DDF’s desperate attempts to survive,...</description>
+        <pubDate>Sat, 14 Dec 2019 00:00:00 +0000</pubDate>
+        <link>/starsight/</link>
+        <guid isPermaLink="true">/starsight/</guid>
+        
+        <category>Starsight</category>
+        
+        <category>book review</category>
+        
+        <category>Brandon Sanderson</category>
+        
+        <category>Skyward</category>
+        
+        
+        <category>review</category>
+        
+      </item>
     
       <item>
         <title>Imaginary Friend</title>
@@ -573,26 +593,6 @@
         <category>Brigid Kemmerer</category>
         
         <category>Beauty and the Beast</category>
-        
-        
-        <category>review</category>
-        
-      </item>
-    
-      <item>
-        <title>The Outcast</title>
-        <description>&lt;p&gt;The Outcast written by Taran Matharu is a prequel to the very popular series Summoner. I haven’t read the main story yet, but because I like to read stories with chronological order, I decided that I want to read the Outcast first.&lt;/p&gt; &lt;p&gt;Arcturus is an orphan who is fighting for survival. But he has a grand plan. He collected enough money to run away from his slave-like job in the inn and maybe try his luck somewhere else now. But everything changes when he unintentionally steals a magic scroll from a noble boy, and it turns out he has the...</description>
-        <pubDate>Fri, 21 Jun 2019 00:00:00 +0100</pubDate>
-        <link>/theoutcast/</link>
-        <guid isPermaLink="true">/theoutcast/</guid>
-        
-        <category>The Outcast</category>
-        
-        <category>book review</category>
-        
-        <category>Taran Matharu</category>
-        
-        <category>Summoner</category>
         
         
         <category>review</category>
