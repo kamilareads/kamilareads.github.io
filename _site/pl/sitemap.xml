@@ -71,6 +71,10 @@
     
     
         <url>
+            <loc>/phasma/</loc>
+        </url>
+  
+        <url>
             <loc>/starsight/</loc>
         </url>
   

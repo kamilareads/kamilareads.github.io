@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Phasma",
+      "tags"     : "Phasma, book review, Delilah S. Dawson, and Star Wars",
+      "categories" : "review",
+      "url"      : "/phasma/",
+      "date"     : "12/23/2019"
+    } ,
+  
+    {
       "title"    : "Starsight",
       "tags"     : "Starsight, book review, Brandon Sanderson, and Skyward",
       "categories" : "review",

@@ -5,9 +5,29 @@
     <description>I'm Kamila and I love books! If you looking for book recommendations you can check out my blog and see what I'm reading!</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 14 Dec 2019 21:00:47 +0000</pubDate>
-    <lastBuildDate>Sat, 14 Dec 2019 21:00:47 +0000</lastBuildDate>
+    <pubDate>Mon, 23 Dec 2019 19:47:28 +0000</pubDate>
+    <lastBuildDate>Mon, 23 Dec 2019 19:47:28 +0000</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Phasma</title>
+        <description>&lt;p&gt;I read “Phasma” by Delilah S. Dawson because with all the hype for the new Star Wars movie I felt a great longing to get back to the universe before going to the cinema. So, as I had this book in my collection for a while now, I decided it is high time to read it.&lt;/p&gt; &lt;p&gt;Phasma is one of the officers in the First Order. She’s not playing a significant role in the movies, but she’s there, and with her imposing posture and chrome armour she’s quite an intriguing character. So, when I saw the book about her, I...</description>
+        <pubDate>Mon, 23 Dec 2019 00:00:00 +0000</pubDate>
+        <link>/phasma/</link>
+        <guid isPermaLink="true">/phasma/</guid>
+        
+        <category>Phasma</category>
+        
+        <category>book review</category>
+        
+        <category>Delilah S. Dawson</category>
+        
+        <category>Star Wars</category>
+        
+        
+        <category>review</category>
+        
+      </item>
     
       <item>
         <title>Starsight</title>
@@ -576,26 +596,6 @@
         
         
         <category>recenzja</category>
-        
-      </item>
-    
-      <item>
-        <title>A Curse so Dark and Lonely</title>
-        <description>&lt;p&gt;A Curse so Dark and Lonely by Brigid Kemmerer is a modern retelling of Beauty and the Beast fairy tale for young adults. This was my favourite story when I was a kid, so I was very excited to read it!&lt;/p&gt; &lt;p&gt;Rhen is a cursed prince, and when I say cursed, I don’t mean he just looks ugly and reproachful. At the end of each season, he turns into a monster, he loses any awareness of who he is and surrenders to his animal instincts to kill whoever stands in his way. After that, the season resets and starts again...</description>
-        <pubDate>Tue, 25 Jun 2019 00:00:00 +0100</pubDate>
-        <link>/acursesodarkandlonely/</link>
-        <guid isPermaLink="true">/acursesodarkandlonely/</guid>
-        
-        <category>A Curse so Dark and Lonely</category>
-        
-        <category>book review</category>
-        
-        <category>Brigid Kemmerer</category>
-        
-        <category>Beauty and the Beast</category>
-        
-        
-        <category>review</category>
         
       </item>
     
