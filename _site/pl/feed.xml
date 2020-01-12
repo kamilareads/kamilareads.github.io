@@ -5,9 +5,29 @@
     <description>Mam na imię Kamila i kocham książki. Jeśli nie wiesz co czytać zapraszam na bloga! Na pewno znajdziesz tu coś dla siebie!</description>
     <link>/</link>
     <atom:link href="/pl/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 05 Jan 2020 14:47:27 +0000</pubDate>
-    <lastBuildDate>Sun, 05 Jan 2020 14:47:27 +0000</lastBuildDate>
+    <pubDate>Sun, 12 Jan 2020 12:54:53 +0000</pubDate>
+    <lastBuildDate>Sun, 12 Jan 2020 12:54:53 +0000</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>The Shadow Saint</title>
+        <description>&lt;p&gt;“The Shadow Saint” jest kolejnym tomem serii „The Block Iron Legacy”. Bardzo podobała mi się pierwsza książka, więc jak tylko zobaczyłam, że dostępne są kopie recenzenckie kontynuacji, bez wahania się zgłosiłam.&lt;/p&gt; &lt;p&gt;Akcja zaczyna się w kilka miesięcy po zatrważających wydarzeniach z „The Gutter Prayer”, nazywanych obecnie Kryzysem. Nowe miasto wyrosło z niczego w samym środku Guerdonu i nikt nie wie jak je właściwie traktować i co z nim zrobić. Eladora Duttin pracuje jako asystentka Efro Kelkina i jej głównym zadaniem jest dowiedzenie się o tym nowym konstrukcie wszystkiego co możliwe i użyteczne. Jednak podczas gdy Guerdon próbuje powrócić do równowagi,...</description>
+        <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+        <link>/theshadowsaint/</link>
+        <guid isPermaLink="true">/theshadowsaint/</guid>
+        
+        <category>The Shadow Saint</category>
+        
+        <category>Gareth Ryder-Hanrahan</category>
+        
+        <category>recenzja</category>
+        
+        <category>Orbit</category>
+        
+        
+        <category>recenzja</category>
+        
+      </item>
     
       <item>
         <title>The God Game</title>
@@ -569,26 +589,6 @@
         <category>recenzja</category>
         
         <category>YA!</category>
-        
-        
-        <category>recenzja</category>
-        
-      </item>
-    
-      <item>
-        <title>Shadow Frost</title>
-        <description>&lt;p&gt;Shadow Frost to debiutancka powieść młodej autorki Coco Ma i jest to pierwszy tom w nowej serii fantastycznej. Książka opowiada o losach Asterin, księżniczki i następczyni tronu Axarii, która stara się uchronić swoje królestwo od zguby. W jego granicach grasuje bowiem demon, który terroryzuje jego mieszkańców. Gdy okazuje się, że bohaterka może być jedyną osobą zdolną go powstrzymać, nie zwlekając zbiera drużynę przyjaciół i strażników by wyruszyć na straceńczą misję powstrzymania potwora. Nikt z nich jednak nawet nie podejrzewa jak ta wyprawa się skończy.&lt;/p&gt; &lt;p&gt;Książka jest pełna akcji, przygód i ma ciekawy system magii. Jest dziewięć elementów - woda, powietrze,...</description>
-        <pubDate>Mon, 01 Jul 2019 00:00:00 +0100</pubDate>
-        <link>/shadowfrost/</link>
-        <guid isPermaLink="true">/shadowfrost/</guid>
-        
-        <category>Shadow Frost</category>
-        
-        <category>Coco Ma</category>
-        
-        <category>recenzja</category>
-        
-        <category>YA fantastyka</category>
         
         
         <category>recenzja</category>
