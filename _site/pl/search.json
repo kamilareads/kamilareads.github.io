@@ -1,11 +1,19 @@
 [
   
     {
+      "title"    : "Demon Luster",
+      "tags"     : "Demon Luster, Martyna Raduchowska, recenzja, and Szamanka od Umarlaków",
+      "categories" : "recenzja",
+      "url"      : "/demonluster/",
+      "date"     : "01/13/2020"
+    } ,
+  
+    {
       "title"    : "The Shadow Saint",
       "tags"     : "The Shadow Saint, Gareth Ryder-Hanrahan, recenzja, and Orbit",
       "categories" : "recenzja",
       "url"      : "/theshadowsaint/",
-      "date"     : "01/12/2020"
+      "date"     : "01/13/2020"
     } ,
   
     {
