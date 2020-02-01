@@ -1,11 +1,11 @@
 [
   
     {
-      "title"    : "Demon Luster",
-      "tags"     : "Demon Luster, Martyna Raduchowska, recenzja, and Szamanka od Umarlaków",
+      "title"    : "Korona z Czarodrzewu",
+      "tags"     : "Korona z Czarodrzewu, Tad Williams, recenzja, and Ostatni Król Osten Ard",
       "categories" : "recenzja",
-      "url"      : "/demonluster/",
-      "date"     : "01/13/2020"
+      "url"      : "/koronazczarodrzewu/",
+      "date"     : "02/01/2020"
     } ,
   
     {
@@ -13,6 +13,14 @@
       "tags"     : "The Shadow Saint, Gareth Ryder-Hanrahan, recenzja, and Orbit",
       "categories" : "recenzja",
       "url"      : "/theshadowsaint/",
+      "date"     : "01/13/2020"
+    } ,
+  
+    {
+      "title"    : "Demon Luster",
+      "tags"     : "Demon Luster, Martyna Raduchowska, recenzja, and Szamanka od Umarlaków",
+      "categories" : "recenzja",
+      "url"      : "/demonluster/",
       "date"     : "01/13/2020"
     } ,
   
