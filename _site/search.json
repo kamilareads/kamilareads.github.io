@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Kimkolwiek Jesteś",
+      "tags"     : "Kimkolwiek Jesteś, Jakub Szamałek, recenzja, and Ukryta Sieć",
+      "categories" : "recenzja",
+      "url"      : "/kimkolwiekjestes/",
+      "date"     : "02/11/2020"
+    } ,
+  
+    {
       "title"    : "Fałszywy Pieśniarz",
       "tags"     : "Fałszywy Pieśniarz, Martyna Raduchowska, recenzja, and Szamanka od Umarlaków",
       "categories" : "recenzja",
