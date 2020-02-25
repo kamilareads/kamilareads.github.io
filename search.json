@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "The Chestnut Man",
+      "tags"     : "The Chestnut Man, book review, and Søren Sveistrup",
+      "categories" : "review",
+      "url"      : "/kasztanowyludzik/",
+      "date"     : "02/25/2020"
+    } ,
+  
+    {
       "title"    : "Kimkolwiek Jesteś",
       "tags"     : "Kimkolwiek Jesteś, Jakub Szamałek, recenzja, and Ukryta Sieć",
       "categories" : "recenzja",
