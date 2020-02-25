@@ -5,9 +5,27 @@
     <description>I'm Kamila and I love books! If you looking for book recommendations you can check out my blog and see what I'm reading!</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 11 Feb 2020 17:31:49 +0000</pubDate>
-    <lastBuildDate>Tue, 11 Feb 2020 17:31:49 +0000</lastBuildDate>
+    <pubDate>Tue, 25 Feb 2020 19:59:51 +0000</pubDate>
+    <lastBuildDate>Tue, 25 Feb 2020 19:59:51 +0000</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>The Chestnut Man</title>
+        <description>&lt;p&gt;“The Chestnut Man’ is a dark thriller by Søren Sveistrup placed in Denmark. Copenhagen is terrorised by a psychopath brutally murdering woman. On the crime scene, police find a little chestnut man with fingerprints of a girl long thought dead. Is it possible that the old mystery was not fully resolved? Who is brilliant chestnut men creator who keeps eluding the police? The case is given to bright Naia Thulin and Mark Hess, who was temporarily sent back to Denmark from Europol. Will they be able to solve the case before the serial killer fulfil his dark plan and kill...</description>
+        <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
+        <link>/kasztanowyludzik/</link>
+        <guid isPermaLink="true">/kasztanowyludzik/</guid>
+        
+        <category>The Chestnut Man</category>
+        
+        <category>book review</category>
+        
+        <category>Søren Sveistrup</category>
+        
+        
+        <category>review</category>
+        
+      </item>
     
       <item>
         <title>Kimkolwiek Jesteś</title>
@@ -573,26 +591,6 @@
         <category>Cixin Liu</category>
         
         <category>dystopia</category>
-        
-        
-        <category>review</category>
-        
-      </item>
-    
-      <item>
-        <title>The Tiger Catcher</title>
-        <description>&lt;p&gt;The Tiger Catcher written by Paullina Simons is the first book in End of Forever series. I’ve never read anything by this author before and I’m quite pleased with this one. It’s not a typical contemporary love story. It’s full of magic, faith and hope that true love never dies.&lt;/p&gt; &lt;p&gt;Julian Cruz is young and handsome so his life couldn’t be any better. That is true until he sees a pretty debutante on the stage, Josephine Collins. From the very first sight, Julian has no doubts that she is someone exceptional. When he meets her again sometime later by pure...</description>
-        <pubDate>Sun, 21 Jul 2019 00:00:00 +0100</pubDate>
-        <link>/tigercatcher/</link>
-        <guid isPermaLink="true">/tigercatcher/</guid>
-        
-        <category>The Tiger Catcher</category>
-        
-        <category>book review</category>
-        
-        <category>Paullina Simons</category>
-        
-        <category>End of Forever</category>
         
         
         <category>review</category>
