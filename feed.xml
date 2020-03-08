@@ -5,9 +5,27 @@
     <description>I'm Kamila and I love books! If you looking for book recommendations you can check out my blog and see what I'm reading!</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 25 Feb 2020 19:59:51 +0000</pubDate>
-    <lastBuildDate>Tue, 25 Feb 2020 19:59:51 +0000</lastBuildDate>
+    <pubDate>Sun, 08 Mar 2020 18:51:19 +0000</pubDate>
+    <lastBuildDate>Sun, 08 Mar 2020 18:51:19 +0000</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>The Swords of Silence</title>
+        <description>&lt;p&gt;„The Swords of Silence” is a historical novel written by Shaun Curry. I was really intrigued when I found this book on NetGalley. Even though it’s not fantasy (that’s how it was categorised there), Japanese culture always seems interesting for me, so I requested this book right away.&lt;/p&gt; &lt;p&gt;The book is starting with a scene in the prologue where Japanese magister is crucifying and burning Christian prisoners. That gives us the feeling of the times where the action is set for the novel. Other religions are no longer accepted in Japan, as Shogun sees them, especially Christianity, as a threat...</description>
+        <pubDate>Sun, 08 Mar 2020 00:00:00 +0000</pubDate>
+        <link>/theswordsofsilence/</link>
+        <guid isPermaLink="true">/theswordsofsilence/</guid>
+        
+        <category>The Swords of Silence</category>
+        
+        <category>book review</category>
+        
+        <category>Shaun Curry</category>
+        
+        
+        <category>review</category>
+        
+      </item>
     
       <item>
         <title>The Chestnut Man</title>
@@ -571,26 +589,6 @@
         <category>Tracy Darnton</category>
         
         <category>Young Adult</category>
-        
-        
-        <category>review</category>
-        
-      </item>
-    
-      <item>
-        <title>Supernova Era</title>
-        <description>&lt;p&gt;Supernova Era is a book from bestselling author Cixin Liu, author of award-winning The Three Bodies Problem novel. I’ve heard a lot about him and was very excited to read some of his work, although I must admit I was a bit scared of too much-complicated science in his book. But in the case of Supernova Era, it is no problem at all. There’s not much hard science here, it’s more like dystopian political fiction in fact. We have a dying star here, yes, but it’s only the beginning of the whole story.&lt;/p&gt; &lt;p&gt;The Earth is showered by the deadly...</description>
-        <pubDate>Wed, 24 Jul 2019 00:00:00 +0100</pubDate>
-        <link>/supernovaera/</link>
-        <guid isPermaLink="true">/supernovaera/</guid>
-        
-        <category>Supernova Era</category>
-        
-        <category>book review</category>
-        
-        <category>Cixin Liu</category>
-        
-        <category>dystopia</category>
         
         
         <category>review</category>
