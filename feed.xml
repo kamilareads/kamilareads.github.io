@@ -5,9 +5,31 @@
     <description>I'm Kamila and I love books! If you looking for book recommendations you can check out my blog and see what I'm reading!</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 20 Jun 2020 18:44:05 +0100</pubDate>
-    <lastBuildDate>Sat, 20 Jun 2020 18:44:05 +0100</lastBuildDate>
+    <pubDate>Sat, 27 Jun 2020 13:57:07 +0100</pubDate>
+    <lastBuildDate>Sat, 27 Jun 2020 13:57:07 +0100</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Aurora Burning</title>
+        <description>&lt;p&gt;“Aurora Burning” by amazing authors duo Jay Kristoff and Amy Kaufman was a book I was waiting for since I finished “Aurora Rising”. I preordered it as soon as it was available and couldn’t wait to have it in my hands finally. Nothing would make me happier than meeting sassy squad 312 and join their adventures once again.&lt;/p&gt; &lt;p&gt;From the very beginning, the action does not slow down. Facing the looming threat of ancient evil alien race that infiltrated human’s intelligence agency already and are going to devour the whole galaxy is not an easy task. We should also add...</description>
+        <pubDate>Sat, 27 Jun 2020 00:00:00 +0100</pubDate>
+        <link>/auroraburning/</link>
+        <guid isPermaLink="true">/auroraburning/</guid>
+        
+        <category>Aurora Burning</category>
+        
+        <category>book review</category>
+        
+        <category>Jay Kristoff</category>
+        
+        <category>Amie Kaufman</category>
+        
+        <category>The Aurora Cycle</category>
+        
+        
+        <category>review</category>
+        
+      </item>
     
       <item>
         <title>The Loneliest Girl in the Universe</title>
@@ -572,26 +594,6 @@
         
         
         <category>recenzja</category>
-        
-      </item>
-    
-      <item>
-        <title>The Crown Tower</title>
-        <description>&lt;p&gt;“The Crown Tower” by Michael J. Sullivan is the first book in “The Riyria Chronicles”. It is a sequel to “The Riyria Revelations” series (which was published first), and it tells the story of Hadrian and Royce from the very beginning. I like reading from the chronological order of the story, so I started with this one.&lt;/p&gt; &lt;p&gt;Hadrian Blackwater has nothing to fight for anymore. He was a soldier in different armies and killed loads of people across half of the world. But he is bone tired and fed up with this existence. When he receives a letter informing about...</description>
-        <pubDate>Tue, 27 Aug 2019 00:00:00 +0100</pubDate>
-        <link>/thecrowntower/</link>
-        <guid isPermaLink="true">/thecrowntower/</guid>
-        
-        <category>The Crown Tower</category>
-        
-        <category>book review</category>
-        
-        <category>Michael J. Sullivan</category>
-        
-        <category>The Riyria Chronicles</category>
-        
-        
-        <category>review</category>
         
       </item>
     
