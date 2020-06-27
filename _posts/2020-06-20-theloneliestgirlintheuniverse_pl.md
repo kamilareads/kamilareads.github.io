@@ -3,7 +3,7 @@ layout: post
 lang: pl
 title: The Loneliest Girl in the Universe
 author: Lauren James
-releaseDate: 07/09/2019
+releaseDate: 07/09/2017
 pages: 290  
 publisher: Walker Books
 permalink: /theloneliestgirlintheuniverse/
