@@ -5,9 +5,29 @@
     <description>I'm Kamila and I love books! If you looking for book recommendations you can check out my blog and see what I'm reading!</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 27 Jun 2020 13:57:07 +0100</pubDate>
-    <lastBuildDate>Sat, 27 Jun 2020 13:57:07 +0100</lastBuildDate>
+    <pubDate>Mon, 13 Jul 2020 20:17:29 +0100</pubDate>
+    <lastBuildDate>Mon, 13 Jul 2020 20:17:29 +0100</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Caliban's War</title>
+        <description>&lt;p&gt;“Caliban’s War “is the second book in “The Expanse” series by James S. A. Corey. The story continues with well known high pace and high stakes action. We start at Ganymede, were a Martian soldier is faced with a monstrous creature, who slaughter the whole platoon of soldiers in seconds. The even triggers long-held hostilities between Mars and Earth, and as a result, the neutral Ganymede suffers from disastrous collateral damage. And amid chaos and panic, a child is taken away from a loving parent.&lt;/p&gt; &lt;p&gt;Holden and the crew of Rocinante are obviously in the middle of everything. While working...</description>
+        <pubDate>Mon, 13 Jul 2020 00:00:00 +0100</pubDate>
+        <link>/calibanswar/</link>
+        <guid isPermaLink="true">/calibanswar/</guid>
+        
+        <category>Caliban's War</category>
+        
+        <category>book review</category>
+        
+        <category>James S.A. Corey</category>
+        
+        <category>The Expanse</category>
+        
+        
+        <category>review</category>
+        
+      </item>
     
       <item>
         <title>Aurora Burning</title>
@@ -571,26 +591,6 @@
         <category>recenzja</category>
         
         <category>Kryminał</category>
-        
-        
-        <category>recenzja</category>
-        
-      </item>
-    
-      <item>
-        <title>Dziecko Odyna</title>
-        <description>&lt;p&gt;„Dziecko Odyna” autorstwa Siri Pettersen to pierwszy tom cyklu „Krucze Pierścienie”. Autorka zabiera nas w niesamowitą podróż do inspirowanego folklorem skandynawskim świata Ym, gdzie istnieje jedenaście krain a jego mieszkańcy, aetlingowie, wyglądają zupełnie jak ludzie, ale mają też ogony, z których są bardzo dumni oraz mogą korzystać z Evny, przepełniającej cały ich świat magii.&lt;/p&gt; &lt;p&gt;Hirka ma piętnaście lat i zawsze była traktowana jak odmieniec, gdyż sama nie posiada ogona. Zawsze wierzyła w historię, którą opowiadał jej ojciec, że odgryzły go wilki, gdy była niemowlęciem. Jednak wraz z nadciągającym Rytuałem, któremu poddają się wszyscy młodzi ludzi dziewczyna staje się coraz bardziej...</description>
-        <pubDate>Fri, 30 Aug 2019 00:00:00 +0100</pubDate>
-        <link>/dzieckoodyna/</link>
-        <guid isPermaLink="true">/dzieckoodyna/</guid>
-        
-        <category>Dziecko Odyna</category>
-        
-        <category>Siri Pettersen</category>
-        
-        <category>recenzja</category>
-        
-        <category>Krucze Pierścienie</category>
         
         
         <category>recenzja</category>
