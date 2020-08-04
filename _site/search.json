@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Seven Devils",
+      "tags"     : "Seven Devils, book review, Laura Lam, and Elizabeth May",
+      "categories" : "review",
+      "url"      : "/sevendevils/",
+      "date"     : "08/04/2020"
+    } ,
+  
+    {
       "title"    : "Caliban&#39;s War",
       "tags"     : "Caliban's War, book review, James S.A. Corey, and The Expanse",
       "categories" : "review",

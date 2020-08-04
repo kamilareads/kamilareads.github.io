@@ -5,9 +5,27 @@
     <description>Mam na imię Kamila i kocham książki. Jeśli nie wiesz co czytać zapraszam na bloga! Na pewno znajdziesz tu coś dla siebie!</description>
     <link>/</link>
     <atom:link href="/pl/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 13 Jul 2020 20:48:07 +0100</pubDate>
-    <lastBuildDate>Mon, 13 Jul 2020 20:48:07 +0100</lastBuildDate>
+    <pubDate>Tue, 04 Aug 2020 07:49:18 +0100</pubDate>
+    <lastBuildDate>Tue, 04 Aug 2020 07:49:18 +0100</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Seven Devils</title>
+        <description>&lt;p&gt;“Seven Devils” to feministyczne sci-fi autorstwa Laury Lam oraz Elizabeth May. To opowieść o siedmiorgu niezwykłych bohaterach, którzy pomimo przytłaczających przeciwności postanowili przeciwstawić się tyranii Imperium Tholosianskiego.&lt;/p&gt; &lt;p&gt;Świat stworzony przez autorki jest niezwykle okrutny i niesprawiedliwy. Obecnie większość ludzi produkowana jest poprzez tworzenie genetycznych typów pod konkretne role społeczne. Rządzące niepodzielnie imperium stworzyło sobie fenomenalną armię pracowników, żołnierzy, inżynierów i tak dalej, wyposażając ich w geny maksymalizujące ich wydajność fizyczną czy umysłową, w zależności od predestynowanej roli. Jednak stworzenie idealnych kandydatów wymagało wielu prób i eksperymentów z zestawami genów, więc mamy tu ludzi pochodzących z różnych partii wyprodukowanych w kolejnych...</description>
+        <pubDate>Tue, 04 Aug 2020 00:00:00 +0100</pubDate>
+        <link>/sevendevils/</link>
+        <guid isPermaLink="true">/sevendevils/</guid>
+        
+        <category>Seven Devils</category>
+        
+        <category>Laura Lam</category>
+        
+        <category>Elizabeth May</category>
+        
+        
+        <category>recenzja</category>
+        
+      </item>
     
       <item>
         <title>Wojna Kalibana</title>
@@ -563,26 +581,6 @@
         <category>recenzja</category>
         
         <category>Pożeracz Słońc</category>
-        
-        
-        <category>recenzja</category>
-        
-      </item>
-    
-      <item>
-        <title>Kolory zła. Czerwień</title>
-        <description>&lt;p&gt;“Kolory zła. Czerwień” to najnowsza powieść kryminalna Małgorzaty Oliwii Sobczak. Akcja dzieje się w Sopocie i historię poznajemy dwutorowo, wydarzenia z lat 90ych przeplatają się z teraźniejszością. Na sopockiej plaży zostaje znalezione ciało młodej kobiety, okaleczone w pewien szczególny sposób. Do złudzenia przypomina to morderstwo sprzed 17 lat, którego sprawca nigdy nie został złapany. Czy to możliwe, że zbrodniarz ponownie ujawnił się po tak długim czasie? Czy może jest to sprawka naśladowcy? Leopold Bilski, młody prokurator wraz ze swymi współpracownikami postanawia za wszelką cenę znaleźć sprawcę wierząc, że jeśli rozwikła zagadkę z przeszłości, pomoże to również w aktualnym śledztwie.&lt;/p&gt; &lt;p&gt;Książkę...</description>
-        <pubDate>Sun, 01 Sep 2019 00:00:00 +0100</pubDate>
-        <link>/czerwien/</link>
-        <guid isPermaLink="true">/czerwien/</guid>
-        
-        <category>Kolory zła. Czerwień</category>
-        
-        <category>Małgorzata Oliwia Sobczak</category>
-        
-        <category>recenzja</category>
-        
-        <category>Kryminał</category>
         
         
         <category>recenzja</category>

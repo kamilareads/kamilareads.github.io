@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Seven Devils",
+      "tags"     : "Seven Devils, Laura Lam, and Elizabeth May",
+      "categories" : "recenzja",
+      "url"      : "/sevendevils/",
+      "date"     : "08/04/2020"
+    } ,
+  
+    {
       "title"    : "Wojna Kalibana",
       "tags"     : "Wojna Kalibana, James S. A. Corey, and Ekspansja",
       "categories" : "recenzja",
