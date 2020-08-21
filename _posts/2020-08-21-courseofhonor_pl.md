@@ -7,7 +7,7 @@ releaseDate: 06/10/2020
 pages: 352
 publisher: Aconyte
 permalink: /curseofhonor/
-introduction:
+introduction: ...we are Crab Clan, and we do not always have the luxury of following Bushidō. We are the ones who are called to stand against the Shadowlands. We must do whatever is necessary to hold the Wall.
 image: /assets/img/posty/curseofhonor.jpg
 category: 'recenzja'
 tags:

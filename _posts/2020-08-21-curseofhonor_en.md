@@ -8,7 +8,7 @@ pages: 352
 publisher: Aconyte
 permalink: /curseofhonor/
 image: /assets/img/posty/curseofhonor.jpg
-introduction:
+introduction: ...we are Crab Clan, and we do not always have the luxury of following Bushidō. We are the ones who are called to stand against the Shadowlands. We must do whatever is necessary to hold the Wall.
 category: 'review'
 tags:
  - Curse of Honor
