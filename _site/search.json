@@ -1,8 +1,24 @@
 [
   
     {
+      "title"    : "The City of Runes",
+      "tags"     : "The City of Runes, Dagmara Drozdowska, and mitologia nordycka",
+      "categories" : "recenzja",
+      "url"      : "/thecityofbones/",
+      "date"     : "10/20/2020"
+    } ,
+  
+    {
+      "title"    : "The City of Runes",
+      "tags"     : "The City of Runes, book review, Dagmara Drozdowska, and norse mythology",
+      "categories" : "review",
+      "url"      : "/thecityofrunes/",
+      "date"     : "10/20/2020"
+    } ,
+  
+    {
       "title"    : "The Paris Library",
-      "tags"     : "The Paris Library, book review, Janet Skeslien Charles, and historical fiction",
+      "tags"     : "The Paris Library, Janet Skeslien Charles, and historical fiction",
       "categories" : "review",
       "url"      : "/theparislibrary/",
       "date"     : "09/27/2020"
