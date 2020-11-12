@@ -71,6 +71,10 @@
     
     
         <url>
+            <loc>/booksellers/</loc>
+        </url>
+  
+        <url>
             <loc>/thecityofbones/</loc>
         </url>
   
