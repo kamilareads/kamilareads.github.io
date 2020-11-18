@@ -5,9 +5,27 @@
     <description>I'm Kamila and I love books! If you looking for book recommendations you can check out my blog and see what I'm reading!</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 12 Nov 2020 16:29:35 +0000</pubDate>
-    <lastBuildDate>Thu, 12 Nov 2020 16:29:35 +0000</lastBuildDate>
+    <pubDate>Wed, 18 Nov 2020 09:42:09 +0000</pubDate>
+    <lastBuildDate>Wed, 18 Nov 2020 09:42:09 +0000</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Gdziekolwiek Spojrzysz</title>
+        <description>&lt;p&gt;„Gdziekolwiek Spojrzysz” autorstwa Jakuba Szamałka to ostatni już tom serii „Ukryta Sieć”.&lt;/p&gt; &lt;p&gt;Tym razem akcja powieści zawiązuje się w Żelaznej Górze, gdzie dochodzi do katastrofalnego w skutkach wycieku na terenie kopalni miedzi. Cóż mogło być przyczyną tego wypadku, skoro żadne przeglądy techniczne nie wykazały najmniejszych usterek? I jaki interes ma Amerykańska firma oferując sprzątanie po całym zdarzeniu za przysłowiowy bezcen?&lt;/p&gt; &lt;p&gt;Tymczasem Julita również nie spoczywa na laurach. Wciąż śledząc złoczyńców, na których trop trafiła w pierwszej powieści, odkrywa ich podejrzane zainteresowanie zbiorami bibliotecznymi i inwestycje w generatory tekstu. Jaki związek może to mieć z ich poprzednimi zbrodniami i co takiego...</description>
+        <pubDate>Wed, 18 Nov 2020 00:00:00 +0000</pubDate>
+        <link>/gdziekolwiekspojrzysz/</link>
+        <guid isPermaLink="true">/gdziekolwiekspojrzysz/</guid>
+        
+        <category>Gdziekolwiek Spojrzysz</category>
+        
+        <category>Jakub Szamałek</category>
+        
+        <category>Ukryta Sieć</category>
+        
+        
+        <category>recenzja</category>
+        
+      </item>
     
       <item>
         <title>The Left-Handed Booksellers of London</title>
@@ -578,26 +596,6 @@
         
         
         <category>review</category>
-        
-      </item>
-    
-      <item>
-        <title>Na moment przed świtem</title>
-        <description>&lt;p&gt;„Na moment przed świtem” to pierwszy tom nowego cyklu Magdaleny Wali „Za zakrętem”.&lt;/p&gt; &lt;p&gt;Jest to powieść obyczajowa, w której śledzimy losy dwóch kobiet, nieszczęśliwej Adrianny i Agnes, Ślązaczki w bardzo podeszłym wieku. Młodsza z kobiet tkwi w małżeństwie, gdzie traktowana jest jak niewolnica, gotowa na każde skinienie męża. Poznając jednak historię młodości Agnes, która przeżyła drugą wojnę światową, uświadamia sobie, że być może jej życie nie jest jeszcze zaprzepaszczone i podejmuje walkę o własne szczęście. Chociaż w tym celu będzie musiała zmierzyć się z bolesną przeszłością.&lt;/p&gt; &lt;p&gt;Książka jest lekka i czyta się ją bardzo szybko. Szczególnie podobały mi się fragmenty...</description>
-        <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-        <link>/namomentprzedswitem/</link>
-        <guid isPermaLink="true">/namomentprzedswitem/</guid>
-        
-        <category>Na moment przed świtem</category>
-        
-        <category>Magdalena Wala</category>
-        
-        <category>recenzja</category>
-        
-        <category>Za zakrętem</category>
-        
-        
-        <category>recenzja</category>
         
       </item>
     
