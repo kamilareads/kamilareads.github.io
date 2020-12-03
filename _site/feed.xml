@@ -5,9 +5,27 @@
     <description>I'm Kamila and I love books! If you looking for book recommendations you can check out my blog and see what I'm reading!</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 20 Nov 2020 12:43:04 +0000</pubDate>
-    <lastBuildDate>Fri, 20 Nov 2020 12:43:04 +0000</lastBuildDate>
+    <pubDate>Thu, 03 Dec 2020 11:34:06 +0000</pubDate>
+    <lastBuildDate>Thu, 03 Dec 2020 11:34:06 +0000</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Płacz</title>
+        <description>&lt;p&gt;“Płacz” Marty Kisiel to trzeci tom “Cyklu Wrocławskiego”. Ponownie spotykamy tu grono naszych ulubionych bohaterów, wszystkie trzy panny, Stern oraz siostry Bolesne. Powieść zaczyna się dość niewinnie. Po wydarzeniach z “Toń” drogi przyjaciół się rozeszły i wszyscy zgodnie udają, że to normalne. Dopiero wołanie z zaświatów mobilizuje postaci to ponownego połączenia sił.&lt;/p&gt; &lt;p&gt;Cała akcja rozgrywa się w Górach Sowich, miejscu pełnym legend, tajemnic i niewyjaśnionych zagadek. Autorka bardzo umiejętnie kreowała mistyczną atmosferę przeplatając wątki fantastyczne, jak przeskoki w czasie, z faktycznymi historiami, które miały miejsce w tym regionie. Po przeczytaniu tej książki aż się chce samemu odwiedzić te miejsca i...</description>
+        <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
+        <link>/placz/</link>
+        <guid isPermaLink="true">/placz/</guid>
+        
+        <category>Płacz</category>
+        
+        <category>Marta Kisiel</category>
+        
+        <category>Cykl Wrocławski</category>
+        
+        
+        <category>recenzja</category>
+        
+      </item>
     
       <item>
         <title>Rhythm of War</title>
@@ -578,24 +596,6 @@
         
         
         <category>recenzja</category>
-        
-      </item>
-    
-      <item>
-        <title>Rithmatist</title>
-        <description>&lt;p&gt;In an alternate world, America is divided into small islands. In the middle of them, all is Nebrask – a dangerous place. It was infested by the Wild Chalklings who terrorise local people leaving only ruins and mutilated corpses in their wake. The single line of defence is Rithmatists, people with a rare talent to make their chalk drawings come to life and keep the wild creatures at bay. That’s why there are eight different schools responsible for training them, located on different islands.&lt;/p&gt; &lt;p&gt;Joel is a student in one of them, Armedius Academy. Unfortunately, he wan’s chosen to become...</description>
-        <pubDate>Sat, 23 Nov 2019 00:00:00 +0000</pubDate>
-        <link>/rytmatysta/</link>
-        <guid isPermaLink="true">/rytmatysta/</guid>
-        
-        <category>Rithmatist</category>
-        
-        <category>book review</category>
-        
-        <category>Brandon Sanderson</category>
-        
-        
-        <category>review</category>
         
       </item>
     
