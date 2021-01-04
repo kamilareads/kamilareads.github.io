@@ -5,9 +5,27 @@
     <description>I'm Kamila and I love books! If you looking for book recommendations you can check out my blog and see what I'm reading!</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 01 Jan 2021 11:27:38 +0000</pubDate>
-    <lastBuildDate>Fri, 01 Jan 2021 11:27:38 +0000</lastBuildDate>
+    <pubDate>Mon, 04 Jan 2021 14:12:12 +0000</pubDate>
+    <lastBuildDate>Mon, 04 Jan 2021 14:12:12 +0000</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Cyberpunk Girls</title>
+        <description>&lt;p&gt;“Cyberpunk Girls” to zbiór opowiadań cyberpunkowych, które wyszły spod pióra polskich autorek. Ponieważ ja uwielbiam takie klimaty z radością sięgnęłam po tę pozycję.&lt;/p&gt; &lt;p&gt;Jest to książka idealna na nasze obecne czasy, w których większość z nas siedzi zamknięta w domach z obawy przed szalejącym wszędzie wirusem i próbuje jakoś zorganizować sobie życie bez zwyczajowej socjalizacji z innymi. Autorki prawdopodobnie wyszły od tej właśnie sytuacji i zadały to jakże istotne pytanie, co by było, gdyby? Gdyby wirus nigdy tak naprawdę nie został opanowany? Gdyby już nie było powrotu do dawnego stylu życia?&lt;/p&gt; &lt;p&gt;Każde z opowiadań jest wariacją na temat życia w...</description>
+        <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+        <link>/cyberpunkgirls/</link>
+        <guid isPermaLink="true">/cyberpunkgirls/</guid>
+        
+        <category>Cyberpunk Girls</category>
+        
+        <category>Uroboros</category>
+        
+        <category>zbiór opowiadań</category>
+        
+        
+        <category>recenzja</category>
+        
+      </item>
     
       <item>
         <title>Rhythm of War - full review</title>
@@ -573,26 +591,6 @@
         <category>Delilah S. Dawson</category>
         
         <category>Star Wars</category>
-        
-        
-        <category>review</category>
-        
-      </item>
-    
-      <item>
-        <title>Starsight</title>
-        <description>&lt;p&gt;“Starsight” is a brand-new sequel of Brandon Sanderson’s “Skyward”. A word of advice, if you haven’t read the first book, please don’t look at this review, because it will probably contain loads of spoilers to it. Writing a review of the sequel I would expect the readers know the ending of the previous book. So yeah, you’ve been warned.&lt;/p&gt; &lt;p&gt;From the very start, “Starsight” is action-filled. We find Spensa in the middle of a space battle, fighting with merciless Krells. But the story takes a very different turn. I was expecting another book filled with DDF’s desperate attempts to survive,...</description>
-        <pubDate>Sat, 14 Dec 2019 00:00:00 +0000</pubDate>
-        <link>/starsight/</link>
-        <guid isPermaLink="true">/starsight/</guid>
-        
-        <category>Starsight</category>
-        
-        <category>book review</category>
-        
-        <category>Brandon Sanderson</category>
-        
-        <category>Skyward</category>
         
         
         <category>review</category>
