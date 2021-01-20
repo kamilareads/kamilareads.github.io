@@ -1,8 +1,16 @@
 [
   
     {
+      "title"    : "Reaper of Souls",
+      "tags"     : "Reaper of Souls, Rena Barron, and Królestwo Dusz",
+      "categories" : "recenzja",
+      "url"      : "/reaperofsouls/",
+      "date"     : "01/20/2021"
+    } ,
+  
+    {
       "title"    : "Piasek Raszida",
-      "tags"     : "Piasek Raszida, Brandon Sanderson, and „Alcatraz kontra bibliotekarze",
+      "tags"     : "Piasek Raszida, Brandon Sanderson, and Alcatraz kontra bibliotekarze",
       "categories" : "recenzja",
       "url"      : "/alcatraz/",
       "date"     : "01/07/2021"
