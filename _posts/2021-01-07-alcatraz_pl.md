@@ -13,10 +13,10 @@ category: 'recenzja'
 tags:
  - Piasek Raszida
  - Brandon Sanderson
- - „Alcatraz kontra bibliotekarze
+ - Alcatraz kontra bibliotekarze
 
 ---
-  "Piasek Raszida" autorstwa Brandona Sandersona to pierwsza część cyklu "Alcatraz kontra bibliotekarze", która skierowana jest do młodszych czytelników. Właśnie z tego powodu trochę wahałam się przed sięgnięciem po tę książkę. Na szczęście autor po raz kolejny udowodnił, że nie ważne dla jakiego odbiorcy pisze, jego twórczość zawsze jest na najwyższym poziomie. 
+  "Piasek Raszida" autorstwa Brandona Sandersona to pierwsza część cyklu "Alcatraz kontra bibliotekarze", która skierowana jest do młodszych czytelników. Właśnie z tego powodu trochę wahałam się przed sięgnięciem po tę książkę. Na szczęście autor po raz kolejny udowodnił, że nie ważne dla jakiego odbiorcy pisze, jego twórczość zawsze jest na najwyższym poziomie.
 
   Alcatraz Smedry jest z pozoru zwyczajnym nastolatkiem, jeśli zignorujemy fakt, że psuje wszystko, czego się dotknie. Można też spokojnie powiedzieć, że jest pechowy – przez swoją niezwykłą niezgrabność jest odsyłany z jednej rodziny zastępczej do drugiej. Wszystko zmienia się w dniu jego trzynastych urodzin, gdy otrzymuje spadek po swoich rodzicach – woreczek piasku. To, co na pierwszy rzut oka wydawało się żartem w złym guście, wywraca całe jego życie do góry nogami i ujawnia istnienie świata, o którym nie miał pojęcia.
 
