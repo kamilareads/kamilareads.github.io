@@ -5,9 +5,29 @@
     <description>I'm Kamila and I love books! If you looking for book recommendations you can check out my blog and see what I'm reading!</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 20 Jan 2021 18:38:30 +0000</pubDate>
-    <lastBuildDate>Wed, 20 Jan 2021 18:38:30 +0000</lastBuildDate>
+    <pubDate>Mon, 25 Jan 2021 10:18:19 +0000</pubDate>
+    <lastBuildDate>Mon, 25 Jan 2021 10:18:19 +0000</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Inscape</title>
+        <description>&lt;p&gt;“Inscape” is a solo debut cyberpunk thriller by Louise Carey. Tanta is a promising agent of the InTech corporation, and she’s beyond excited when she is dispatched on her first critical mission. But what was supposed to be a simple task of retrieving a stolen hard drive turns out to be a disaster. As one of two survivors, Tanta is thrown deep into the intrigue that is far beyond what she was expecting.&lt;/p&gt; &lt;p&gt;The author takes us to the future, where after the catastrophic Meltdown, the world was changed forever. Corporations took over the reins and ruled their designated areas...</description>
+        <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
+        <link>/inscape/</link>
+        <guid isPermaLink="true">/inscape/</guid>
+        
+        <category>Inscape</category>
+        
+        <category>book review</category>
+        
+        <category>Louise Carey</category>
+        
+        <category>cyberpunk</category>
+        
+        
+        <category>review</category>
+        
+      </item>
     
       <item>
         <title>Reaper of Souls</title>
@@ -574,26 +594,6 @@
         
         
         <category>recenzja</category>
-        
-      </item>
-    
-      <item>
-        <title>The Shadow Saint</title>
-        <description>&lt;p&gt;“The Shadow Saint” is the continuation of “The Black Gods Legacy” series. I really enjoyed the first book, so I was very excited to dig into the sequel. Thank you NetGalley and Orbit for the review copy!&lt;/p&gt; &lt;p&gt;The action is picking up a few months after perilous events of “the Gutter Prayer”, called now the Crisis. There is a new city that grows out of nowhere, and no one seems to know what to do with it or how to treat it. Eladora Duttin is working as an aide to Efro Kelkin, and her main task is surveying this unexpected...</description>
-        <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
-        <link>/theshadowsaint/</link>
-        <guid isPermaLink="true">/theshadowsaint/</guid>
-        
-        <category>The Shadow Saint</category>
-        
-        <category>book review</category>
-        
-        <category>Gareth Ryder-Hanrahan</category>
-        
-        <category>The Black Iron Legacy</category>
-        
-        
-        <category>review</category>
         
       </item>
     

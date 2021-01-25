@@ -5,9 +5,27 @@
     <description>Mam na imię Kamila i kocham książki. Jeśli nie wiesz co czytać zapraszam na bloga! Na pewno znajdziesz tu coś dla siebie!</description>
     <link>/</link>
     <atom:link href="/pl/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 20 Jan 2021 18:38:40 +0000</pubDate>
-    <lastBuildDate>Wed, 20 Jan 2021 18:38:40 +0000</lastBuildDate>
+    <pubDate>Mon, 25 Jan 2021 10:18:27 +0000</pubDate>
+    <lastBuildDate>Mon, 25 Jan 2021 10:18:27 +0000</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Inscape</title>
+        <description>&lt;p&gt;“Inscape” autorstwa Louise Carey to jej pierwsza solowa powieść, osadzona w dystopijnym świecie w klimacie cyberpunk. Tanta jest niezwykle obiecującą rekrutką korporacji InTech i gdy w końcu otrzymuje swoją pierwszą misję jest przeszczęśliwa. Jednak to, co miało być prostym zadaniem odzyskania skradzionego dysku, kończy się katastrofą. Tanta, jako jedna z dwóch ocalałych agentów zostaje wciągnięta w skomplikowaną intrygę.&lt;/p&gt; &lt;p&gt;Autorka zabiera nas do świat przyszłości, gdzie niepodzielnie rządzą korporacje, które konkurują między sobą o wpływy. Technologia jest na tyle zaawansowany, że wszystkie pojazdy są automatami sterowanymi przez sztuczną inteligencję, a komputery w formie jaką znamy dziś są reliktem przeszłości. Większość ludzi...</description>
+        <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
+        <link>/inscape/</link>
+        <guid isPermaLink="true">/inscape/</guid>
+        
+        <category>Inscape</category>
+        
+        <category>Louise Carey</category>
+        
+        <category>cyberpunk</category>
+        
+        
+        <category>recenzja</category>
+        
+      </item>
     
       <item>
         <title>Reaper of Souls</title>
@@ -547,26 +565,6 @@
         <category>recenzja</category>
         
         <category>Orbit</category>
-        
-        
-        <category>recenzja</category>
-        
-      </item>
-    
-      <item>
-        <title>Demon Luster</title>
-        <description>&lt;p&gt;„Demon Luster” to druga część serii o Idzie Brzezińskiej autorstwa Martyny Raduchowskiej. Jeśli nie czytaliście pierwszego tomu, to proszę, podarujcie sobie tę recenzję, bo będzie pełna spojlerów z wydarzeń z „Szamanki od Umarlaków”.&lt;/p&gt; &lt;p&gt;Ida znalazła się w bardzo nieciekawej sytuacji. Związana nieśmiertelną przysięgą musi odnaleźć zagubioną w lustrzanym piekle duszę Mikołaja i przeprowadzić ją w zaświaty, bo jeśli zawiedzie, jej dusza obróci się w nicość. Łatwiej powiedzieć niż zrobić, gdyż wedle wszelkich znaków na niebie i ziemi, zagubiony duch znajduje się w szponach seryjnego mordercy, który zaszył się w pełnym czarnej magii lustrzanym świecie i aktualnie wysyła hordy demonów, by...</description>
-        <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
-        <link>/demonluster/</link>
-        <guid isPermaLink="true">/demonluster/</guid>
-        
-        <category>Demon Luster</category>
-        
-        <category>Martyna Raduchowska</category>
-        
-        <category>recenzja</category>
-        
-        <category>Szamanka od Umarlaków</category>
         
         
         <category>recenzja</category>
