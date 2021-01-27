@@ -7,7 +7,7 @@ releaseDate: 21/01/2021
 pages: 416
 publisher: Gollancz
 permalink: /inscape/
-introductio: You care about them, but they don't care about you
+introduction: You care about them, but they don't care about you
 image: /assets/img/posty/inscape.jpg
 category: 'recenzja'
 tags:
