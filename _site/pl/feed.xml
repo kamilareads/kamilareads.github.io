@@ -5,9 +5,27 @@
     <description>Mam na imię Kamila i kocham książki. Jeśli nie wiesz co czytać zapraszam na bloga! Na pewno znajdziesz tu coś dla siebie!</description>
     <link>/</link>
     <atom:link href="/pl/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 12 Feb 2021 20:02:49 +0000</pubDate>
-    <lastBuildDate>Fri, 12 Feb 2021 20:02:49 +0000</lastBuildDate>
+    <pubDate>Fri, 19 Feb 2021 13:32:01 +0000</pubDate>
+    <lastBuildDate>Fri, 19 Feb 2021 13:32:01 +0000</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Zodiaki. Genokracja</title>
+        <description>&lt;p&gt;“Zodiaki. Genokracja” autorstwa Magdaleny Kucenty to powieść w klimacie biopunku. Świat został na zawsze odmieniony po wybuchu zarazy zwanej Pandorą, ludzie cierpią na niekontrolowane mutacje, środowisko zostało zanieczyszczone na tyle, że powstały miasta kryjące się pod ochronnymi kopułami. Społeczeństwo, które wyewoluowało z gruzów znanej nam cywilizacji jest zupełnie nowym gatunkiem.&lt;/p&gt; &lt;p&gt;Świat stworzony przez autorkę jest naprawdę bogaty i różnorodny. Czytając książkę od razu można zauważyć, że to, co widzimy śledząc losy bohaterów to tylko wierzchołek góry lodowej, a reszta wciąż czeka na odkrycie. Tytułowe Zodiaki zostały powołane do życia w laboratorium, ku szczytnemu celowi nieustannego udoskonalania rasy ludzkiej. Jednak jak...</description>
+        <pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
+        <link>/zodiaki/</link>
+        <guid isPermaLink="true">/zodiaki/</guid>
+        
+        <category>Zodiaki. Genokracja</category>
+        
+        <category>Magdalena Kucenty</category>
+        
+        <category>recenzja</category>
+        
+        
+        <category>recenzja</category>
+        
+      </item>
     
       <item>
         <title>Wojna Makowa</title>
@@ -542,24 +560,6 @@
         
         
         <category>review</category>
-        
-      </item>
-    
-      <item>
-        <title>Kasztanowy Ludzik</title>
-        <description>&lt;p&gt;„Kasztanowy Ludzik” to mroczny thriller autorstwa Sørena Sveistrup, którego akcja osadzona jest w Danii. Kopenhagą wstrząsa seria brutalnych morderstw kobiet. Na miejscu zbrodni policja za każdym razem znajduje małego, kasztanowego ludzika, z odciskami palców zaginionej przed rokiem dziewczynki, którą uznano za zmarłą. Czy jest możliwe, że dawna sprawa nie została do końca wyjaśniona? Kim jest twórca kasztanowych ludzików, który bez trudu wodzi policję za nos? Do sprawy przydzielona zostaje niezwykle bystra Naia Thulin oraz Mark Hess, który czasowo został oddelegowany z Europolu. Czy uda im się rozwikłać zagadkę i złapać mordercę nim wypełni swój zdegenerowany plan i dopadnie kolejne ofiary?&lt;/p&gt;...</description>
-        <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
-        <link>/kasztanowyludzik/</link>
-        <guid isPermaLink="true">/kasztanowyludzik/</guid>
-        
-        <category>Kasztanowy Ludzik</category>
-        
-        <category>Søren Sveistrup</category>
-        
-        <category>recenzja</category>
-        
-        
-        <category>recenzja</category>
         
       </item>
     
