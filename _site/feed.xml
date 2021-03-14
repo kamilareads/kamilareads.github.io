@@ -5,9 +5,29 @@
     <description>I'm Kamila and I love books! If you looking for book recommendations you can check out my blog and see what I'm reading!</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 08 Mar 2021 17:03:40 +0000</pubDate>
-    <lastBuildDate>Mon, 08 Mar 2021 17:03:40 +0000</lastBuildDate>
+    <pubDate>Sun, 14 Mar 2021 15:05:26 +0000</pubDate>
+    <lastBuildDate>Sun, 14 Mar 2021 15:05:26 +0000</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Hall of Bones</title>
+        <description>&lt;p&gt;“Hall of Bones” by Tim Hardie is a debut epic fantasy novel and the first book in the series “The Brotherhood of the Eagle”. I received a copy of the text from the author in exchange for an honest review. I have to say I was a bit weary, as, with debut books, it’s often hit-or-miss. But I liked the synopsis and felt like reading some epic fantasy in a Viking setting, so I gave it a shot. And I have to say I was positively surprised. If I didn’t know any better, I would never guess it was the...</description>
+        <pubDate>Sun, 14 Mar 2021 00:00:00 +0000</pubDate>
+        <link>/hallofbones/</link>
+        <guid isPermaLink="true">/hallofbones/</guid>
+        
+        <category>Hall of Bones</category>
+        
+        <category>book review</category>
+        
+        <category>Tim Hardie</category>
+        
+        <category>The Brotherhood of the Eagle</category>
+        
+        
+        <category>review</category>
+        
+      </item>
     
       <item>
         <title>Abaddon's Gate</title>
@@ -569,26 +589,6 @@
         <category>Brandon Sanderson</category>
         
         <category>Cosmere</category>
-        
-        
-        <category>review</category>
-        
-      </item>
-    
-      <item>
-        <title>Howling Dark</title>
-        <description>&lt;p&gt;“Howling Dark” is a second book in “Sun Eater” series by Christopher Ruocchio. Hadrian’s epic adventures continue, and this time he is taking us to the very borders of the known universe, to the dark space inhabited by creatures feared by all Sollan Empire.&lt;/p&gt; &lt;p&gt;Hadrian is doing everything to fulfil his mission and dream of finding a mysterious planet Vorgossos and contact the elusive race of Cielcin. But even if he finds it, will he be able to stop the war that was menacing the human for hundreds of years now? Can the aliens be reason with, or they are...</description>
-        <pubDate>Mon, 13 Apr 2020 00:00:00 +0100</pubDate>
-        <link>/howlingdark/</link>
-        <guid isPermaLink="true">/howlingdark/</guid>
-        
-        <category>Howling Dark</category>
-        
-        <category>book review</category>
-        
-        <category>Christopher Ruocchio</category>
-        
-        <category>Sun Eater</category>
         
         
         <category>review</category>
