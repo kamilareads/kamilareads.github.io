@@ -5,9 +5,29 @@
     <description>Mam na imię Kamila i kocham książki. Jeśli nie wiesz co czytać zapraszam na bloga! Na pewno znajdziesz tu coś dla siebie!</description>
     <link>/</link>
     <atom:link href="/pl/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 08 Mar 2021 17:03:49 +0000</pubDate>
-    <lastBuildDate>Mon, 08 Mar 2021 17:03:49 +0000</lastBuildDate>
+    <pubDate>Sun, 14 Mar 2021 15:05:41 +0000</pubDate>
+    <lastBuildDate>Sun, 14 Mar 2021 15:05:41 +0000</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Hall of Bones</title>
+        <description>&lt;p&gt;“Hall of Bones” by Tim Hardie is a debut epic fantasy novel and the first book in the series “The Brotherhood of the Eagle”. I received a copy of the text from the author in exchange for an honest review. I have to say I was a bit weary, as, with debut books, it’s often hit-or-miss. But I liked the synopsis and felt like reading some epic fantasy in a Viking setting, so I gave it a shot. And I have to say I was positively surprised. If I didn’t know any better, I would never guess it was the...</description>
+        <pubDate>Sun, 14 Mar 2021 00:00:00 +0000</pubDate>
+        <link>/hallofbones/</link>
+        <guid isPermaLink="true">/hallofbones/</guid>
+        
+        <category>Hall of Bones</category>
+        
+        <category>book review</category>
+        
+        <category>Tim Hardie</category>
+        
+        <category>The Brotherhood of the Eagle</category>
+        
+        
+        <category>review</category>
+        
+      </item>
     
       <item>
         <title>Wrota Abaddona</title>
@@ -537,26 +557,6 @@
         <category>Brandon Sanderson</category>
         
         <category>Cosmere</category>
-        
-        <category>recenzja</category>
-        
-        
-        <category>recenzja</category>
-        
-      </item>
-    
-      <item>
-        <title>Howling Dark</title>
-        <description>&lt;p&gt;“Howling Dark” jest drugim tomem serii “Pożeracz Słońc” autorstwa Christophera Ruocchio. Jest to kontynuacja epickich przygód Hadriana, który tym razem zabierze nas aż na granice znanego wszechświata, do ciemnego kosmosu, którego przerażających mieszkańców obawia się całe Solarne Imperium.&lt;/p&gt; &lt;p&gt;Hadrian jest gotów na wszystko by wypełnić swoją misję odnalezienia tajemniczej planety Vorgossos i nawiązania kontaktu z nieuchwytną rasą Cielcinów. Jednak nawet jeśli mu się to uda, czy będzie w stanie zakończyć wojnę, która trwa od kilkuset lat? Czy uda mu się negocjować z obcą rasą, czy okażą się oni żądnymi krwi potworami, za jakich mają ich wszyscy ludzie? A może pokój...</description>
-        <pubDate>Mon, 13 Apr 2020 00:00:00 +0100</pubDate>
-        <link>/howlingdark/</link>
-        <guid isPermaLink="true">/howlingdark/</guid>
-        
-        <category>Howling Dark</category>
-        
-        <category>Christopher Ruocchio</category>
-        
-        <category>Pożeracz Słońc</category>
         
         <category>recenzja</category>
         
