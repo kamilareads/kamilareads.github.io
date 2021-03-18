@@ -71,6 +71,10 @@
     
     
         <url>
+            <loc>/snapshot/</loc>
+        </url>
+  
+        <url>
             <loc>/hallofbones/</loc>
         </url>
   
