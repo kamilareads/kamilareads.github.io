@@ -71,6 +71,14 @@
     
     
         <url>
+            <loc>/scrivenersbnes/</loc>
+        </url>
+  
+        <url>
+            <loc>/scrivenersbones/</loc>
+        </url>
+  
+        <url>
             <loc>/snapshot/</loc>
         </url>
   
