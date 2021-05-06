@@ -5,9 +5,29 @@
     <description>Mam na imię Kamila i kocham książki. Jeśli nie wiesz co czytać zapraszam na bloga! Na pewno znajdziesz tu coś dla siebie!</description>
     <link>/</link>
     <atom:link href="/pl/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 07 Apr 2021 23:57:43 +0100</pubDate>
-    <lastBuildDate>Wed, 07 Apr 2021 23:57:43 +0100</lastBuildDate>
+    <pubDate>Thu, 06 May 2021 10:58:03 +0100</pubDate>
+    <lastBuildDate>Thu, 06 May 2021 10:58:03 +0100</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>The Shadow of the Gods</title>
+        <description>&lt;p&gt;“The Shadow of the Gods” by John Gwynne is the first book in a new epic fantasy series, “The Bloodsworn Saga”. If you love Vikings and Norse mythology, it’s a must-read!&lt;/p&gt; &lt;p&gt;The story follows three protagonists: Orka, ex-military living peacefully with her family on the outskirts of civilised lands; Varg No-Sense (absolutely love the nickname!), a former thrall (slave) on a quest for vengeance and last, but not least, Elvar, a brave young woman who decided she will be the only master of her destiny and forge her battle-fame. All of them starts with their separate routes, but very quickly,...</description>
+        <pubDate>Thu, 06 May 2021 00:00:00 +0100</pubDate>
+        <link>/theshadowofthegods/</link>
+        <guid isPermaLink="true">/theshadowofthegods/</guid>
+        
+        <category>The Shadow of the Gods</category>
+        
+        <category>book review</category>
+        
+        <category>John Gwynne</category>
+        
+        <category>The Bloodsworn Saga</category>
+        
+        
+        <category>review</category>
+        
+      </item>
     
       <item>
         <title>Architekci Czyściciele Materii</title>
@@ -539,24 +559,6 @@
         <category>Sarah J. Maas</category>
         
         <category>Księżycowe Miasto</category>
-        
-        
-        <category>recenzja</category>
-        
-      </item>
-    
-      <item>
-        <title>Seven Devils</title>
-        <description>&lt;p&gt;“Seven Devils” to feministyczne sci-fi autorstwa Laury Lam oraz Elizabeth May. To opowieść o siedmiorgu niezwykłych bohaterach, którzy pomimo przytłaczających przeciwności postanowili przeciwstawić się tyranii Imperium Tholosianskiego.&lt;/p&gt; &lt;p&gt;Świat stworzony przez autorki jest niezwykle okrutny i niesprawiedliwy. Obecnie większość ludzi produkowana jest poprzez tworzenie genetycznych typów pod konkretne role społeczne. Rządzące niepodzielnie imperium stworzyło sobie fenomenalną armię pracowników, żołnierzy, inżynierów i tak dalej, wyposażając ich w geny maksymalizujące ich wydajność fizyczną czy umysłową, w zależności od predestynowanej roli. Jednak stworzenie idealnych kandydatów wymagało wielu prób i eksperymentów z zestawami genów, więc mamy tu ludzi pochodzących z różnych partii wyprodukowanych w kolejnych...</description>
-        <pubDate>Tue, 04 Aug 2020 00:00:00 +0100</pubDate>
-        <link>/sevendevils/</link>
-        <guid isPermaLink="true">/sevendevils/</guid>
-        
-        <category>Seven Devils</category>
-        
-        <category>Laura Lam</category>
-        
-        <category>Elizabeth May</category>
         
         
         <category>recenzja</category>
