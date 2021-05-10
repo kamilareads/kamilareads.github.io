@@ -28,4 +28,5 @@ tags:
 
   As it is the first book in the trilogy, I didn’t find the story overly exciting, but I feel it was more like a prelude for the great things to come (which is often the case in this kind of stories), so I can’t wait to continue the series to see what awaits those poor characters next. "The Blade Itself" is a very strong fantasy book with great characters, so I’m sure most fans of the genre will find it highly entertaining.
 
+
   \*\*\*\*
