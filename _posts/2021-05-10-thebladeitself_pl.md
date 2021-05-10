@@ -8,7 +8,7 @@ pages: 515
 publisher: Gollancz
 permalink: /thebladeitself/
 introduction: Lepiej mieć broń i jej nie potrzebować, niż potrzebować i nie mieć.
-image: /assets/img/posty/thebladeitself.jpg
+image: /assets/img/posty/thebladeitself.JPG
 category: 'recenzja'
 tags:
  - Ostrze

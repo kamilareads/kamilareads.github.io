@@ -7,7 +7,7 @@ releaseDate: 08/03/2007
 pages: 515
 publisher: Gollancz
 permalink: /thebladeitself/
-image: /assets/img/posty/thebladeitself.jpg
+image: /assets/img/posty/thebladeitself.JPG
 introduction: Blood gets you nothing but more blood. It follows me now, always, like my shadow, and like my shadow, I can never be free of it. I should never be free of it. I’ve earned it. I’ve deserved it. I’ve sought it out. Such is my punishment.
 category: 'review'
 tags:
