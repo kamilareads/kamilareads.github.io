@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "The Blade Itself",
+      "tags"     : "The Blade Itself, book review, Joe Abercrombie, and The First Law",
+      "categories" : "review",
+      "url"      : "/thebladeitself/",
+      "date"     : "05/10/2021"
+    } ,
+  
+    {
       "title"    : "The Shadow of the Gods",
       "tags"     : "The Shadow of the Gods, book review, John Gwynne, and The Bloodsworn Saga",
       "categories" : "review",
