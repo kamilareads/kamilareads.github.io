@@ -7,7 +7,7 @@ releaseDate: 13/05/2021
 pages: 320
 publisher: Trapeze
 permalink: /marionlane/
-image: /assets/img/posty/marionlane.JPG
+image: /assets/img/posty/marionlane.jpg
 introduction: No matter how much the deceased were loved, life does not wait for the grieving. Though on the inside everything will change and what used matter falls away, the routine and ordinary remain unchallenged.
 category: 'review'
 tags:
