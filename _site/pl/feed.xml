@@ -5,9 +5,25 @@
     <description>Mam na imię Kamila i kocham książki. Jeśli nie wiesz co czytać zapraszam na bloga! Na pewno znajdziesz tu coś dla siebie!</description>
     <link>/</link>
     <atom:link href="/pl/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 21 May 2021 11:48:06 +0100</pubDate>
-    <lastBuildDate>Fri, 21 May 2021 11:48:06 +0100</lastBuildDate>
+    <pubDate>Wed, 02 Jun 2021 11:36:22 +0100</pubDate>
+    <lastBuildDate>Wed, 02 Jun 2021 11:36:22 +0100</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>The Blacktongue Thief</title>
+        <description>&lt;p&gt;“The Blacktongue Thief” autorstwa Christophera Buehlmana to debiut autora, jeśli chodzi o fantastykę (dotychczasowe książki to głównie horrory). Sama okładka urzekła mnie od pierwszego wejrzenia, więc niezmiernie się ucieszyłam, kiedy wydawnictwo Gollancz zaproponowało mi udział w Blog Tourze z tą książką.&lt;/p&gt; &lt;p&gt;Powieść jest bardzo specyficzna. Po kilku pierwszych rozdziałach byłam raczej zniesmaczona. Głównym bohaterem jest Kinch Na Shannack, który jest złodziejem Gildii, i to on opowiada nam całą historię. Powiedzieć, że jest on niewyrafinowany to niedopowiedzenie. Od samego początku jesteśmy bombardowani prostackimi żartami i metaforami prosto z rynsztoka. Ani mnie one nie śmieszyły ani nie były specjalnie interesujące. Jednak sam...</description>
+        <pubDate>Wed, 02 Jun 2021 00:00:00 +0100</pubDate>
+        <link>/theblacktonguethief/</link>
+        <guid isPermaLink="true">/theblacktonguethief/</guid>
+        
+        <category>The Blacktongue Thief</category>
+        
+        <category>Christopher Buehlman</category>
+        
+        
+        <category>recenzja</category>
+        
+      </item>
     
       <item>
         <title>The Broken God</title>
@@ -550,24 +566,6 @@
         
         
         <category>review</category>
-        
-      </item>
-    
-      <item>
-        <title>The Paris Library</title>
-        <description>&lt;p&gt;“The Paris Library” autorstwa Janet Skeslien Charles to powieść na podstawie losów paryskich bibliotekarzy z czasów II wojny światowej. Jak można się domyślić książki odgrywają tu kluczową rolę. Znajdziecie tu mnóstwo pięknych cytatów z różnych dzieł, odpowiednich na każdą okazję, zarówno te radosne jak i te smutne.&lt;/p&gt; &lt;p&gt;Autorka przez kilka lat prowadziła badania, by poznać losy pracowników Amerykańskiej Biblioteki w Paryżu. Studiowała wspomnienia i listy, jak również rozmawiała z ich rodzinami. Wysiłek ten nie poszedł na marne, gdyż w książce znajdziemy wiele bardzo ciekawych postaci, które brzmią na tyle autentycznie, że czytelnik nie ma wątpliwości, że wzorowane są na prawdziwych,...</description>
-        <pubDate>Sun, 27 Sep 2020 00:00:00 +0100</pubDate>
-        <link>/theparislibrary/</link>
-        <guid isPermaLink="true">/theparislibrary/</guid>
-        
-        <category>The Paris Library</category>
-        
-        <category>Janet Skeslien Charles</category>
-        
-        <category>powieść historyczna</category>
-        
-        
-        <category>recenzja</category>
         
       </item>
     
