@@ -5,9 +5,27 @@
     <description>Mam na imię Kamila i kocham książki. Jeśli nie wiesz co czytać zapraszam na bloga! Na pewno znajdziesz tu coś dla siebie!</description>
     <link>/</link>
     <atom:link href="/pl/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 07 Jun 2021 12:45:33 +0100</pubDate>
-    <lastBuildDate>Mon, 07 Jun 2021 12:45:33 +0100</lastBuildDate>
+    <pubDate>Mon, 26 Jul 2021 13:18:08 +0100</pubDate>
+    <lastBuildDate>Mon, 26 Jul 2021 13:18:08 +0100</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Gorączka Ciboli</title>
+        <description>&lt;p&gt;“Gorączka Ciboli” to czwarta część serii “Ekspansja”. Gdy tylko otwarły się wrota do nowych układów gwiezdnych, pierwsi odważni śmiałkowie wyruszyli w nieznane by skolonizować obiecujące, nowo odkryte planety. Jedną z nich jest Ilus. Pasiarze jako pierwsi docierają na jej powierzchnię i od razu zaczynają budowę swojej kolonii. Pomimo, że warunki są podobne jak na Ziemi, to życie tam nie jest łatwe. Jednak dzięki bogatym złożom cennej rudy osadnicy są w stanie zarobić dość, by zapewnić sobie wszelkie niezbędne surowce, których na planecie brakuje. Problem pojawia się jednak wraz z przybyciem statku Ziemskiej korporacji, która nabyła legalnie wyłączność do eksploatacji planety...</description>
+        <pubDate>Mon, 26 Jul 2021 00:00:00 +0100</pubDate>
+        <link>/cibolaburn/</link>
+        <guid isPermaLink="true">/cibolaburn/</guid>
+        
+        <category>Gorączka Ciboli</category>
+        
+        <category>James S. A. Corey</category>
+        
+        <category>Ekspansja</category>
+        
+        
+        <category>recenzja</category>
+        
+      </item>
     
       <item>
         <title>Death's Kiss</title>
@@ -545,24 +563,6 @@
         <category>Garth Nix</category>
         
         <category>fantasy</category>
-        
-        
-        <category>recenzja</category>
-        
-      </item>
-    
-      <item>
-        <title>The City of Runes</title>
-        <description>&lt;p&gt;“The City of Runes”, debiutancka powieść Dagmary Drozdowskiej, to pełna przygód opowieść o poszukiwaniach zaginionego skarbu wikingów. Jako ciekawostkę dodam, że autorka została laureatką konkursu Pen to Print Book Challenge Competition. Opowieść przypadła do gustu jurorom na tyle, że nagrodzili Dagmarę wydaniem pełnej wersji powieści. Jest ot bardzo inspirująca historia sukcesu i jeśli jesteście ciekawi szczegółów, możecie bez wahania zagadać autorkę na jej mediach społecznościowych.&lt;/p&gt; &lt;p&gt;Dr Erika Skyberg jest zadowolona ze swojego dotychczasowego życia. Jest kuratorem w Muzeum Wikingów w Oslo i w środowisku zawodowym jest znana jako ekspert w swojej dziedzinie. Jedynym mankamentem jest jej absolutny brak szczęścia w...</description>
-        <pubDate>Tue, 20 Oct 2020 00:00:00 +0100</pubDate>
-        <link>/thecityofbones/</link>
-        <guid isPermaLink="true">/thecityofbones/</guid>
-        
-        <category>The City of Runes</category>
-        
-        <category>Dagmara Drozdowska</category>
-        
-        <category>mitologia nordycka</category>
         
         
         <category>recenzja</category>
