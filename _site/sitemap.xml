@@ -71,6 +71,10 @@
     
     
         <url>
+            <loc>/loak/</loc>
+        </url>
+  
+        <url>
             <loc>/cibolaburn/</loc>
         </url>
   

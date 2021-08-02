@@ -5,9 +5,29 @@
     <description>I'm Kamila and I love books! If you looking for book recommendations you can check out my blog and see what I'm reading!</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 26 Jul 2021 13:18:01 +0100</pubDate>
-    <lastBuildDate>Mon, 26 Jul 2021 13:18:01 +0100</lastBuildDate>
+    <pubDate>Mon, 02 Aug 2021 13:32:05 +0100</pubDate>
+    <lastBuildDate>Mon, 02 Aug 2021 13:32:05 +0100</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>The Look of a King</title>
+        <description>&lt;p&gt;“The Look of a King” by Tom Dumbrell is the first book in a medieval-inspired series “Pillars of Piece”. The story is based in an original world where four nations are occupying the main continent. They all live in peace since the treaty was signed eight years before, but unfortunately, harmony will not last much longer, and violence will once again spread through the land.&lt;/p&gt; &lt;p&gt;The tale follows two young men, Augustus, a pampered heir to the throne, who is a selfish prick, and Cyrus, an orphan living in the small village who love telling stories of bravery and chivalry....</description>
+        <pubDate>Mon, 02 Aug 2021 00:00:00 +0100</pubDate>
+        <link>/loak/</link>
+        <guid isPermaLink="true">/loak/</guid>
+        
+        <category>The Look of a King</category>
+        
+        <category>book review</category>
+        
+        <category>Tom Dumbrell</category>
+        
+        <category>Pillars of Peace</category>
+        
+        
+        <category>review</category>
+        
+      </item>
     
       <item>
         <title>Cibola Burn</title>
@@ -566,26 +586,6 @@
         
         
         <category>recenzja</category>
-        
-      </item>
-    
-      <item>
-        <title>The Left-Handed Booksellers of London</title>
-        <description>&lt;p&gt;“The Left-Handed Booksellers of London” by Garth Nix is a surprising adventure in a slightly alternative London in 1983. The Protagonist, Susan Arkshaw, is searching for her father, and following the small trail leading to one of London’s crime lords. Unfortunately, before she manages to ask him any question, he is turned to a pile of dust by a handsome young man named Merlin. From that moment, Susan discovers a whole new world that has always existed just under the nose of regular people.&lt;/p&gt; &lt;p&gt;From the very first chapters, the weird things keep popping up at you. I love how...</description>
-        <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
-        <link>/booksellers/</link>
-        <guid isPermaLink="true">/booksellers/</guid>
-        
-        <category>The Left-Handed Booksellers of London</category>
-        
-        <category>book review</category>
-        
-        <category>Garth Nix</category>
-        
-        <category>Gollancz</category>
-        
-        
-        <category>review</category>
         
       </item>
     
