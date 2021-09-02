@@ -5,9 +5,29 @@
     <description>I'm Kamila and I love books! If you looking for book recommendations you can check out my blog and see what I'm reading!</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 09 Aug 2021 14:08:42 +0100</pubDate>
-    <lastBuildDate>Mon, 09 Aug 2021 14:08:42 +0100</lastBuildDate>
+    <pubDate>Thu, 02 Sep 2021 12:55:17 +0100</pubDate>
+    <lastBuildDate>Thu, 02 Sep 2021 12:55:17 +0100</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Nemesis Games</title>
+        <description>&lt;p&gt;“Nemesis Games” is the fifth book in “The Expanse” series by James S. A. Corey. And what a book! I think it was one of my favourites so far.&lt;/p&gt; &lt;p&gt;First, we have chapters from the points of view of all Rocinante crew members, whom I adore, as they highlight the whole series. When they finally reach Tycho station after New Earth, poor Rocinante is wrecked, and the repairs will take good few months. Using the downtime, the crew decides to take care of their personal matters. Funnily enough, all at once, they leave poor Holden alone, setting off in different...</description>
+        <pubDate>Thu, 02 Sep 2021 00:00:00 +0100</pubDate>
+        <link>/nemesisgames/</link>
+        <guid isPermaLink="true">/nemesisgames/</guid>
+        
+        <category>Nemesis Games</category>
+        
+        <category>book review</category>
+        
+        <category>James S. A. Corey</category>
+        
+        <category>The Expanse</category>
+        
+        
+        <category>review</category>
+        
+      </item>
     
       <item>
         <title>Sundered Souls</title>
@@ -568,26 +588,6 @@
         
         
         <category>recenzja</category>
-        
-      </item>
-    
-      <item>
-        <title>Rhythm of War</title>
-        <description>&lt;p&gt;“Rhythm of War” is the fourth book in the most epic fantasy saga “The Stormlight Archive” by Brandon Sanderson. Thanks to Gollancz I’m the part of the UK Blog Tour, celebrating the release of this long-awaited book. I will share my impressions with you after reading the first part of the novel (there are five parts in total, around 1200 pages, so brace yourselves!).&lt;/p&gt; &lt;p&gt;I was waiting for “Rhythm of War” since I finished reading “Oathbringer” back in 2017, so I was beyond excited when the book finally landed in my hands! Like all the other books in the series,...</description>
-        <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
-        <link>/rhythmofwar/</link>
-        <guid isPermaLink="true">/rhythmofwar/</guid>
-        
-        <category>Rhythm of War</category>
-        
-        <category>book review</category>
-        
-        <category>The Stormlight Archive</category>
-        
-        <category>Gollancz</category>
-        
-        
-        <category>review</category>
         
       </item>
     
