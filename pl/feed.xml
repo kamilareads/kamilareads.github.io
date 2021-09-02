@@ -5,9 +5,27 @@
     <description>Mam na imię Kamila i kocham książki. Jeśli nie wiesz co czytać zapraszam na bloga! Na pewno znajdziesz tu coś dla siebie!</description>
     <link>/</link>
     <atom:link href="/pl/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 09 Aug 2021 14:08:49 +0100</pubDate>
-    <lastBuildDate>Mon, 09 Aug 2021 14:08:49 +0100</lastBuildDate>
+    <pubDate>Thu, 02 Sep 2021 12:55:25 +0100</pubDate>
+    <lastBuildDate>Thu, 02 Sep 2021 12:55:25 +0100</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Gry Nemezis</title>
+        <description>&lt;p&gt;“Gry Nemezis” to piąta część cyklu “Ekspansja” autorstwa Jamesa S. A. Corey. I cóż to za niesamowita odsłona - chyba moja ulubiona do tej pory!&lt;/p&gt; &lt;p&gt;Po pierwsze, wszystkie rozdziały są z perspektywy załogi Rosysnanta, których uwielbiam, gdyż są oni najlepszym elementem całej sagi. Gdy po perypetiach na Nowej Ziemi w końcu docierają na stację Tycho, biedny Rosynat jest wrakiem. Ponieważ naprawa statku będzie się ciągnąć miesiącami, bohaterowie postanawiają w międzyczasie uporządkować prywatne sprawy. Akurat tak zabawnie się składa, że wszyscy wpadają na ten pomysł równocześnie, w efekcie pozostawiając biednego Holdena samego. Jednak wkrótce ma miejsce jeden z najgorszych w historii...</description>
+        <pubDate>Thu, 02 Sep 2021 00:00:00 +0100</pubDate>
+        <link>/nemesisgames/</link>
+        <guid isPermaLink="true">/nemesisgames/</guid>
+        
+        <category>Gry Nemezis</category>
+        
+        <category>James S. A. Corey</category>
+        
+        <category>Ekspansja</category>
+        
+        
+        <category>recenzja</category>
+        
+      </item>
     
       <item>
         <title>Sundered Souls</title>
@@ -549,24 +567,6 @@
         <category>Marta Kisiel</category>
         
         <category>Cykl Wrocławski</category>
-        
-        
-        <category>recenzja</category>
-        
-      </item>
-    
-      <item>
-        <title>Rhythm of War</title>
-        <description>&lt;p&gt;“Rhythm of War” jest czwartą częścią epickiej sagi “Archiwum Burzowego Światła” Brandona Sandersona. Dzięki wydawnictwu Gollancz biorę udział w UK Blog Tour, mającej na celu celebrację premiery tej długo wyczekiwanej książki. Dlatego podzielę się z Wami moimi wrażeniami po przeczytaniu pierwszej części powieści (całość składa się z pięciu części, angielskie wydanie ma około 1200 stron, więc przygotujcie się na to!).&lt;/p&gt; &lt;p&gt;Na “Rhythm of War” czekałam odkąd skończyłam czytać “Dawcę Przysięgi” w 2017, czyli szmat czasu. Zrozumiałe jest więc, że jestem niezwykle podekscytowana, kiedy książka w końcu trafiła w moje ręce! Tak jak i poprzednie części cyklu, również tutaj w prologu...</description>
-        <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
-        <link>/rhythmofwar/</link>
-        <guid isPermaLink="true">/rhythmofwar/</guid>
-        
-        <category>Rhythm of War</category>
-        
-        <category>Brandon Sanderson</category>
-        
-        <category>Archiwum Burzowego Światła</category>
         
         
         <category>recenzja</category>
