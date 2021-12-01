@@ -5,9 +5,29 @@
     <description>I'm Kamila and I love books! If you looking for book recommendations you can check out my blog and see what I'm reading!</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 14 Sep 2021 11:18:48 +0100</pubDate>
-    <lastBuildDate>Tue, 14 Sep 2021 11:18:48 +0100</lastBuildDate>
+    <pubDate>Wed, 01 Dec 2021 12:59:53 +0000</pubDate>
+    <lastBuildDate>Wed, 01 Dec 2021 12:59:53 +0000</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Empire of the Vampire</title>
+        <description>&lt;p&gt;“Empire of the Vampire” by Jay Kristoff is the first book in the new series with the same title. The story is very dark and was meant to bring the image of vampires from the romanticised eternal creatures promoted by pop culture back to the bloodsucking monsters of legends from the olden days. And I say the author did a marvellous job.&lt;/p&gt; &lt;p&gt;At the very start of the book, we meet Gabriel de León, the last Silversaint of a holy brotherhood imprisoned by his mortal enemies – the vampires. He is forced to tell his own story to the empress...</description>
+        <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+        <link>/eotv/</link>
+        <guid isPermaLink="true">/eotv/</guid>
+        
+        <category>Empire of the Vampire</category>
+        
+        <category>book review</category>
+        
+        <category>Jay Kristoff</category>
+        
+        <category>dark fantasy</category>
+        
+        
+        <category>review</category>
+        
+      </item>
     
       <item>
         <title>A Vow so Bold and Deadly</title>
@@ -567,26 +587,6 @@
         <category>The Stormlight Archive</category>
         
         <category>Gollancz</category>
-        
-        
-        <category>review</category>
-        
-      </item>
-    
-      <item>
-        <title>Poison River Legend of the Five Rings A Daidoji Shin Mystery</title>
-        <description>&lt;p&gt;“Poison River: Legend of the Five Rings: A Daidoji Shin Mystery” by Joshua Reynolds is a novel from a fictional world created for a card game “Legend of the Five Rings” (L5R). It was the second novel from this universe that I’ve read, and although it had a different vibe than “Curse of Honor”, I enjoyed it as well.&lt;/p&gt; &lt;p&gt;This time we the author takes us to a very peculiar location – the City of the Rich Frog. It is unique because it doesn’t belong to any of the great clans exclusively. Three of them – Lion, Unicorn and Dragon...</description>
-        <pubDate>Sat, 19 Dec 2020 00:00:00 +0000</pubDate>
-        <link>/poisonriver/</link>
-        <guid isPermaLink="true">/poisonriver/</guid>
-        
-        <category>Poison River</category>
-        
-        <category>book review</category>
-        
-        <category>Legend of the Five Ring</category>
-        
-        <category>A Daidoji Shin Mystery</category>
         
         
         <category>review</category>
