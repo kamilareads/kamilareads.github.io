@@ -5,9 +5,29 @@
     <description>I'm Kamila and I love books! If you looking for book recommendations you can check out my blog and see what I'm reading!</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 01 Dec 2021 12:59:53 +0000</pubDate>
-    <lastBuildDate>Wed, 01 Dec 2021 12:59:53 +0000</lastBuildDate>
+    <pubDate>Thu, 09 Dec 2021 10:58:11 +0000</pubDate>
+    <lastBuildDate>Thu, 09 Dec 2021 10:58:11 +0000</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Cytonic</title>
+        <description>&lt;p&gt;“Cytonic” by Brandon Sanderson is the third book in YA Space Opera series “Skyward”. The review includes spoilers to the first two books, so if you haven’t read them yet, please skip it.&lt;/p&gt; &lt;p&gt;The book starts with an immediate tense scene, where Spensa is trying to escape from Superiority’s soldiers chasing her. But instead of hyperjump straight home to Detritus, she chooses to venture into the nowhere to learn more about the delvers to gain an advantage in the upcoming conflict. In short, once again, we get a whole new world to discover.&lt;/p&gt; &lt;p&gt;I missed Spensa and M-Bot’s banter. It’s...</description>
+        <pubDate>Thu, 09 Dec 2021 00:00:00 +0000</pubDate>
+        <link>/cytonic/</link>
+        <guid isPermaLink="true">/cytonic/</guid>
+        
+        <category>Cytonic</category>
+        
+        <category>book review</category>
+        
+        <category>Brandon Sanderson</category>
+        
+        <category>Skyward</category>
+        
+        
+        <category>review</category>
+        
+      </item>
     
       <item>
         <title>Empire of the Vampire</title>
@@ -570,26 +590,6 @@
         
         
         <category>recenzja</category>
-        
-      </item>
-    
-      <item>
-        <title>Rhythm of War - full review</title>
-        <description>&lt;p&gt;“Rhythm of War” is the fourth book in the “Stormlight Archive” series – an epic fantasy series by Brandon Sanderson. It was my most anticipated book to read this year and when I finally read it, I was not disappointed.&lt;/p&gt; &lt;p&gt;As I’ve already wrote in my initial review after reading first part of the book, the author is getting us right back to Roshar, serving us chapters full of action, daring pursuits, duels, and engineering wonders. After that, the action slows a bit, but the situation is getting far more serious and dangerous for all the characters.&lt;/p&gt; &lt;p&gt;In this book...</description>
-        <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-        <link>/rhythmofwar2/</link>
-        <guid isPermaLink="true">/rhythmofwar2/</guid>
-        
-        <category>Rhythm of War</category>
-        
-        <category>book review</category>
-        
-        <category>The Stormlight Archive</category>
-        
-        <category>Gollancz</category>
-        
-        
-        <category>review</category>
         
       </item>
     

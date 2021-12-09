@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Cytonic",
+      "tags"     : "Cytonic, book review, Brandon Sanderson, and Skyward",
+      "categories" : "review",
+      "url"      : "/cytonic/",
+      "date"     : "12/09/2021"
+    } ,
+  
+    {
       "title"    : "Empire of the Vampire",
       "tags"     : "Empire of the Vampire, book review, Jay Kristoff, and dark fantasy",
       "categories" : "review",
