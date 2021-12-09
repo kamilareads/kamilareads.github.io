@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Cytonic",
+      "tags"     : "Cytonic, book review, Brandon Sanderson, and Skyward",
+      "categories" : "review",
+      "url"      : "/cytonic/",
+      "date"     : "12/09/2021"
+    } ,
+  
+    {
       "title"    : "Wampirze Cesarstwo",
       "tags"     : "Wampirze Cesarstwo, Jay Kristoff, and Empire of the Vampire",
       "categories" : "recenzja",

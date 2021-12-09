@@ -71,6 +71,10 @@
     
     
         <url>
+            <loc>/cytonic/</loc>
+        </url>
+  
+        <url>
             <loc>/eotv/</loc>
         </url>
   
