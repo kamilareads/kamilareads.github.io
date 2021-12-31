@@ -5,9 +5,29 @@
     <description>Mam na imię Kamila i kocham książki. Jeśli nie wiesz co czytać zapraszam na bloga! Na pewno znajdziesz tu coś dla siebie!</description>
     <link>/</link>
     <atom:link href="/pl/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 09 Dec 2021 10:58:18 +0000</pubDate>
-    <lastBuildDate>Thu, 09 Dec 2021 10:58:18 +0000</lastBuildDate>
+    <pubDate>Fri, 31 Dec 2021 12:52:45 +0000</pubDate>
+    <lastBuildDate>Fri, 31 Dec 2021 12:52:45 +0000</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>A Town Called River</title>
+        <description>&lt;p&gt;“A Town Called River” by Igor Rendić is an urban fantasy novel with action set in Croatia and based on less popular Slavic mythology. It’s sort of The Witcher meeting friendly neighbourhood Spiderman in our modern world.&lt;/p&gt; &lt;p&gt;Paul is returning to Croatia after so many years that he hardly even speaks his native tongue. He wanted to wrap up everything quickly – listen to the testament of his late grandmother and deal with whatever she left behind – and then move on with his life. Unfortunately for him, Lena had particular plans for her favourite grandson. When Paul finally arrives...</description>
+        <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
+        <link>/atowncalledriver/</link>
+        <guid isPermaLink="true">/atowncalledriver/</guid>
+        
+        <category>A Town Called River</category>
+        
+        <category>book review</category>
+        
+        <category>Igor Rendić</category>
+        
+        <category>Urban Fantasy</category>
+        
+        
+        <category>review</category>
+        
+      </item>
     
       <item>
         <title>Cytonic</title>
@@ -551,24 +571,6 @@
         <category>Brandon Sanderson</category>
         
         <category>Alcatraz kontra bibliotekarze</category>
-        
-        
-        <category>recenzja</category>
-        
-      </item>
-    
-      <item>
-        <title>Cyberpunk Girls</title>
-        <description>&lt;p&gt;“Cyberpunk Girls” to zbiór opowiadań cyberpunkowych, które wyszły spod pióra polskich autorek. Ponieważ ja uwielbiam takie klimaty z radością sięgnęłam po tę pozycję.&lt;/p&gt; &lt;p&gt;Jest to książka idealna na nasze obecne czasy, w których większość z nas siedzi zamknięta w domach z obawy przed szalejącym wszędzie wirusem i próbuje jakoś zorganizować sobie życie bez zwyczajowej socjalizacji z innymi. Autorki prawdopodobnie wyszły od tej właśnie sytuacji i zadały to jakże istotne pytanie, co by było, gdyby? Gdyby wirus nigdy tak naprawdę nie został opanowany? Gdyby już nie było powrotu do dawnego stylu życia?&lt;/p&gt; &lt;p&gt;Każde z opowiadań jest wariacją na temat życia w...</description>
-        <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
-        <link>/cyberpunkgirls/</link>
-        <guid isPermaLink="true">/cyberpunkgirls/</guid>
-        
-        <category>Cyberpunk Girls</category>
-        
-        <category>Uroboros</category>
-        
-        <category>zbiór opowiadań</category>
         
         
         <category>recenzja</category>
