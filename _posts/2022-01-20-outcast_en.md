@@ -28,7 +28,7 @@ tags:
 
   Cole is not faring any better than Tanta. He is stuck under house arrest and working for the boss who hates him and gloats every time he gets a chance. It still doesn’t stop Cole from engaging in corporate espionage when the opportunity arises. That leads to the discovery that results in teaming up with Tanta again.
 
-  In "Outcast", the author is taking us outside of the city, to the wastelands and a distant corporate outpost with entirely different rules than the city. I enjoyed seeing more of the world and how the corporate exiles live outside of corporate grasp. 
+  In "Outcast", the author is taking us outside of the city, to the wastelands and a distant corporate outpost with entirely different rules than the city. I enjoyed seeing more of the world and how the corporate exiles live outside of corporate grasp.
 
   I enjoyed the ending immensely. It was unexpected but very satisfying, and the fact that characters must choose the lesser evil instead of good and bad ringed true. I’m excited to see how the story will go from there. If you enjoy dystopian sci-fi stories with cyberpunk flair, you should check out this series.
 
