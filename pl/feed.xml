@@ -5,9 +5,29 @@
     <description>Mam na imię Kamila i kocham książki. Jeśli nie wiesz co czytać zapraszam na bloga! Na pewno znajdziesz tu coś dla siebie!</description>
     <link>/</link>
     <atom:link href="/pl/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 20 Jan 2022 11:37:59 +0000</pubDate>
-    <lastBuildDate>Thu, 20 Jan 2022 11:37:59 +0000</lastBuildDate>
+    <pubDate>Fri, 18 Mar 2022 13:49:32 +0000</pubDate>
+    <lastBuildDate>Fri, 18 Mar 2022 13:49:32 +0000</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Seven Mercies</title>
+        <description>&lt;p&gt;“Seven Mercies” is the second and last book in the “Seven Devils” series by Laura Lam and Elizabeth May. I instantly liked the title and the connotation behind it.&lt;/p&gt; &lt;p&gt;When the book starts, the characters are in a pickle. After an explosive end of the first book, most of the Novantae resistance is in shambles, and Seven Devils must scramble for their lives and avoid Tholosians soldiers and bounty hunters. But even overwhelming odds could not thwart the rebels’ desire to fight against the tyranny and help people that the empire enslaved.&lt;/p&gt; &lt;p&gt;All seven characters have their point of view...</description>
+        <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
+        <link>/sevenmercies/</link>
+        <guid isPermaLink="true">/sevenmercies/</guid>
+        
+        <category>Seven Mercies</category>
+        
+        <category>book review</category>
+        
+        <category>Laura Lam, Elizabeth May</category>
+        
+        <category>Seven Devils</category>
+        
+        
+        <category>review</category>
+        
+      </item>
     
       <item>
         <title>Outcast</title>
@@ -557,24 +577,6 @@
         <category>Marta Kisiel</category>
         
         <category>W.A.B.</category>
-        
-        
-        <category>recenzja</category>
-        
-      </item>
-    
-      <item>
-        <title>Inscape</title>
-        <description>&lt;p&gt;“Inscape” autorstwa Louise Carey to jej pierwsza solowa powieść, osadzona w dystopijnym świecie w klimacie cyberpunk. Tanta jest niezwykle obiecującą rekrutką korporacji InTech i gdy w końcu otrzymuje swoją pierwszą misję jest przeszczęśliwa. Jednak to, co miało być prostym zadaniem odzyskania skradzionego dysku, kończy się katastrofą. Tanta, jako jedna z dwóch ocalałych agentów zostaje wciągnięta w skomplikowaną intrygę.&lt;/p&gt; &lt;p&gt;Autorka zabiera nas do świat przyszłości, gdzie niepodzielnie rządzą korporacje, które konkurują między sobą o wpływy. Technologia jest na tyle zaawansowany, że wszystkie pojazdy są automatami sterowanymi przez sztuczną inteligencję, a komputery w formie jaką znamy dziś są reliktem przeszłości. Większość ludzi...</description>
-        <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
-        <link>/inscape/</link>
-        <guid isPermaLink="true">/inscape/</guid>
-        
-        <category>Inscape</category>
-        
-        <category>Louise Carey</category>
-        
-        <category>cyberpunk</category>
         
         
         <category>recenzja</category>
