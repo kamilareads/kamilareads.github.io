@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Seven Mercies",
+      "tags"     : "Seven Mercies, book review, Laura Lam, Elizabeth May, and Seven Devils",
+      "categories" : "review",
+      "url"      : "/sevenmercies/",
+      "date"     : "03/18/2022"
+    } ,
+  
+    {
       "title"    : "Outcast",
       "tags"     : "outcast, book review, Louise Carey, and inscape",
       "categories" : "review",
