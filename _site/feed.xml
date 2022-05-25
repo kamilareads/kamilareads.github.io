@@ -5,9 +5,27 @@
     <description>I'm Kamila and I love books! If you looking for book recommendations you can check out my blog and see what I'm reading!</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 18 Mar 2022 13:49:24 +0000</pubDate>
-    <lastBuildDate>Fri, 18 Mar 2022 13:49:24 +0000</lastBuildDate>
+    <pubDate>Wed, 25 May 2022 12:05:10 +0100</pubDate>
+    <lastBuildDate>Wed, 25 May 2022 12:05:10 +0100</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Efekt Pandy</title>
+        <description>&lt;p&gt;“Efekt Pandy” autorstwa Marty Kisiel to kolejna część komedii kryminalnej “Dywan z Wkładką”. Po wielce emocjonujących morderczych intrygach Teresa Trawna miała powrócić do spokojnego, może nie bezstresowego, ale z pewnością beztrupowego życia. Ale czy na pewno? Okazuje się, że trup może się człowiekowi przytrafić nawet na relaksacyjnym wypadzie to SPA!&lt;/p&gt; &lt;p&gt;Po książki Marty Kisiel zawsze sięgam z przyjemnością, gdyż autorka ma poczucie humoru które idealnie trafia w mój gust i nigdy nie zawodzi. Tak też było przypadku “Efektu Pandy”. Już po skończeniu “Dywany z Wkładką” nie mogłam się doczekać kolejnej odsłony przygód Tereski, która jest moją bratnią duszą, przebojowej Miry...</description>
+        <pubDate>Wed, 25 May 2022 00:00:00 +0100</pubDate>
+        <link>/efektpandy/</link>
+        <guid isPermaLink="true">/efektpandy/</guid>
+        
+        <category>Efekt Pandy</category>
+        
+        <category>Marta Kisiel</category>
+        
+        <category>Tereska Trawna</category>
+        
+        
+        <category>recenzja</category>
+        
+      </item>
     
       <item>
         <title>Seven Mercies</title>
@@ -574,24 +592,6 @@
         
         
         <category>review</category>
-        
-      </item>
-    
-      <item>
-        <title>Dywan z wkładką</title>
-        <description>&lt;p&gt;“Dywan z wkładką” to komedia kryminalna autorstwa Marty Kisiel. Ałtorka przyzwyczaiła nas do książek pełnych elementów fantastycznych, więc najnowsze dzieło w zupełnie innej kategorii nieco mnie zdziwiło. Ale, będąc zagorzałą fanką jej twórczości, bez wahania sięgnęłam również po tę świeżutką powieść. I oczywiście się nie zawiodłam. Książka jest przede wszystkim pełna poczucia humoru i absurdu, które po prostu uwielbiam. Wielokrotnie podczas czytania chrumkałam pod nosem niekontrolowanym śmiechem.&lt;/p&gt; &lt;p&gt;Rodzina Trawnych bardzo szybko zyskuje sympatię, gdyż łatwo się z nimi utożsamiać. Ja osobiście w Teresce znalazłam bratnią duszę, z jej uzależnieniem od kasztanków i kawy (któż może ją winić?), awersji do wysiłku...</description>
-        <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
-        <link>/dywan/</link>
-        <guid isPermaLink="true">/dywan/</guid>
-        
-        <category>Dywan z wkladką</category>
-        
-        <category>Marta Kisiel</category>
-        
-        <category>W.A.B.</category>
-        
-        
-        <category>recenzja</category>
         
       </item>
     
