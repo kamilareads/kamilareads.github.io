@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Efekt Pandy",
+      "tags"     : "Efekt Pandy, Marta Kisiel, and Tereska Trawna",
+      "categories" : "recenzja",
+      "url"      : "/efektpandy/",
+      "date"     : "05/25/2022"
+    } ,
+  
+    {
       "title"    : "Seven Mercies",
       "tags"     : "Seven Mercies, book review, Laura Lam, Elizabeth May, and Seven Devils",
       "categories" : "review",
