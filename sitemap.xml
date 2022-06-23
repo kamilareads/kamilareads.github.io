@@ -71,6 +71,10 @@
     
     
         <url>
+            <loc>/horizon2/</loc>
+        </url>
+  
+        <url>
             <loc>/horizon1/</loc>
         </url>
   
