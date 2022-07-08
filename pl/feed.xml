@@ -5,9 +5,29 @@
     <description>Mam na imię Kamila i kocham książki. Jeśli nie wiesz co czytać zapraszam na bloga! Na pewno znajdziesz tu coś dla siebie!</description>
     <link>/</link>
     <atom:link href="/pl/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 23 Jun 2022 13:07:58 +0100</pubDate>
-    <lastBuildDate>Thu, 23 Jun 2022 13:07:58 +0100</lastBuildDate>
+    <pubDate>Fri, 08 Jul 2022 14:03:57 +0100</pubDate>
+    <lastBuildDate>Fri, 08 Jul 2022 14:03:57 +0100</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Shadowed by Moonlight</title>
+        <description>&lt;p&gt;“Shadowed by Moonlight” by Kryssa Stevenson is a fantasy novel based on Pacific Islands folklore. The first time I stumbled upon this story was on Wattpad, where I read a couple of chapters and was so enchanted with it that I reached out to the author immediately to tell her how awesome this book sounds. A couple of weeks later, I learned that Kryssa is working hard to self-publish her book. She contacted me to ask if I wanted to review the book’s ARC. I didn’t have to be asked twice!&lt;/p&gt; &lt;p&gt;What first caught my eye was the setting. I...</description>
+        <pubDate>Fri, 08 Jul 2022 00:00:00 +0100</pubDate>
+        <link>/shadowedbymoonlight/</link>
+        <guid isPermaLink="true">/shadowedbymoonlight/</guid>
+        
+        <category>Shadowed by Moonlight</category>
+        
+        <category>Kryssa Stevenson</category>
+        
+        <category>Pacific Islands</category>
+        
+        <category>Fantasy</category>
+        
+        
+        <category>review</category>
+        
+      </item>
     
       <item>
         <title>Horizon Zero Dawn Vol. 2 Liberation</title>
@@ -561,24 +581,6 @@
         <category>Zodiaki. Genokracja</category>
         
         <category>Magdalena Kucenty</category>
-        
-        <category>recenzja</category>
-        
-        
-        <category>recenzja</category>
-        
-      </item>
-    
-      <item>
-        <title>Wojna Makowa</title>
-        <description>&lt;p&gt;“Wojna Makowa” autorstwa R. F. Kuang to powieść fantasy oparta na wydarzeniach z historii Chin. Rin jest sierotą wojenną wychowaną przez rodzinę przemytników w biednej, rolniczej prowincji Koguta. Aby uciec od zaaranżowanego małżeństwa Rin postanawia spróbować swych sił na egzaminie Keju, który pozwala tym, którzy uzyskają odpowiednio wysoki rezultat, na dołączanie do wojskowych Akademii Imperium. Dzięki poświęcaniu i nadludzkiemu samozaparciu dziewczyna zyskuje szansę, która odmieni jej życie na zawsze.&lt;/p&gt; &lt;p&gt;“Wojna Makowa” to bardzo złożona historia. Zaczyna się dobrze znanym motywem biednej dziewczyny, która uczęszcza do elitarnej akademii, gdzie musi stawić czoła uprzedzeniom i raz po raz udowadniać swoją wartość. Nie...</description>
-        <pubDate>Fri, 12 Feb 2021 00:00:00 +0000</pubDate>
-        <link>/thepoppywar/</link>
-        <guid isPermaLink="true">/thepoppywar/</guid>
-        
-        <category>Wojna Makowa</category>
-        
-        <category>R. F. Kuang</category>
         
         <category>recenzja</category>
         
