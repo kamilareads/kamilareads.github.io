@@ -5,9 +5,27 @@
     <description>Mam na imię Kamila i kocham książki. Jeśli nie wiesz co czytać zapraszam na bloga! Na pewno znajdziesz tu coś dla siebie!</description>
     <link>/</link>
     <atom:link href="/pl/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 23 Sep 2022 13:40:44 +0100</pubDate>
-    <lastBuildDate>Fri, 23 Sep 2022 13:40:44 +0100</lastBuildDate>
+    <pubDate>Fri, 11 Nov 2022 23:33:43 +0000</pubDate>
+    <lastBuildDate>Fri, 11 Nov 2022 23:33:43 +0000</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Lost Gods</title>
+        <description>&lt;p&gt;“Lost Gods” by Tim Hardie is the third book in the epic Viking-inspired fantasy saga “The Brotherhood of the Eagle”. I had the pleasure of reading the previous two books, so I was very excited when the author asked if I was up to review the next instalment.&lt;/p&gt; &lt;p&gt;What I love about this series the most is the complex worldbuilding. The world is enormous, and there are so many clans and factions that it was hard to wrap your head around it initially. But once you get into it, it becomes fascinating. Sometimes in books, we see that the side...</description>
+        <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
+        <link>/lostgods/</link>
+        <guid isPermaLink="true">/lostgods/</guid>
+        
+        <category>Lost Gods</category>
+        
+        <category>Tim Hardie</category>
+        
+        <category>The Brotherhood of the Eagle</category>
+        
+        
+        <category>review</category>
+        
+      </item>
     
       <item>
         <title>To Chart The Clouds</title>
@@ -565,26 +583,6 @@
         <category>recenzja</category>
         
         <category>Ekspansja</category>
-        
-        
-        <category>recenzja</category>
-        
-      </item>
-    
-      <item>
-        <title>Wezwij Sokoła</title>
-        <description>&lt;p&gt;“Wezwij Sokoła” to pierwszy tom nowego cyklu “Śniący” autorstwa Maggie Stiefvater. Autorka znana jest przede wszystkim z serii o Kruczych Chłopcach i nowa książka jest poniekąd jej kontynuacją. Tym razem będziemy śledzić losy Ronana Lyncha i jego braci. Żeby sięgnąć po cykl “Śniący” nie jest konieczna znajomość poprzednich książek autorki, gdyż przeszłość Ronana jest tu wspomniana mimochodem, jednak dla fanów Kruczych Chłopców kolejne przygody jednego z bohaterów będą na pewno nie lada gratką.&lt;/p&gt; &lt;p&gt;“Wezwij Sokoła” skupia się głównie na śniących i ich mocach. Sam pomysł bardzo mi się podobał, Ronan jako całkiem nieźle wyszkolony śniący potrafi zmaterializować w rzeczywistym świecie...</description>
-        <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
-        <link>/wezwijsokola/</link>
-        <guid isPermaLink="true">/wezwijsokola/</guid>
-        
-        <category>Wezwij Sokoła</category>
-        
-        <category>Maggie Stiefvater</category>
-        
-        <category>recenzja</category>
-        
-        <category>Śniący</category>
         
         
         <category>recenzja</category>
