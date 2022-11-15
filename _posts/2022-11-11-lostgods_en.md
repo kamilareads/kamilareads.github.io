@@ -34,6 +34,7 @@ tags:
   But on the other hand, I think "Lost Gods" is the strongest of the series when it comes to political intrigues and strategizing against the enemies. There were so many plots going on that it was easy to get lost on who worked against whom. It was also great that all those secret alliances were opportunistic. Even though most clans were happy to go against the false king, what would happen afterwards will be very interesting to watch. Kudos to the author for designing such a massive net of interdependencies.
 
   "The Lost Gods" is a great book, and if you are a fan of political intrigues, epic wars, and classical fantasy themes, I’m sure you’ll love it. If you don’t know "The Brotherhood of the Eagle" series yet, read it now. It’s a fantastic story, and it’s clear how much love and hard work the author put into creating it. Go and check it out! You won’t regret it.
+  "The Lost Gods" is a great book, and if you are a fan of political intrigues, epic wars, and classical fantasy themes, I’m sure you’ll love it. If you don’t know "The Brotherhood of the Eagle" series yet, read it now. It’s a fantastic story, and it’s clear how much love and hard work the author put into creating it. Go and check it out! You won’t regret it.
 
 
   \*\*\*\*
