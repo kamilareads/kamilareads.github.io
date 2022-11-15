@@ -5,9 +5,27 @@
     <description>I'm Kamila and I love books! If you looking for book recommendations you can check out my blog and see what I'm reading!</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 12 Nov 2022 00:27:57 +0000</pubDate>
-    <lastBuildDate>Sat, 12 Nov 2022 00:27:57 +0000</lastBuildDate>
+    <pubDate>Tue, 15 Nov 2022 12:38:26 +0000</pubDate>
+    <lastBuildDate>Tue, 15 Nov 2022 12:38:26 +0000</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>The Lost Metal</title>
+        <description>&lt;p&gt;“The Lost Metal” is the fourth and the last book in The Mistborn Saga (Era Two) series by Brandon Sanderson. I don’t think the series needs any introduction for the fans, as if you haven’t read any of those books, I suggest you start at the beginning. That said, this review might have some minor spoilers for previous books (as it would be impossible to avoid them, as the world in Era Two is a direct consequence of the end of Era One). There will be no spoilers for “The Lost Metal”, so if you are up to date with...</description>
+        <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
+        <link>/thelostmetal/</link>
+        <guid isPermaLink="true">/thelostmetal/</guid>
+        
+        <category>The Lost Metal</category>
+        
+        <category>Brandon Sanderson</category>
+        
+        <category>The Mistborn Saga</category>
+        
+        
+        <category>review</category>
+        
+      </item>
     
       <item>
         <title>Lost Gods</title>
@@ -571,26 +589,6 @@
         <category>Tim Hardie</category>
         
         <category>The Brotherhood of the Eagle</category>
-        
-        
-        <category>review</category>
-        
-      </item>
-    
-      <item>
-        <title>Abaddon's Gate</title>
-        <description>&lt;p&gt;“Abaddon’s Gate” is the third book in “The Expanse” series. After the alien artefact builds the massive structure near Uranus, all the factions – Earth, Mars and the Asteroid Belt sent their envoys there, though no one is sure what to do with the strange Gate. Of course, Holden and his crew also find themselves on the way there. But the captain on the Rocinante doesn’t know yet, that someone is plotting to destroy him mercilessly.&lt;/p&gt; &lt;p&gt;For me, this book was not as good as the first two volumes. We have all new characters here: Melba, Bull and Anna, and...</description>
-        <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
-        <link>/abaddonsgate/</link>
-        <guid isPermaLink="true">/abaddonsgate/</guid>
-        
-        <category>Abaddon's Gate</category>
-        
-        <category>book review</category>
-        
-        <category>James S. A. Corey</category>
-        
-        <category>The Expanse</category>
         
         
         <category>review</category>
