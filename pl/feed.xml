@@ -5,9 +5,29 @@
     <description>Mam na imię Kamila i kocham książki. Jeśli nie wiesz co czytać zapraszam na bloga! Na pewno znajdziesz tu coś dla siebie!</description>
     <link>/</link>
     <atom:link href="/pl/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 15 Nov 2022 12:38:40 +0000</pubDate>
-    <lastBuildDate>Tue, 15 Nov 2022 12:38:40 +0000</lastBuildDate>
+    <pubDate>Sat, 10 Dec 2022 14:17:10 +0000</pubDate>
+    <lastBuildDate>Sat, 10 Dec 2022 14:17:10 +0000</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>The Flower Path</title>
+        <description>&lt;p&gt;“The Flower Path” is book three in “A Daidoji Shin Mystery” series by Josh Reynolds based in the universe of The Legend of the Five Rings. I’m always happy to dive into another adventure with Shin as a protagonist. He is such a fun and complex character to read that each story is a pleasure.&lt;/p&gt; &lt;p&gt;This time the author serves us a classic whodunit tale. The affair starts in Foxfire Theatre, which Shin acquired in the previous book, and the grand opening night is supposed to decide whether this venture would be successful. But the stakes become even higher when...</description>
+        <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+        <link>/theflowerpath/</link>
+        <guid isPermaLink="true">/theflowerpath/</guid>
+        
+        <category>The Flower Path</category>
+        
+        <category>Josh Reynolds</category>
+        
+        <category>Daidoji Shin mystery</category>
+        
+        <category>L5R</category>
+        
+        
+        <category>review</category>
+        
+      </item>
     
       <item>
         <title>The Lost Metal</title>
@@ -564,26 +584,6 @@
         
         
         <category>recenzja</category>
-        
-      </item>
-    
-      <item>
-        <title>Hall of Bones</title>
-        <description>&lt;p&gt;“Hall of Bones” by Tim Hardie is a debut epic fantasy novel and the first book in the series “The Brotherhood of the Eagle”. I received a copy of the text from the author in exchange for an honest review. I have to say I was a bit weary, as, with debut books, it’s often hit-or-miss. But I liked the synopsis and felt like reading some epic fantasy in a Viking setting, so I gave it a shot. And I have to say I was positively surprised. If I didn’t know any better, I would never guess it was the...</description>
-        <pubDate>Sun, 14 Mar 2021 00:00:00 +0000</pubDate>
-        <link>/hallofbones/</link>
-        <guid isPermaLink="true">/hallofbones/</guid>
-        
-        <category>Hall of Bones</category>
-        
-        <category>book review</category>
-        
-        <category>Tim Hardie</category>
-        
-        <category>The Brotherhood of the Eagle</category>
-        
-        
-        <category>review</category>
         
       </item>
     
