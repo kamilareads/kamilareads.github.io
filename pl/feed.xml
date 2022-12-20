@@ -5,9 +5,25 @@
     <description>Mam na imię Kamila i kocham książki. Jeśli nie wiesz co czytać zapraszam na bloga! Na pewno znajdziesz tu coś dla siebie!</description>
     <link>/</link>
     <atom:link href="/pl/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 16 Dec 2022 12:25:51 +0000</pubDate>
-    <lastBuildDate>Fri, 16 Dec 2022 12:25:51 +0000</lastBuildDate>
+    <pubDate>Tue, 20 Dec 2022 15:25:44 +0000</pubDate>
+    <lastBuildDate>Tue, 20 Dec 2022 15:25:44 +0000</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>The Invisible Life of Addie LaRue</title>
+        <description>&lt;p&gt;“The Invisible Life of Addie LaRue” is a fantasy novel by V. E. Schwab based on the Faustian bargain theme. Addie LaRue, desperate to escape forced marriage and to live her whole life in a tiny village, pleads for help to whatever god could help her. One of them answers and offers a deal, which she accepts without blinking an eye. But as it usually happens, it’s not precisely what Addie was hoping for. She escapes the life the village planned for her, but the price is that she will forever be forgotten by anyone she meets as soon as...</description>
+        <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
+        <link>/tiloal/</link>
+        <guid isPermaLink="true">/tiloal/</guid>
+        
+        <category>The Invisible Life of Addie LaRue</category>
+        
+        <category>V.E. Schwab</category>
+        
+        
+        <category>review</category>
+        
+      </item>
     
       <item>
         <title>Children of Virtue and Vengeance</title>
@@ -562,26 +578,6 @@
         
         
         <category>recenzja</category>
-        
-      </item>
-    
-      <item>
-        <title>The Scrivener’s Bones</title>
-        <description>&lt;p&gt;“The Scrivener’s Bones” is the second book in “Alcatraz vs the Evil Librarians” series by Brandon Sanderson. Those books were written with Middle Graders as the primary target, but I love them none the less. They are light, funny, and entertaining, so I like to read them when I want an instant pick-me-up.&lt;/p&gt; &lt;p&gt;In the second book, Alcatraz must follow Grandpa Smedry (who was late. Again) to a mysterious Library of Alexandria. It’s one of the most dangerous places in the world, as the librarians in charge are not the regular, ordinary mean people with guns we’ve met in the...</description>
-        <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
-        <link>/scrivenersbones/</link>
-        <guid isPermaLink="true">/scrivenersbones/</guid>
-        
-        <category>The Scrivener’s Bones</category>
-        
-        <category>book review</category>
-        
-        <category>Brandon Sanderson</category>
-        
-        <category>Alcatraz versus the Evil Librarians</category>
-        
-        
-        <category>review</category>
         
       </item>
     
