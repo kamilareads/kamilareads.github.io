@@ -71,6 +71,10 @@
     
     
         <url>
+            <loc>/tress/</loc>
+        </url>
+  
+        <url>
             <loc>/sinister/</loc>
         </url>
   
