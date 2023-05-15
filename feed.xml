@@ -5,9 +5,27 @@
     <description>I'm Kamila and I love books! If you looking for book recommendations you can check out my blog and see what I'm reading!</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 29 Mar 2023 21:13:16 +0100</pubDate>
-    <lastBuildDate>Wed, 29 Mar 2023 21:13:16 +0100</lastBuildDate>
+    <pubDate>Mon, 15 May 2023 21:10:09 +0100</pubDate>
+    <lastBuildDate>Mon, 15 May 2023 21:10:09 +0100</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Tress of the Emerald Sea</title>
+        <description>&lt;p&gt;“Tress of the Emerald Sea” by Brandon Sanderson is a standalone novel from the Cosmere universe. It’s a light-hearted story full of adventures, wonders, and profound truths about life. For those familiar with the author’s other works, the whole book is told in the voice of the well-known and loved world-hopping character.&lt;/p&gt; &lt;p&gt;Tress is a very ordinary girl who lives in a very peculiar (for us) world – on a small island that no one ever leaves, surrounded by a sea of verdant spores that could be very deadly. She is perfectly happy with her life; her main joy is...</description>
+        <pubDate>Mon, 15 May 2023 00:00:00 +0100</pubDate>
+        <link>/tress/</link>
+        <guid isPermaLink="true">/tress/</guid>
+        
+        <category>Tress of the Emerald Sea</category>
+        
+        <category>Brandon Sanderson</category>
+        
+        <category>Cosmere</category>
+        
+        
+        <category>review</category>
+        
+      </item>
     
       <item>
         <title>The Sinister Booksellers of Bath</title>
@@ -568,24 +586,6 @@
         
         
         <category>recenzja</category>
-        
-      </item>
-    
-      <item>
-        <title>Mirrorland</title>
-        <description>&lt;p&gt;“Mirrorland” by Carole Johnstone is a dark and twisty thriller. Cat lives in Los Angeles since she left her twin sister El over a decade ago, not making any attempts to contact her only family or mend the broken relationship. But when El disappears on her sailboat one day, Cat is forced to go back to Edinburgh and finally face her past.&lt;/p&gt; &lt;p&gt;When I first started reading “Mirrorland”, I didn’t think I would like it. For one-third of the book, not much is happening. The author beautifully describes the haunting house where Cat spent her childhood. The building is full...</description>
-        <pubDate>Mon, 05 Apr 2021 00:00:00 +0100</pubDate>
-        <link>/mirrorland/</link>
-        <guid isPermaLink="true">/mirrorland/</guid>
-        
-        <category>Mirrorland</category>
-        
-        <category>book review</category>
-        
-        <category>Carole Johnstone</category>
-        
-        
-        <category>review</category>
         
       </item>
     
