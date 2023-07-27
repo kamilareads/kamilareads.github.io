@@ -5,9 +5,27 @@
     <description>Mam na imię Kamila i kocham książki. Jeśli nie wiesz co czytać zapraszam na bloga! Na pewno znajdziesz tu coś dla siebie!</description>
     <link>/</link>
     <atom:link href="/pl/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 15 May 2023 21:10:17 +0100</pubDate>
-    <lastBuildDate>Mon, 15 May 2023 21:10:17 +0100</lastBuildDate>
+    <pubDate>Thu, 27 Jul 2023 19:41:38 +0100</pubDate>
+    <lastBuildDate>Thu, 27 Jul 2023 19:41:38 +0100</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>The Frugal Wizard’s Handbook for Surviving Medieval England</title>
+        <description>&lt;p&gt;“The Frugal Wizard’s Handbook for Surviving Medieval England”. That title is a handful, isn’t it? But it’s very fitting for the book. The second book of Brandon Sanderson’s secret project differs entirely from anything the author has written. First, it’s not set in Cosmere, and it’s a true stand-alone story. What’s also new is that the story mixes sci-fi and fantasy. I’ve seen varied opinions on social media regarding this book, where many o Sanderson’s die-hard fans were not overly impressed by it. So, is it worth the hype?&lt;/p&gt; &lt;p&gt;The book is narrated in first person PoV by an unlucky...</description>
+        <pubDate>Thu, 27 Jul 2023 00:00:00 +0100</pubDate>
+        <link>/frugalwizard/</link>
+        <guid isPermaLink="true">/frugalwizard/</guid>
+        
+        <category>The Frugal Wizard’s Handbook</category>
+        
+        <category>Brandon Sanderson</category>
+        
+        <category>Secret Project</category>
+        
+        
+        <category>review</category>
+        
+      </item>
     
       <item>
         <title>Tress of the Emerald Sea</title>
@@ -558,24 +576,6 @@
         
         
         <category>review</category>
-        
-      </item>
-    
-      <item>
-        <title>Architekci Czyściciele Materii</title>
-        <description>&lt;p&gt;“Architekci Czyściciele Materii” to psychodeliczny thriller/kryminał z elementami fantastyki autorstwa Kamila Hajduka. Już z opisu widać, że nie jest to książka sztampowa i łatwa do zaszufladkowania gatunkowo. Jest to drugi tom cyklu „Architekci”, jednak autor zapewnia, że znajomość pierwszego tomu nie jest warunkiem koniecznym.&lt;/p&gt; &lt;p&gt;Sam pomysł na wykreowanie świata bardzo mi się podobał. Mamy tutaj Warszawę w klimacie nieco apokaliptycznym – komunikacja miejska (metro) jest wyłączone z ruchu, metropolią wstrząsają trzęsienia ziemi i inne niewyjaśnione zjawiska a ulice świecą pustkami wzmagając poczucie grozy i niepewności. Otóż stolica stała się podwórkiem dla potężnego Architekta, Tadeusza, który gardząc zwykłymi ludźmi, postanowił przejąć...</description>
-        <pubDate>Wed, 07 Apr 2021 00:00:00 +0100</pubDate>
-        <link>/architekci/</link>
-        <guid isPermaLink="true">/architekci/</guid>
-        
-        <category>Architekci</category>
-        
-        <category>Kamil Hajduk</category>
-        
-        <category>Programistapogodzinach</category>
-        
-        
-        <category>recenzja</category>
         
       </item>
     
