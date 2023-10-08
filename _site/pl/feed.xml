@@ -5,9 +5,27 @@
     <description>Mam na imię Kamila i kocham książki. Jeśli nie wiesz co czytać zapraszam na bloga! Na pewno znajdziesz tu coś dla siebie!</description>
     <link>/</link>
     <atom:link href="/pl/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 17 Sep 2023 11:58:16 +0100</pubDate>
-    <lastBuildDate>Sun, 17 Sep 2023 11:58:16 +0100</lastBuildDate>
+    <pubDate>Sun, 08 Oct 2023 10:49:46 +0100</pubDate>
+    <lastBuildDate>Sun, 08 Oct 2023 10:49:46 +0100</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Vision</title>
+        <description>&lt;p&gt;“Vision” by Wrenna Stone combines urban and portal fantasy, mixing the real and alternative worlds. The protagonist, Eva, is the author of a fantasy novel series she created on the base of unprecedently vivid dreams she’s been having. The troubles start when the night visions stop, and suddenly, she’s finding herself anxious and unable to finish her story. But this will be the least of her worries because her sleepy little town gets plagued by bizarre and unsettling events that seem suspiciously similar to what happened in her made-up world.&lt;/p&gt; &lt;p&gt;Before we venture any further, a word of warning. “Vision”...</description>
+        <pubDate>Sun, 08 Oct 2023 00:00:00 +0100</pubDate>
+        <link>/vision/</link>
+        <guid isPermaLink="true">/vision/</guid>
+        
+        <category>Vision</category>
+        
+        <category>Wrenna Stone</category>
+        
+        <category>Keepers of Astraela</category>
+        
+        
+        <category>review</category>
+        
+      </item>
     
       <item>
         <title>The Heart of Iuchiban</title>
@@ -554,26 +572,6 @@
         
         
         <category>review</category>
-        
-      </item>
-    
-      <item>
-        <title>Ostrze</title>
-        <description>&lt;p&gt;“Ostrze” autorstwa Joe Abercrombie to pierwszy tom trylogii “Pierwsze Prawo”. Śledzimy tu losy trzech bohaterów: barbarzyńcy Logena Dziewięciopalcego, szlachcica Kapitana Jezala dan Luthara oraz Inkwizytora Glokty.&lt;/p&gt; &lt;p&gt;Najsilniejszym aspektem książki z pewnością są właśnie sami bohaterowie. Żadnego z nich nie powinniśmy lubić – niesławny wojownik, który pozostawia za sobą drogę usłaną trupami, szlachcic, który jest egoistycznym dupkiem, oraz bezwzględny oprawca, który nienawidzi wszystkich bez wyjątków. Jednak to nie jest wszystko, czym są. Autor świetnie kreuje swoje postacie, nadając im wiele warstw i sprawiając, że nie tylko z podekscytowaniem śledzimy ich historie, ale nawet trzymamy kciuki za ich powodzenie.&lt;/p&gt; &lt;p&gt;Książka, pomimo epickiej...</description>
-        <pubDate>Mon, 10 May 2021 00:00:00 +0100</pubDate>
-        <link>/thebladeitself/</link>
-        <guid isPermaLink="true">/thebladeitself/</guid>
-        
-        <category>Ostrze</category>
-        
-        <category>Carole Johnstone</category>
-        
-        <category>Joe Abercrombie</category>
-        
-        <category>Pierwsze Prawo</category>
-        
-        
-        <category>recenzja</category>
         
       </item>
     

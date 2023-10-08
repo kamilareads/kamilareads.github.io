@@ -71,6 +71,10 @@
     
     
         <url>
+            <loc>/vision/</loc>
+        </url>
+  
+        <url>
             <loc>/thoi/</loc>
         </url>
   
